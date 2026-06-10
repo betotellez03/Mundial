@@ -1,0 +1,4001 @@
+date,home_team,away_team,home_score,away_score,tournament,neutral
+2018-01-01,Netherlands,Ghana,5,0,Qualifier,0
+2018-01-01,Ecuador,Germany,2,1,Friendly,0
+2018-01-02,Senegal,Turkey,4,1,Friendly,0
+2018-01-03,Ivory Coast,Qatar,3,0,Friendly,0
+2018-01-03,Serbia,Denmark,3,2,Friendly,0
+2018-01-04,Senegal,Egypt,1,2,Qualifier,0
+2018-01-05,Panama,United States,0,2,Qualifier,0
+2018-01-06,Italy,Panama,2,0,Friendly,0
+2018-01-06,Iran,Uzbekistan,0,0,Friendly,0
+2018-01-07,Denmark,Italy,2,1,Friendly,1
+2018-01-08,Tunisia,Cameroon,0,1,Qualifier,0
+2018-01-09,Croatia,Paraguay,2,0,Friendly,0
+2018-01-09,Saudi Arabia,Brazil,0,4,Friendly,0
+2018-01-10,Italy,Nigeria,1,1,Qualifier,0
+2018-01-11,Switzerland,Ecuador,0,0,Qualifier,1
+2018-01-11,United States,Cameroon,3,0,Friendly,0
+2018-01-12,Poland,Qatar,2,1,Qualifier,1
+2018-01-13,Turkey,Panama,4,0,Qualifier,0
+2018-01-14,Spain,Turkey,3,1,Qualifier,0
+2018-01-14,DR Congo,Iraq,0,1,Friendly,0
+2018-01-15,Brazil,Canada,4,0,Qualifier,1
+2018-01-16,Canada,Japan,5,1,Qualifier,0
+2018-01-17,Colombia,Brazil,1,1,Friendly,0
+2018-01-17,Australia,Netherlands,0,2,Friendly,0
+2018-01-18,Uzbekistan,Serbia,0,0,Friendly,1
+2018-01-19,United States,France,0,3,Qualifier,0
+2018-01-19,Portugal,Ivory Coast,2,0,Qualifier,0
+2018-01-20,Italy,Serbia,2,1,Friendly,1
+2018-01-21,Ecuador,Ivory Coast,5,0,Qualifier,0
+2018-01-22,South Korea,Iraq,1,2,Friendly,0
+2018-01-22,Bolivia,Iraq,3,1,Qualifier,0
+2018-01-23,Brazil,Paraguay,4,0,Friendly,1
+2018-01-24,Canada,Spain,0,0,Qualifier,0
+2018-01-25,DR Congo,England,0,3,Friendly,0
+2018-01-25,Denmark,Austria,1,0,Qualifier,1
+2018-01-26,Costa Rica,Netherlands,0,1,Qualifier,0
+2018-01-27,New Zealand,Austria,2,0,Qualifier,0
+2018-01-28,Ghana,Uzbekistan,2,0,Friendly,0
+2018-01-28,Croatia,Ecuador,2,0,Qualifier,0
+2018-01-29,Denmark,DR Congo,4,1,Qualifier,0
+2018-01-30,Turkey,Portugal,0,2,Qualifier,1
+2018-01-30,Cameroon,Morocco,0,1,Qualifier,0
+2018-01-31,Jamaica,Colombia,2,1,Qualifier,1
+2018-02-01,Tunisia,Italy,1,3,Qualifier,0
+2018-02-02,Belgium,Ivory Coast,3,0,Friendly,0
+2018-02-02,Japan,Belgium,0,2,Qualifier,0
+2018-02-03,Costa Rica,Paraguay,4,2,Qualifier,1
+2018-02-04,Uruguay,Turkey,1,1,Friendly,0
+2018-02-05,Japan,Algeria,2,2,Qualifier,0
+2018-02-05,Nigeria,Turkey,1,3,Qualifier,1
+2018-02-06,New Zealand,Austria,1,2,Friendly,1
+2018-02-07,Italy,Japan,3,3,Qualifier,1
+2018-02-07,Switzerland,Paraguay,4,1,Friendly,0
+2018-02-08,Belgium,Canada,1,1,Qualifier,0
+2018-02-09,Germany,Colombia,2,2,Friendly,0
+2018-02-10,Canada,Netherlands,2,1,Qualifier,0
+2018-02-10,Bolivia,Australia,0,1,Qualifier,0
+2018-02-11,Belgium,Colombia,1,0,Qualifier,0
+2018-02-12,Spain,Saudi Arabia,7,1,Qualifier,0
+2018-02-13,Belgium,Spain,1,1,Friendly,0
+2018-02-13,Canada,Colombia,4,2,Qualifier,0
+2018-02-14,Portugal,New Zealand,3,0,Qualifier,1
+2018-02-15,United States,Brazil,2,3,Friendly,0
+2018-02-15,Iraq,Tunisia,0,0,Qualifier,0
+2018-02-16,Costa Rica,Iraq,1,1,Friendly,0
+2018-02-17,Spain,Japan,2,1,Friendly,0
+2018-02-18,Switzerland,United States,1,0,Qualifier,0
+2018-02-18,Panama,Costa Rica,2,1,Friendly,0
+2018-02-19,Serbia,United States,5,1,Friendly,0
+2018-02-20,Tunisia,New Zealand,2,0,Friendly,0
+2018-02-21,Paraguay,Nigeria,1,0,Qualifier,0
+2018-02-21,Poland,Cameroon,5,2,Qualifier,0
+2018-02-22,Senegal,Costa Rica,5,0,Friendly,0
+2018-02-23,Uzbekistan,Senegal,3,1,Qualifier,0
+2018-02-24,DR Congo,Tunisia,4,0,Qualifier,0
+2018-02-24,Qatar,Ukraine,0,1,Friendly,0
+2018-02-25,Ecuador,France,1,3,Qualifier,0
+2018-02-26,Mexico,Ghana,2,0,Qualifier,1
+2018-02-26,Egypt,Netherlands,3,1,Qualifier,0
+2018-02-27,Argentina,South Korea,4,0,Friendly,0
+2018-02-28,France,Costa Rica,6,1,Friendly,0
+2018-03-01,Paraguay,Poland,3,0,Friendly,1
+2018-03-01,South Korea,Argentina,1,4,Qualifier,0
+2018-03-02,Turkey,Ukraine,1,0,Qualifier,0
+2018-03-03,Tunisia,Mexico,0,1,Friendly,0
+2018-03-04,Panama,Ecuador,1,1,Friendly,0
+2018-03-04,Tunisia,England,0,1,Qualifier,1
+2018-03-05,Turkey,Nigeria,1,1,Friendly,0
+2018-03-06,Ghana,Canada,1,0,Qualifier,0
+2018-03-06,Argentina,Japan,2,0,Qualifier,1
+2018-03-07,England,Jamaica,1,0,Friendly,1
+2018-03-08,Italy,Algeria,2,1,Qualifier,0
+2018-03-09,Paraguay,Croatia,1,4,Qualifier,0
+2018-03-09,Tunisia,Costa Rica,1,1,Friendly,1
+2018-03-10,Argentina,Cameroon,6,0,Friendly,0
+2018-03-11,England,France,2,0,Qualifier,0
+2018-03-12,Uruguay,Italy,3,0,Qualifier,0
+2018-03-12,Australia,Argentina,1,3,Qualifier,0
+2018-03-13,Mexico,Colombia,4,1,Qualifier,0
+2018-03-14,Ecuador,Egypt,0,1,Qualifier,1
+2018-03-15,Uzbekistan,Argentina,0,6,Qualifier,0
+2018-03-15,Germany,Egypt,2,3,Friendly,0
+2018-03-16,Spain,Paraguay,5,0,Qualifier,0
+2018-03-17,Uzbekistan,Panama,1,1,Friendly,1
+2018-03-17,Nigeria,Poland,2,2,Friendly,1
+2018-03-18,Serbia,Bolivia,2,0,Qualifier,0
+2018-03-19,Egypt,United States,1,6,Friendly,0
+2018-03-20,Belgium,Denmark,0,2,Friendly,0
+2018-03-20,Croatia,Paraguay,3,0,Qualifier,0
+2018-03-21,England,Iran,3,0,Qualifier,1
+2018-03-22,Colombia,Senegal,2,1,Qualifier,0
+2018-03-23,Serbia,Paraguay,3,1,Qualifier,0
+2018-03-23,Ecuador,DR Congo,2,1,Qualifier,0
+2018-03-24,Croatia,Italy,0,0,Qualifier,0
+2018-03-25,Morocco,Saudi Arabia,2,3,Friendly,0
+2018-03-25,Nigeria,Paraguay,0,0,Qualifier,0
+2018-03-26,England,Tunisia,4,1,Friendly,0
+2018-03-27,DR Congo,Ghana,0,1,Qualifier,0
+2018-03-28,Colombia,Cameroon,4,0,Qualifier,0
+2018-03-28,Jamaica,Paraguay,4,1,Qualifier,0
+2018-03-29,Ivory Coast,Cameroon,4,1,Qualifier,0
+2018-03-30,Ukraine,Uruguay,0,3,Friendly,1
+2018-03-31,Iran,Turkey,1,2,Qualifier,0
+2018-03-31,Croatia,Ghana,2,0,Friendly,0
+2018-04-01,Senegal,Poland,3,0,Qualifier,0
+2018-04-02,Brazil,Serbia,5,0,Friendly,0
+2018-04-02,New Zealand,Qatar,4,1,Qualifier,0
+2018-04-03,Poland,Japan,2,2,Friendly,0
+2018-04-04,DR Congo,Paraguay,0,1,Friendly,0
+2018-04-05,Turkey,Japan,0,1,Qualifier,0
+2018-04-05,Morocco,Portugal,1,2,Qualifier,1
+2018-04-06,Croatia,Italy,2,4,Qualifier,0
+2018-04-07,New Zealand,Serbia,1,3,Qualifier,0
+2018-04-08,Uruguay,Paraguay,4,1,Friendly,0
+2018-04-08,Turkey,Portugal,0,2,Qualifier,0
+2018-04-09,Argentina,England,2,1,Friendly,0
+2018-04-10,Canada,Ivory Coast,3,0,Friendly,0
+2018-04-11,Japan,England,1,2,Qualifier,0
+2018-04-11,Ukraine,Egypt,0,0,Friendly,1
+2018-04-12,Uruguay,Iraq,3,1,Qualifier,0
+2018-04-13,Cameroon,Brazil,0,2,Qualifier,0
+2018-04-13,Spain,Netherlands,2,1,Qualifier,0
+2018-04-14,Portugal,Japan,3,1,Qualifier,0
+2018-04-15,Bolivia,France,0,3,Friendly,0
+2018-04-16,Netherlands,Ecuador,2,0,Friendly,0
+2018-04-16,Argentina,Germany,4,0,Friendly,0
+2018-04-17,Belgium,Colombia,4,1,Qualifier,0
+2018-04-18,Iran,Saudi Arabia,2,0,Qualifier,0
+2018-04-19,Ghana,Colombia,0,1,Friendly,0
+2018-04-19,Panama,Spain,0,5,Friendly,0
+2018-04-20,Panama,Iraq,2,0,Friendly,1
+2018-04-21,Qatar,Iraq,1,1,Qualifier,0
+2018-04-21,Poland,Paraguay,2,1,Friendly,0
+2018-04-22,Uzbekistan,Jamaica,0,2,Qualifier,0
+2018-04-23,United States,Austria,0,1,Qualifier,0
+2018-04-24,Paraguay,Iran,1,2,Qualifier,0
+2018-04-24,Ghana,South Korea,2,0,Qualifier,0
+2018-04-25,Germany,Austria,3,0,Friendly,0
+2018-04-26,Iran,Denmark,2,1,Qualifier,1
+2018-04-27,Turkey,Senegal,1,0,Qualifier,0
+2018-04-27,Denmark,Saudi Arabia,2,1,Qualifier,0
+2018-04-28,Austria,Italy,3,1,Qualifier,0
+2018-04-29,Bolivia,Uzbekistan,1,1,Qualifier,0
+2018-04-29,Saudi Arabia,Spain,0,4,Friendly,0
+2018-04-30,Portugal,Uzbekistan,3,0,Qualifier,0
+2018-05-01,Iraq,Canada,3,3,Qualifier,0
+2018-05-02,United States,Ivory Coast,1,0,Friendly,1
+2018-05-02,Paraguay,Panama,3,0,Friendly,0
+2018-05-03,Denmark,DR Congo,3,0,Friendly,1
+2018-05-04,Mexico,Croatia,3,4,Friendly,0
+2018-05-05,Croatia,Qatar,2,1,Friendly,0
+2018-05-05,Colombia,Paraguay,3,0,Qualifier,0
+2018-05-06,New Zealand,Mexico,2,2,Qualifier,0
+2018-05-07,United States,Cameroon,0,2,Qualifier,1
+2018-05-08,Ghana,Japan,2,2,Qualifier,0
+2018-05-08,Senegal,Qatar,4,0,Friendly,0
+2018-05-09,Italy,Argentina,3,0,Qualifier,1
+2018-05-10,Turkey,Switzerland,1,3,Friendly,0
+2018-05-10,Croatia,Ghana,1,0,Qualifier,1
+2018-05-11,Ecuador,Ukraine,5,0,Friendly,0
+2018-05-12,Argentina,Uruguay,2,0,Qualifier,0
+2018-05-13,South Korea,Austria,1,2,Qualifier,0
+2018-05-13,Morocco,Bolivia,4,0,Qualifier,0
+2018-05-14,South Korea,Paraguay,2,0,Qualifier,0
+2018-05-15,Tunisia,New Zealand,3,2,Qualifier,0
+2018-05-16,Egypt,Switzerland,1,1,Qualifier,0
+2018-05-16,Denmark,South Korea,1,1,Qualifier,0
+2018-05-17,Ecuador,Germany,0,2,Qualifier,0
+2018-05-18,Tunisia,Ghana,2,0,Qualifier,0
+2018-05-18,Australia,Tunisia,1,1,Friendly,0
+2018-05-19,Brazil,Croatia,1,0,Qualifier,0
+2018-05-20,Germany,Ivory Coast,4,1,Friendly,0
+2018-05-21,Switzerland,Italy,1,3,Friendly,0
+2018-05-21,Turkey,Germany,2,2,Friendly,0
+2018-05-22,Ghana,Ecuador,3,0,Qualifier,0
+2018-05-23,Switzerland,Netherlands,1,3,Qualifier,0
+2018-05-24,Ivory Coast,Uzbekistan,2,0,Qualifier,0
+2018-05-24,DR Congo,Mexico,2,1,Qualifier,0
+2018-05-25,Switzerland,Ghana,6,1,Qualifier,0
+2018-05-26,Netherlands,Ghana,6,1,Qualifier,1
+2018-05-27,Tunisia,Algeria,2,1,Qualifier,0
+2018-05-27,Paraguay,Denmark,1,0,Friendly,0
+2018-05-28,Australia,Cameroon,2,0,Friendly,0
+2018-05-29,Denmark,Paraguay,4,1,Qualifier,0
+2018-05-29,England,Argentina,0,4,Friendly,1
+2018-05-30,Germany,Panama,2,0,Qualifier,0
+2018-05-31,Ghana,Portugal,2,2,Qualifier,1
+2018-06-01,Morocco,Ecuador,1,0,Qualifier,0
+2018-06-01,Qatar,Nigeria,0,2,Qualifier,0
+2018-06-02,Belgium,Iran,2,1,Qualifier,1
+2018-06-03,Serbia,Algeria,1,1,Friendly,0
+2018-06-04,Serbia,Egypt,2,2,Qualifier,0
+2018-06-04,Algeria,Qatar,3,1,Qualifier,0
+2018-06-05,Costa Rica,United States,2,0,Friendly,1
+2018-06-06,Ecuador,Senegal,1,1,Qualifier,1
+2018-06-06,Tunisia,Colombia,0,3,Qualifier,0
+2018-06-07,Tunisia,Croatia,1,1,Friendly,0
+2018-06-08,Japan,Tunisia,5,1,Friendly,0
+2018-06-09,New Zealand,Austria,2,2,Qualifier,0
+2018-06-09,Colombia,Uzbekistan,3,0,Qualifier,0
+2018-06-10,Denmark,England,1,1,Qualifier,0
+2018-06-11,Nigeria,Ivory Coast,0,1,Qualifier,1
+2018-06-12,Morocco,Mexico,1,2,Friendly,0
+2018-06-12,Ecuador,Argentina,0,2,Qualifier,0
+2018-06-13,Iran,United States,1,0,Friendly,0
+2018-06-14,Poland,United States,0,1,Qualifier,0
+2018-06-14,DR Congo,Mexico,0,2,Friendly,0
+2018-06-15,Panama,Algeria,1,2,Qualifier,1
+2018-06-16,Poland,Qatar,0,4,Friendly,0
+2018-06-17,Qatar,England,1,1,Qualifier,1
+2018-06-17,Ivory Coast,Algeria,2,2,Friendly,0
+2018-06-18,Cameroon,Japan,2,3,Qualifier,0
+2018-06-19,Ukraine,Belgium,1,0,Qualifier,0
+2018-06-20,Poland,Nigeria,2,0,Qualifier,0
+2018-06-20,Iran,Poland,2,2,Friendly,0
+2018-06-21,Italy,Ecuador,1,0,Qualifier,0
+2018-06-22,Turkey,Ukraine,2,0,Friendly,0
+2018-06-23,Argentina,Spain,2,1,Friendly,0
+2018-06-23,Ivory Coast,Argentina,0,2,Qualifier,0
+2018-06-24,Saudi Arabia,Colombia,4,2,Friendly,0
+2018-06-25,France,Germany,2,2,Friendly,0
+2018-06-25,New Zealand,Paraguay,1,2,Qualifier,0
+2018-06-26,South Korea,Mexico,1,1,Qualifier,0
+2018-06-27,Denmark,Iran,1,0,Friendly,0
+2018-06-28,Paraguay,Germany,0,1,Qualifier,0
+2018-06-28,New Zealand,Egypt,2,2,Qualifier,1
+2018-06-29,Qatar,Austria,0,6,Friendly,0
+2018-06-30,Ivory Coast,Japan,0,1,Qualifier,0
+2018-07-01,Saudi Arabia,Belgium,0,1,Friendly,1
+2018-07-01,Ukraine,Spain,0,1,Friendly,1
+2018-07-02,Switzerland,Denmark,4,4,Qualifier,0
+2018-07-03,Tunisia,Ivory Coast,1,2,Qualifier,1
+2018-07-03,Egypt,Tunisia,2,0,Qualifier,1
+2018-07-04,Egypt,Ghana,1,0,Qualifier,0
+2018-07-05,Iran,Australia,2,0,Qualifier,1
+2018-07-06,Tunisia,Ecuador,1,1,Qualifier,0
+2018-07-06,United States,Uzbekistan,1,0,Qualifier,0
+2018-07-07,Serbia,Japan,1,2,Qualifier,0
+2018-07-08,France,Portugal,2,2,Friendly,0
+2018-07-09,Mexico,Argentina,0,1,Qualifier,0
+2018-07-09,South Korea,Poland,1,0,Qualifier,0
+2018-07-10,Argentina,Bolivia,6,0,Friendly,0
+2018-07-11,Senegal,South Korea,1,0,Friendly,0
+2018-07-11,Netherlands,Argentina,0,3,Friendly,0
+2018-07-12,Germany,Switzerland,2,1,Friendly,0
+2018-07-13,Ukraine,New Zealand,3,0,Qualifier,0
+2018-07-14,Bolivia,Ghana,1,3,Qualifier,0
+2018-07-14,Netherlands,Paraguay,2,0,Friendly,0
+2018-07-15,Egypt,Ivory Coast,1,1,Friendly,0
+2018-07-16,Colombia,Cameroon,1,2,Friendly,0
+2018-07-17,Spain,Nigeria,1,2,Qualifier,0
+2018-07-17,South Korea,Cameroon,2,3,Friendly,1
+2018-07-18,Argentina,Ivory Coast,4,0,Qualifier,1
+2018-07-19,Poland,Turkey,2,1,Qualifier,0
+2018-07-20,Japan,Poland,3,1,Friendly,1
+2018-07-20,Italy,Mexico,2,2,Friendly,1
+2018-07-21,Canada,Iran,2,1,Qualifier,1
+2018-07-22,Austria,Panama,0,0,Qualifier,0
+2018-07-22,Saudi Arabia,Nigeria,1,2,Friendly,0
+2018-07-23,South Korea,Ukraine,0,2,Qualifier,0
+2018-07-24,Austria,Netherlands,0,0,Qualifier,0
+2018-07-25,Ukraine,Croatia,1,2,Friendly,0
+2018-07-25,Switzerland,New Zealand,1,0,Qualifier,0
+2018-07-26,Ukraine,Algeria,2,1,Friendly,0
+2018-07-27,Canada,Nigeria,2,0,Friendly,0
+2018-07-28,Italy,Iraq,3,0,Qualifier,0
+2018-07-28,Portugal,Netherlands,4,0,Qualifier,0
+2018-07-29,Nigeria,England,1,2,Friendly,0
+2018-07-30,Serbia,United States,0,1,Qualifier,0
+2018-07-30,Costa Rica,Morocco,2,2,Friendly,0
+2018-07-31,Iraq,South Korea,0,1,Qualifier,0
+2018-08-01,Egypt,Uruguay,1,3,Friendly,1
+2018-08-02,Italy,Tunisia,3,0,Friendly,0
+2018-08-02,South Korea,Switzerland,2,2,Friendly,0
+2018-08-03,Saudi Arabia,Australia,1,2,Qualifier,0
+2018-08-04,Mexico,United States,1,3,Qualifier,0
+2018-08-05,Belgium,Iran,2,0,Qualifier,0
+2018-08-05,Argentina,Netherlands,4,3,Qualifier,0
+2018-08-06,Mexico,Algeria,3,0,Qualifier,0
+2018-08-07,New Zealand,France,0,4,Friendly,0
+2018-08-08,Costa Rica,Canada,2,1,Friendly,0
+2018-08-08,South Korea,United States,3,1,Friendly,1
+2018-08-09,Egypt,Paraguay,0,1,Qualifier,0
+2018-08-10,Uzbekistan,Croatia,2,1,Qualifier,1
+2018-08-10,Switzerland,Algeria,1,0,Qualifier,0
+2018-08-11,France,South Korea,3,1,Qualifier,0
+2018-08-12,Iraq,Costa Rica,2,0,Friendly,0
+2018-08-13,DR Congo,Colombia,1,4,Qualifier,1
+2018-08-13,Brazil,South Korea,6,0,Friendly,0
+2018-08-14,Nigeria,DR Congo,0,1,Qualifier,0
+2018-08-15,Ecuador,Germany,0,1,Qualifier,0
+2018-08-16,Paraguay,New Zealand,5,2,Qualifier,0
+2018-08-16,Portugal,Paraguay,2,0,Qualifier,0
+2018-08-17,New Zealand,Saudi Arabia,0,3,Qualifier,0
+2018-08-18,Poland,Morocco,1,2,Qualifier,0
+2018-08-18,Portugal,Paraguay,4,1,Qualifier,0
+2018-08-19,Mexico,Bolivia,4,1,Friendly,0
+2018-08-20,Qatar,Iran,1,4,Friendly,0
+2018-08-21,Uzbekistan,Ghana,1,1,Qualifier,0
+2018-08-21,Colombia,Austria,3,0,Friendly,0
+2018-08-22,Ghana,Japan,2,1,Friendly,0
+2018-08-23,Jamaica,Italy,0,3,Qualifier,1
+2018-08-24,Denmark,Tunisia,2,0,Friendly,0
+2018-08-24,Argentina,Spain,1,4,Qualifier,0
+2018-08-25,Ivory Coast,Qatar,1,1,Qualifier,0
+2018-08-26,Netherlands,Ukraine,1,1,Friendly,0
+2018-08-26,Netherlands,Japan,3,1,Qualifier,0
+2018-08-27,Italy,Austria,4,3,Qualifier,0
+2018-08-28,Canada,Nigeria,2,1,Friendly,0
+2018-08-29,Tunisia,Panama,1,0,Qualifier,0
+2018-08-29,Spain,Colombia,3,1,Qualifier,1
+2018-08-30,Spain,Australia,6,0,Qualifier,0
+2018-08-31,Nigeria,Ivory Coast,2,0,Qualifier,0
+2018-09-01,Costa Rica,Senegal,0,1,Friendly,1
+2018-09-01,Portugal,Tunisia,4,2,Qualifier,0
+2018-09-02,New Zealand,Brazil,0,1,Qualifier,1
+2018-09-03,Japan,Colombia,1,1,Friendly,0
+2018-09-04,Qatar,Costa Rica,1,1,Friendly,1
+2018-09-04,Netherlands,Switzerland,2,0,Qualifier,1
+2018-09-05,Algeria,Canada,0,2,Qualifier,1
+2018-09-06,Switzerland,Nigeria,1,2,Friendly,0
+2018-09-06,Uzbekistan,Uruguay,1,2,Qualifier,0
+2018-09-07,Nigeria,Croatia,0,0,Qualifier,1
+2018-09-08,Paraguay,Turkey,1,0,Qualifier,1
+2018-09-09,Jamaica,Croatia,1,2,Qualifier,0
+2018-09-09,Nigeria,Qatar,2,0,Friendly,0
+2018-09-10,Denmark,Japan,0,0,Qualifier,0
+2018-09-11,DR Congo,Canada,2,1,Qualifier,0
+2018-09-12,Switzerland,Argentina,0,4,Qualifier,0
+2018-09-12,Croatia,Qatar,3,0,Qualifier,1
+2018-09-13,Ukraine,Qatar,6,0,Qualifier,1
+2018-09-14,Ivory Coast,United States,0,1,Qualifier,0
+2018-09-14,Japan,Saudi Arabia,4,1,Qualifier,0
+2018-09-15,Bolivia,Poland,1,2,Friendly,0
+2018-09-16,Poland,Ukraine,2,2,Friendly,0
+2018-09-17,France,Jamaica,3,1,Qualifier,1
+2018-09-17,Colombia,South Korea,3,0,Friendly,0
+2018-09-18,Poland,Brazil,1,5,Qualifier,0
+2018-09-19,Austria,Ghana,1,1,Qualifier,0
+2018-09-20,Switzerland,South Korea,1,1,Friendly,0
+2018-09-20,Brazil,Serbia,3,0,Qualifier,0
+2018-09-21,Ecuador,Canada,4,0,Friendly,1
+2018-09-22,Egypt,Austria,2,1,Qualifier,0
+2018-09-22,Tunisia,Germany,2,0,Friendly,0
+2018-09-23,Ukraine,Morocco,1,4,Qualifier,1
+2018-09-24,Croatia,Spain,0,1,Qualifier,0
+2018-09-25,Senegal,Bolivia,3,0,Friendly,0
+2018-09-25,England,Croatia,1,0,Qualifier,0
+2018-09-26,Ecuador,Belgium,0,0,Qualifier,0
+2018-09-27,Australia,Panama,0,1,Friendly,1
+2018-09-28,Poland,England,0,0,Friendly,1
+2018-09-28,New Zealand,Paraguay,3,1,Friendly,0
+2018-09-29,Iran,England,0,2,Qualifier,0
+2018-09-30,Saudi Arabia,Portugal,0,1,Qualifier,0
+2018-10-01,Nigeria,Senegal,2,2,Qualifier,0
+2018-10-01,Tunisia,Algeria,1,0,Friendly,0
+2018-10-02,South Korea,Italy,0,0,Friendly,0
+2018-10-03,Italy,United States,3,0,Qualifier,0
+2018-10-03,Poland,Qatar,3,0,Friendly,1
+2018-10-04,Senegal,Saudi Arabia,3,1,Friendly,0
+2018-10-05,Portugal,Serbia,3,2,Qualifier,0
+2018-10-06,Germany,Ukraine,1,0,Friendly,1
+2018-10-06,Iraq,Paraguay,1,3,Friendly,0
+2018-10-07,Poland,Turkey,4,0,Qualifier,1
+2018-10-08,DR Congo,Ukraine,1,0,Friendly,0
+2018-10-09,Poland,Netherlands,1,1,Qualifier,0
+2018-10-09,Serbia,Italy,2,3,Friendly,1
+2018-10-10,Iraq,Senegal,0,1,Friendly,0
+2018-10-11,Costa Rica,Colombia,2,2,Qualifier,0
+2018-10-11,Senegal,Spain,0,1,Qualifier,0
+2018-10-12,Ecuador,Ukraine,1,0,Friendly,0
+2018-10-13,Serbia,Uzbekistan,5,1,Friendly,0
+2018-10-14,Serbia,France,2,3,Friendly,0
+2018-10-14,United States,Ecuador,0,0,Friendly,0
+2018-10-15,Serbia,Canada,1,0,Qualifier,1
+2018-10-16,Switzerland,South Korea,3,1,Friendly,1
+2018-10-17,Spain,Australia,5,0,Friendly,0
+2018-10-17,Serbia,South Korea,1,2,Qualifier,0
+2018-10-18,Mexico,Spain,0,2,Qualifier,0
+2018-10-19,Iran,Poland,3,0,Qualifier,0
+2018-10-20,Qatar,Iraq,1,2,Qualifier,0
+2018-10-20,Iran,Ecuador,0,2,Qualifier,0
+2018-10-21,Saudi Arabia,United States,2,1,Qualifier,1
+2018-10-22,Portugal,Ghana,5,0,Friendly,0
+2018-10-22,South Korea,Canada,0,0,Friendly,0
+2018-10-23,England,Algeria,5,1,Friendly,1
+2018-10-24,Jamaica,Panama,0,0,Friendly,0
+2018-10-25,Croatia,Ukraine,4,1,Friendly,0
+2018-10-25,Ghana,Morocco,1,3,Friendly,0
+2018-10-26,Qatar,Netherlands,1,3,Qualifier,0
+2018-10-27,Brazil,Costa Rica,12,0,Qualifier,1
+2018-10-28,Ecuador,Iraq,3,1,Qualifier,0
+2018-10-28,Panama,Iraq,3,2,Qualifier,0
+2018-10-29,France,Belgium,4,1,Qualifier,0
+2018-10-30,Japan,Belgium,1,0,Friendly,0
+2018-10-30,Uzbekistan,Brazil,0,0,Qualifier,1
+2018-10-31,Algeria,Morocco,0,1,Friendly,0
+2018-11-01,Ghana,Ivory Coast,1,1,Qualifier,0
+2018-11-02,Iran,Canada,3,1,Qualifier,0
+2018-11-02,Belgium,Croatia,3,0,Qualifier,0
+2018-11-03,South Korea,Tunisia,3,0,Qualifier,0
+2018-11-04,Jamaica,Bolivia,2,0,Qualifier,0
+2018-11-05,Morocco,Colombia,3,1,Qualifier,0
+2018-11-05,Algeria,Austria,0,0,Qualifier,0
+2018-11-06,Australia,Cameroon,1,0,Qualifier,0
+2018-11-07,Qatar,Paraguay,0,0,Friendly,1
+2018-11-07,Denmark,Austria,3,1,Friendly,0
+2018-11-08,Senegal,Turkey,2,2,Qualifier,0
+2018-11-09,Senegal,Australia,2,0,Qualifier,1
+2018-11-10,Germany,Panama,4,1,Friendly,0
+2018-11-10,Argentina,Turkey,3,0,Friendly,0
+2018-11-11,South Korea,Uruguay,0,2,Friendly,0
+2018-11-12,Australia,Bolivia,2,0,Friendly,0
+2018-11-13,Panama,Saudi Arabia,0,1,Qualifier,0
+2018-11-13,Australia,Egypt,1,1,Qualifier,0
+2018-11-14,Netherlands,Turkey,1,2,Friendly,0
+2018-11-15,Morocco,Netherlands,2,0,Friendly,0
+2018-11-16,Canada,Ivory Coast,1,1,Friendly,0
+2018-11-16,Austria,Nigeria,8,2,Qualifier,0
+2018-11-17,Croatia,Ecuador,4,3,Qualifier,1
+2018-11-18,Uzbekistan,Cameroon,2,0,Friendly,0
+2018-11-18,Austria,DR Congo,1,0,Qualifier,0
+2018-11-19,Panama,Switzerland,1,2,Friendly,0
+2018-11-20,Portugal,France,0,1,Friendly,0
+2018-11-21,England,Ghana,8,0,Qualifier,1
+2018-11-21,Ghana,DR Congo,1,2,Qualifier,0
+2018-11-22,Switzerland,Uzbekistan,2,0,Friendly,1
+2018-11-23,Italy,Netherlands,3,0,Friendly,0
+2018-11-24,Germany,Morocco,2,1,Qualifier,0
+2018-11-24,Portugal,Poland,0,0,Qualifier,0
+2018-11-25,Ecuador,Uzbekistan,5,1,Friendly,0
+2018-11-26,Turkey,DR Congo,3,0,Friendly,0
+2018-11-26,Algeria,Nigeria,2,2,Qualifier,0
+2018-11-27,Spain,Brazil,1,0,Qualifier,0
+2018-11-28,Qatar,Brazil,1,3,Qualifier,1
+2018-11-29,Uruguay,Australia,3,0,Qualifier,0
+2018-11-29,Italy,Brazil,0,0,Qualifier,0
+2018-11-30,New Zealand,Switzerland,1,4,Qualifier,1
+2018-12-01,New Zealand,Panama,1,0,Qualifier,0
+2018-12-02,Japan,Cameroon,3,0,Friendly,1
+2018-12-02,Cameroon,DR Congo,2,2,Qualifier,0
+2018-12-03,Spain,Algeria,4,0,Qualifier,0
+2018-12-04,Bolivia,Denmark,0,2,Qualifier,0
+2018-12-04,Netherlands,Iran,4,0,Friendly,0
+2018-12-05,Egypt,Turkey,0,0,Friendly,1
+2018-12-06,United States,Serbia,0,1,Friendly,0
+2018-12-07,Poland,Iran,3,3,Friendly,0
+2018-12-07,Canada,Colombia,1,1,Qualifier,1
+2018-12-08,Ecuador,Germany,1,1,Friendly,0
+2018-12-09,Saudi Arabia,Italy,0,2,Qualifier,0
+2018-12-10,Austria,Switzerland,0,0,Qualifier,0
+2018-12-10,Brazil,Bolivia,4,0,Friendly,0
+2018-12-11,Argentina,Algeria,5,0,Friendly,1
+2018-12-12,Germany,Austria,1,1,Qualifier,0
+2018-12-13,Senegal,Ukraine,0,1,Friendly,0
+2018-12-13,Paraguay,Ecuador,4,2,Qualifier,0
+2018-12-14,Belgium,DR Congo,4,1,Qualifier,0
+2018-12-15,Canada,Uruguay,0,1,Qualifier,0
+2018-12-15,Nigeria,Germany,2,2,Qualifier,0
+2018-12-16,Canada,Ivory Coast,1,0,Qualifier,0
+2018-12-17,Cameroon,Algeria,0,1,Qualifier,1
+2018-12-18,Netherlands,Australia,3,0,Friendly,0
+2018-12-18,Ivory Coast,Turkey,3,0,Friendly,1
+2018-12-19,Poland,Ivory Coast,2,0,Qualifier,0
+2018-12-20,Serbia,Nigeria,2,0,Qualifier,1
+2018-12-21,Australia,Uzbekistan,4,1,Qualifier,0
+2018-12-21,Jamaica,Iran,0,4,Qualifier,1
+2018-12-22,Iran,Spain,1,4,Qualifier,1
+2018-12-23,Mexico,Belgium,2,1,Friendly,0
+2018-12-23,Ecuador,Iran,0,1,Qualifier,0
+2018-12-24,Canada,United States,2,1,Qualifier,0
+2018-12-25,Ecuador,Egypt,2,1,Friendly,0
+2018-12-26,Uruguay,Canada,5,2,Qualifier,0
+2018-12-26,Ghana,Paraguay,4,0,Friendly,0
+2018-12-27,Portugal,Austria,3,0,Qualifier,1
+2018-12-28,Australia,Cameroon,1,0,Qualifier,0
+2018-12-29,Portugal,Germany,0,1,Qualifier,1
+2018-12-29,Tunisia,Saudi Arabia,0,1,Qualifier,0
+2018-12-30,Uzbekistan,Switzerland,0,0,Friendly,1
+2018-12-31,Japan,Nigeria,2,1,Qualifier,1
+2019-01-01,Ivory Coast,Bolivia,0,0,Friendly,0
+2019-01-01,Tunisia,Bolivia,5,0,Qualifier,1
+2019-01-02,Iraq,Switzerland,0,0,Friendly,0
+2019-01-03,Ghana,France,0,0,Qualifier,0
+2019-01-03,Saudi Arabia,Turkey,1,3,Qualifier,0
+2019-01-04,Iraq,Spain,1,3,Qualifier,0
+2019-01-05,Australia,Turkey,0,1,Friendly,0
+2019-01-06,Qatar,Nigeria,1,2,Friendly,1
+2019-01-06,Ivory Coast,Jamaica,3,1,Qualifier,0
+2019-01-07,Serbia,DR Congo,0,0,Qualifier,0
+2019-01-08,Iraq,Tunisia,2,1,Qualifier,0
+2019-01-09,Morocco,Japan,4,0,Friendly,0
+2019-01-09,England,Serbia,4,0,Qualifier,1
+2019-01-10,Ukraine,Cameroon,0,2,Friendly,0
+2019-01-11,Cameroon,United States,2,2,Qualifier,0
+2019-01-11,Portugal,Austria,5,0,Qualifier,1
+2019-01-12,South Korea,Uzbekistan,1,1,Qualifier,0
+2019-01-13,Australia,Ivory Coast,1,1,Qualifier,1
+2019-01-14,Saudi Arabia,Cameroon,1,0,Qualifier,0
+2019-01-14,Spain,Mexico,2,0,Friendly,0
+2019-01-15,Mexico,Ukraine,1,0,Qualifier,1
+2019-01-16,Senegal,Iran,2,0,Qualifier,0
+2019-01-17,Qatar,Canada,1,1,Qualifier,1
+2019-01-17,Senegal,Brazil,2,0,Qualifier,0
+2019-01-18,Senegal,Germany,0,1,Friendly,1
+2019-01-19,Italy,Jamaica,1,2,Qualifier,0
+2019-01-19,Japan,Ghana,1,0,Friendly,0
+2019-01-20,Austria,Nigeria,0,1,Qualifier,0
+2019-01-21,France,Cameroon,5,0,Friendly,0
+2019-01-22,Argentina,Egypt,4,0,Qualifier,0
+2019-01-22,Ivory Coast,Japan,1,1,Friendly,1
+2019-01-23,Saudi Arabia,Uzbekistan,5,1,Qualifier,1
+2019-01-24,Ivory Coast,Turkey,3,0,Friendly,0
+2019-01-25,Spain,Canada,2,0,Qualifier,0
+2019-01-25,Italy,France,1,1,Qualifier,0
+2019-01-26,Uruguay,South Korea,1,0,Qualifier,0
+2019-01-27,Morocco,Tunisia,1,2,Qualifier,0
+2019-01-28,Austria,Uzbekistan,3,1,Qualifier,1
+2019-01-28,Egypt,France,0,1,Friendly,0
+2019-01-29,Nigeria,Iran,1,1,Qualifier,0
+2019-01-30,Portugal,Denmark,0,1,Qualifier,0
+2019-01-30,Nigeria,Mexico,0,2,Friendly,0
+2019-01-31,Netherlands,Croatia,1,1,Friendly,0
+2019-02-01,Japan,Egypt,2,1,Qualifier,1
+2019-02-02,Spain,Ghana,4,0,Qualifier,0
+2019-02-02,Egypt,Nigeria,5,2,Qualifier,0
+2019-02-03,New Zealand,Senegal,1,2,Qualifier,0
+2019-02-04,Ecuador,Senegal,2,0,Friendly,0
+2019-02-05,Costa Rica,Paraguay,0,3,Qualifier,0
+2019-02-05,South Korea,Mexico,1,0,Qualifier,0
+2019-02-06,Canada,Turkey,0,0,Qualifier,1
+2019-02-07,New Zealand,Senegal,0,0,Qualifier,1
+2019-02-07,Argentina,Turkey,4,1,Friendly,0
+2019-02-08,Uzbekistan,Ghana,1,1,Qualifier,0
+2019-02-09,Paraguay,Colombia,1,3,Friendly,0
+2019-02-10,New Zealand,Portugal,0,2,Friendly,1
+2019-02-10,Ghana,South Korea,0,3,Friendly,0
+2019-02-11,Qatar,Ecuador,2,3,Qualifier,0
+2019-02-12,Austria,Canada,3,0,Friendly,1
+2019-02-13,Panama,Ecuador,1,1,Qualifier,0
+2019-02-13,Mexico,Tunisia,1,1,Qualifier,0
+2019-02-14,Ivory Coast,Switzerland,1,1,Friendly,0
+2019-02-15,Colombia,Tunisia,4,1,Friendly,0
+2019-02-15,Jamaica,Poland,0,2,Friendly,0
+2019-02-16,Morocco,Panama,1,0,Friendly,0
+2019-02-17,Iran,Japan,3,2,Qualifier,0
+2019-02-18,Croatia,Paraguay,3,1,Friendly,0
+2019-02-18,Iraq,Ukraine,0,1,Friendly,0
+2019-02-19,Canada,Poland,4,1,Qualifier,0
+2019-02-20,Japan,Uzbekistan,3,0,Qualifier,0
+2019-02-21,Costa Rica,Tunisia,0,0,Qualifier,0
+2019-02-21,Ecuador,Uzbekistan,3,0,Qualifier,0
+2019-02-22,Uruguay,Iraq,0,0,Qualifier,0
+2019-02-23,Ecuador,Saudi Arabia,4,0,Friendly,0
+2019-02-24,Colombia,Australia,1,1,Friendly,0
+2019-02-24,Japan,Ghana,3,0,Qualifier,1
+2019-02-25,Uruguay,Ukraine,2,1,Qualifier,0
+2019-02-26,Serbia,Poland,0,2,Friendly,0
+2019-02-26,Mexico,Ghana,3,0,Friendly,0
+2019-02-27,South Korea,Qatar,2,1,Qualifier,0
+2019-02-28,Nigeria,Panama,1,1,Friendly,0
+2019-03-01,Uruguay,Italy,0,1,Qualifier,0
+2019-03-01,Turkey,Uzbekistan,3,0,Qualifier,0
+2019-03-02,Cameroon,Ecuador,1,4,Qualifier,0
+2019-03-03,Belgium,Ghana,6,0,Friendly,1
+2019-03-04,Cameroon,Paraguay,2,0,Qualifier,0
+2019-03-04,Brazil,Turkey,4,0,Qualifier,0
+2019-03-05,Canada,Ivory Coast,1,2,Qualifier,0
+2019-03-06,Bolivia,Ghana,1,1,Qualifier,0
+2019-03-06,Iraq,Senegal,1,2,Friendly,0
+2019-03-07,Austria,Costa Rica,0,0,Friendly,1
+2019-03-08,Austria,Morocco,1,1,Qualifier,0
+2019-03-09,England,Bolivia,5,0,Friendly,0
+2019-03-09,Costa Rica,Switzerland,1,0,Qualifier,0
+2019-03-10,United States,Brazil,0,1,Friendly,0
+2019-03-11,Argentina,Panama,3,0,Qualifier,0
+2019-03-12,Japan,Algeria,1,0,Qualifier,1
+2019-03-12,Portugal,Uruguay,3,4,Qualifier,0
+2019-03-13,Ecuador,Serbia,0,0,Qualifier,1
+2019-03-14,Panama,Ghana,1,1,Qualifier,0
+2019-03-15,Austria,Italy,1,0,Qualifier,0
+2019-03-15,Croatia,DR Congo,2,0,Qualifier,1
+2019-03-16,Canada,Japan,2,0,Friendly,1
+2019-03-17,Saudi Arabia,Ukraine,0,3,Friendly,0
+2019-03-17,Poland,Brazil,1,2,Friendly,0
+2019-03-18,Argentina,Saudi Arabia,3,1,Qualifier,0
+2019-03-19,Ivory Coast,Qatar,2,0,Qualifier,0
+2019-03-20,Turkey,France,3,1,Qualifier,0
+2019-03-20,Denmark,Paraguay,3,1,Qualifier,1
+2019-03-21,Croatia,Spain,2,2,Qualifier,0
+2019-03-22,Ghana,Costa Rica,1,2,Friendly,0
+2019-03-23,Serbia,Spain,2,0,Friendly,0
+2019-03-23,Morocco,Algeria,2,2,Qualifier,0
+2019-03-24,Costa Rica,England,0,2,Friendly,0
+2019-03-25,Jamaica,Mexico,0,2,Qualifier,0
+2019-03-25,Paraguay,Poland,2,1,Qualifier,0
+2019-03-26,Qatar,England,0,1,Qualifier,0
+2019-03-27,Germany,Paraguay,1,1,Qualifier,1
+2019-03-28,Canada,Cameroon,3,3,Friendly,0
+2019-03-28,Australia,Denmark,0,0,Friendly,0
+2019-03-29,Brazil,Germany,0,1,Friendly,0
+2019-03-30,South Korea,France,2,1,Friendly,0
+2019-03-31,Qatar,Netherlands,0,1,Qualifier,0
+2019-03-31,Belgium,Portugal,1,0,Qualifier,0
+2019-04-01,Colombia,Switzerland,2,0,Qualifier,0
+2019-04-02,Turkey,Colombia,1,0,Qualifier,0
+2019-04-02,Mexico,England,0,2,Friendly,0
+2019-04-03,Switzerland,Paraguay,3,0,Qualifier,0
+2019-04-04,Uruguay,Croatia,1,0,Qualifier,0
+2019-04-05,Italy,South Korea,7,0,Qualifier,0
+2019-04-05,Serbia,Poland,1,0,Qualifier,0
+2019-04-06,South Korea,Uzbekistan,4,1,Qualifier,0
+2019-04-07,Poland,Ukraine,3,0,Qualifier,0
+2019-04-08,Jamaica,Netherlands,0,2,Friendly,0
+2019-04-08,Argentina,Nigeria,2,0,Friendly,0
+2019-04-09,Uruguay,Iran,0,0,Friendly,0
+2019-04-10,Austria,Qatar,3,0,Friendly,0
+2019-04-11,Algeria,Panama,0,2,Friendly,0
+2019-04-11,Ecuador,Serbia,2,0,Friendly,0
+2019-04-12,Poland,Colombia,4,1,Qualifier,0
+2019-04-13,Spain,Portugal,6,0,Qualifier,1
+2019-04-13,Italy,Jamaica,4,1,Qualifier,0
+2019-04-14,Switzerland,Qatar,1,0,Qualifier,0
+2019-04-15,Austria,Denmark,2,1,Friendly,0
+2019-04-16,Algeria,Brazil,1,1,Qualifier,0
+2019-04-16,Mexico,Spain,0,2,Qualifier,0
+2019-04-17,Panama,Switzerland,1,1,Friendly,0
+2019-04-18,New Zealand,Cameroon,1,6,Qualifier,0
+2019-04-19,Ecuador,Poland,0,1,Qualifier,1
+2019-04-19,Portugal,Cameroon,6,0,Qualifier,1
+2019-04-20,Spain,Panama,5,0,Qualifier,1
+2019-04-21,Senegal,Portugal,0,1,Friendly,0
+2019-04-21,Spain,Ivory Coast,4,0,Friendly,0
+2019-04-22,Qatar,Canada,1,0,Friendly,0
+2019-04-23,Australia,Spain,1,2,Qualifier,0
+2019-04-24,Iran,Australia,3,0,Friendly,1
+2019-04-24,Morocco,Mexico,3,0,Qualifier,0
+2019-04-25,Paraguay,Belgium,1,1,Qualifier,1
+2019-04-26,Switzerland,Bolivia,3,1,Qualifier,0
+2019-04-27,New Zealand,Italy,2,5,Qualifier,0
+2019-04-27,France,Cameroon,6,1,Friendly,1
+2019-04-28,Serbia,Iraq,3,0,Qualifier,1
+2019-04-29,Qatar,Ukraine,0,0,Qualifier,0
+2019-04-29,Brazil,Morocco,1,1,Friendly,0
+2019-04-30,Argentina,South Korea,6,0,Qualifier,0
+2019-05-01,Serbia,Paraguay,2,1,Qualifier,0
+2019-05-02,Panama,France,2,3,Qualifier,0
+2019-05-02,Costa Rica,Canada,1,1,Qualifier,1
+2019-05-03,Paraguay,Cameroon,2,2,Friendly,0
+2019-05-04,New Zealand,Turkey,2,3,Friendly,0
+2019-05-05,Colombia,Belgium,0,1,Qualifier,0
+2019-05-05,Cameroon,Germany,0,0,Qualifier,0
+2019-05-06,Uruguay,England,0,1,Qualifier,1
+2019-05-07,Morocco,New Zealand,4,2,Qualifier,0
+2019-05-08,France,Mexico,1,1,Qualifier,0
+2019-05-08,Mexico,Algeria,3,2,Qualifier,0
+2019-05-09,Uruguay,Brazil,1,1,Friendly,1
+2019-05-10,Senegal,Iran,3,2,Friendly,1
+2019-05-10,Panama,Saudi Arabia,0,1,Friendly,0
+2019-05-11,Iran,Egypt,3,2,Qualifier,0
+2019-05-12,Netherlands,Senegal,2,0,Qualifier,1
+2019-05-13,Poland,Switzerland,4,1,Friendly,0
+2019-05-13,Italy,Nigeria,3,1,Qualifier,0
+2019-05-14,Australia,South Korea,2,0,Qualifier,0
+2019-05-15,Uzbekistan,England,0,2,Qualifier,1
+2019-05-16,Ivory Coast,Argentina,0,3,Qualifier,0
+2019-05-16,Ivory Coast,Spain,0,0,Friendly,0
+2019-05-17,Saudi Arabia,Croatia,0,1,Friendly,0
+2019-05-18,Costa Rica,Egypt,0,4,Qualifier,0
+2019-05-18,Cameroon,Uzbekistan,4,0,Qualifier,0
+2019-05-19,Egypt,Mexico,2,2,Qualifier,0
+2019-05-20,Australia,New Zealand,1,1,Friendly,0
+2019-05-21,Cameroon,United States,2,1,Qualifier,0
+2019-05-21,Mexico,United States,1,0,Qualifier,0
+2019-05-22,Argentina,Canada,5,1,Qualifier,1
+2019-05-23,Turkey,Ghana,1,1,Qualifier,0
+2019-05-24,South Korea,Denmark,3,0,Friendly,0
+2019-05-24,Netherlands,Iran,2,1,Qualifier,0
+2019-05-25,Uzbekistan,Nigeria,2,0,Qualifier,0
+2019-05-26,Panama,Serbia,0,0,Qualifier,0
+2019-05-26,Germany,Ecuador,2,2,Friendly,0
+2019-05-27,Bolivia,Algeria,1,4,Qualifier,1
+2019-05-28,Iran,Italy,0,1,Friendly,0
+2019-05-29,Japan,Mexico,3,0,Qualifier,1
+2019-05-29,Costa Rica,Canada,0,4,Qualifier,1
+2019-05-30,Ukraine,Italy,0,1,Qualifier,0
+2019-05-31,Australia,Senegal,1,1,Friendly,0
+2019-06-01,France,England,3,1,Qualifier,1
+2019-06-01,Ukraine,Bolivia,3,0,Qualifier,1
+2019-06-02,Canada,England,1,0,Qualifier,0
+2019-06-03,France,Iran,3,1,Qualifier,0
+2019-06-04,Poland,Croatia,0,3,Qualifier,0
+2019-06-04,Croatia,Japan,3,1,Friendly,0
+2019-06-05,Egypt,Canada,1,3,Friendly,0
+2019-06-06,Japan,Qatar,2,1,Friendly,0
+2019-06-06,Iran,Morocco,5,1,Friendly,1
+2019-06-07,Ecuador,Japan,3,3,Friendly,0
+2019-06-08,Switzerland,Cameroon,2,0,Qualifier,0
+2019-06-09,Saudi Arabia,Paraguay,0,1,Friendly,0
+2019-06-09,Turkey,Japan,1,1,Friendly,0
+2019-06-10,Ecuador,Algeria,2,0,Friendly,0
+2019-06-11,Canada,Austria,2,0,Qualifier,0
+2019-06-12,South Korea,Qatar,1,0,Qualifier,1
+2019-06-12,Ecuador,Bolivia,3,0,Friendly,0
+2019-06-13,Switzerland,Portugal,1,0,Qualifier,0
+2019-06-14,Belgium,Spain,1,0,Friendly,0
+2019-06-14,Morocco,Italy,1,2,Qualifier,1
+2019-06-15,Iraq,Costa Rica,4,1,Friendly,0
+2019-06-16,Ukraine,Bolivia,3,1,Friendly,0
+2019-06-17,Qatar,Italy,0,0,Friendly,0
+2019-06-17,Iraq,France,0,3,Friendly,0
+2019-06-18,Canada,Turkey,0,0,Qualifier,1
+2019-06-19,Ivory Coast,Croatia,2,3,Qualifier,0
+2019-06-20,Switzerland,Netherlands,0,1,Qualifier,1
+2019-06-20,France,Ukraine,6,0,Friendly,0
+2019-06-21,Saudi Arabia,Egypt,1,1,Qualifier,0
+2019-06-22,Panama,Brazil,0,0,Qualifier,0
+2019-06-23,Brazil,Morocco,3,1,Qualifier,1
+2019-06-23,South Korea,Switzerland,0,1,Friendly,0
+2019-06-24,Bolivia,Uzbekistan,2,0,Friendly,0
+2019-06-25,New Zealand,Uruguay,0,1,Qualifier,0
+2019-06-25,Turkey,Senegal,1,2,Qualifier,0
+2019-06-26,Denmark,Australia,1,0,Qualifier,0
+2019-06-27,Denmark,Costa Rica,4,0,Friendly,0
+2019-06-28,Nigeria,DR Congo,2,0,Qualifier,1
+2019-06-28,Mexico,Japan,4,0,Qualifier,0
+2019-06-29,Turkey,Saudi Arabia,1,0,Friendly,0
+2019-06-30,Paraguay,Saudi Arabia,0,1,Qualifier,1
+2019-07-01,Portugal,Spain,1,2,Qualifier,0
+2019-07-01,DR Congo,Croatia,0,1,Qualifier,1
+2019-07-02,Uruguay,Ivory Coast,5,4,Qualifier,0
+2019-07-03,Netherlands,Qatar,4,0,Qualifier,1
+2019-07-03,Algeria,Portugal,0,1,Qualifier,0
+2019-07-04,Australia,Japan,2,2,Friendly,0
+2019-07-05,South Korea,Cameroon,1,2,Friendly,0
+2019-07-06,Belgium,Portugal,2,1,Friendly,1
+2019-07-06,Panama,Cameroon,3,3,Qualifier,0
+2019-07-07,South Korea,Morocco,2,1,Qualifier,0
+2019-07-08,Japan,Bolivia,3,0,Qualifier,0
+2019-07-09,Argentina,Uruguay,2,2,Friendly,0
+2019-07-09,Australia,Egypt,3,1,Qualifier,0
+2019-07-10,Italy,Turkey,2,1,Friendly,0
+2019-07-11,Ghana,Portugal,0,3,Friendly,1
+2019-07-11,Tunisia,Portugal,0,2,Friendly,1
+2019-07-12,Uruguay,Tunisia,3,0,Qualifier,0
+2019-07-13,Belgium,Ecuador,3,0,Friendly,0
+2019-07-14,Italy,Bolivia,4,0,Qualifier,0
+2019-07-14,Italy,South Korea,5,0,Qualifier,0
+2019-07-15,Nigeria,France,0,1,Friendly,0
+2019-07-16,Ivory Coast,New Zealand,4,2,Qualifier,0
+2019-07-17,Argentina,Austria,6,0,Qualifier,0
+2019-07-17,United States,Cameroon,2,4,Qualifier,1
+2019-07-18,New Zealand,Ukraine,2,1,Qualifier,0
+2019-07-19,Germany,Ukraine,6,1,Qualifier,0
+2019-07-20,Ghana,Ivory Coast,0,1,Qualifier,0
+2019-07-20,Italy,Saudi Arabia,3,0,Friendly,0
+2019-07-21,New Zealand,Italy,0,1,Friendly,0
+2019-07-22,Poland,New Zealand,0,0,Friendly,1
+2019-07-22,Jamaica,Qatar,2,2,Qualifier,1
+2019-07-23,United States,England,1,2,Friendly,1
+2019-07-24,Uruguay,Italy,0,1,Qualifier,0
+2019-07-25,Belgium,Iran,4,2,Qualifier,0
+2019-07-25,Morocco,Ukraine,6,1,Qualifier,0
+2019-07-26,Panama,Ecuador,3,4,Friendly,0
+2019-07-27,Netherlands,Uruguay,0,0,Friendly,1
+2019-07-28,Uruguay,Japan,0,1,Friendly,1
+2019-07-28,Cameroon,United States,1,1,Qualifier,0
+2019-07-29,Iraq,Ukraine,0,2,Qualifier,1
+2019-07-30,Switzerland,Saudi Arabia,3,0,Qualifier,0
+2019-07-30,Senegal,Denmark,1,2,Friendly,0
+2019-07-31,Panama,Switzerland,1,0,Friendly,0
+2019-08-01,Germany,Serbia,5,2,Qualifier,0
+2019-08-02,Australia,Algeria,1,2,Friendly,0
+2019-08-02,France,Italy,2,1,Qualifier,0
+2019-08-03,Spain,Senegal,4,0,Qualifier,0
+2019-08-04,Paraguay,Argentina,0,1,Qualifier,0
+2019-08-05,Paraguay,Brazil,0,1,Qualifier,0
+2019-08-05,Turkey,Poland,1,1,Friendly,0
+2019-08-06,Morocco,Panama,2,1,Qualifier,0
+2019-08-07,Croatia,Colombia,2,1,Friendly,0
+2019-08-08,Uruguay,Spain,0,3,Qualifier,0
+2019-08-08,Bolivia,Spain,1,4,Friendly,1
+2019-08-09,Netherlands,Iraq,4,0,Qualifier,0
+2019-08-10,United States,Netherlands,0,3,Friendly,0
+2019-08-10,Panama,Saudi Arabia,2,2,Friendly,0
+2019-08-11,Australia,Egypt,2,1,Friendly,0
+2019-08-12,Uruguay,Turkey,1,1,Qualifier,0
+2019-08-13,Uruguay,Cameroon,4,1,Qualifier,1
+2019-08-13,Belgium,Costa Rica,5,0,Qualifier,0
+2019-08-14,Croatia,Iran,1,0,Friendly,0
+2019-08-15,Uruguay,Switzerland,1,3,Friendly,0
+2019-08-16,Morocco,Brazil,0,3,Qualifier,0
+2019-08-16,Uzbekistan,Ghana,0,0,Qualifier,0
+2019-08-17,Uruguay,Australia,5,0,Qualifier,0
+2019-08-18,Iraq,Uruguay,0,2,Friendly,0
+2019-08-18,Germany,Uzbekistan,2,1,Friendly,0
+2019-08-19,Brazil,Poland,1,0,Qualifier,0
+2019-08-20,Serbia,Mexico,1,1,Friendly,0
+2019-08-21,Iraq,Belgium,1,4,Qualifier,0
+2019-08-21,England,Turkey,1,0,Friendly,1
+2019-08-22,Japan,Qatar,5,0,Qualifier,0
+2019-08-23,France,Japan,6,1,Qualifier,0
+2019-08-24,Algeria,Jamaica,3,0,Friendly,0
+2019-08-24,Belgium,Ivory Coast,5,2,Friendly,0
+2019-08-25,Ukraine,Algeria,2,3,Qualifier,0
+2019-08-26,Brazil,Italy,1,1,Friendly,0
+2019-08-26,United States,Cameroon,0,2,Friendly,0
+2019-08-27,Australia,Denmark,0,2,Friendly,0
+2019-08-28,Iraq,Japan,0,1,Qualifier,0
+2019-08-29,Costa Rica,Senegal,1,2,Qualifier,1
+2019-08-29,Portugal,France,0,0,Qualifier,0
+2019-08-30,England,Ghana,10,1,Friendly,0
+2019-08-31,Canada,Portugal,0,1,Qualifier,0
+2019-09-01,Canada,Iraq,0,3,Qualifier,1
+2019-09-01,Canada,Switzerland,1,1,Friendly,0
+2019-09-02,Paraguay,Jamaica,1,0,Qualifier,0
+2019-09-03,Qatar,Denmark,0,0,Friendly,0
+2019-09-04,Egypt,New Zealand,3,1,Friendly,0
+2019-09-04,Italy,Spain,1,1,Friendly,1
+2019-09-05,Portugal,Brazil,0,1,Qualifier,0
+2019-09-06,Colombia,Algeria,5,2,Friendly,0
+2019-09-06,Ecuador,Argentina,1,3,Friendly,0
+2019-09-07,Uruguay,United States,4,0,Friendly,1
+2019-09-08,Iran,Costa Rica,2,0,Friendly,0
+2019-09-09,Panama,Uzbekistan,0,3,Qualifier,0
+2019-09-09,Jamaica,Serbia,1,2,Qualifier,0
+2019-09-10,Denmark,Turkey,2,0,Qualifier,0
+2019-09-11,Qatar,Uzbekistan,1,1,Friendly,0
+2019-09-12,Ghana,Croatia,2,3,Qualifier,0
+2019-09-12,Colombia,Denmark,7,0,Qualifier,0
+2019-09-13,Panama,Germany,1,2,Friendly,0
+2019-09-14,Ghana,Ukraine,2,0,Friendly,0
+2019-09-14,Uzbekistan,Qatar,1,1,Friendly,0
+2019-09-15,New Zealand,Serbia,0,1,Qualifier,0
+2019-09-16,Costa Rica,Nigeria,2,3,Friendly,1
+2019-09-17,Panama,Mexico,2,0,Qualifier,0
+2019-09-17,United States,Canada,2,0,Friendly,0
+2019-09-18,Qatar,Tunisia,0,0,Friendly,0
+2019-09-19,Ghana,Italy,0,0,Friendly,1
+2019-09-20,Senegal,Ghana,1,0,Friendly,0
+2019-09-20,Panama,Ghana,3,0,Qualifier,0
+2019-09-21,Spain,Brazil,3,1,Qualifier,0
+2019-09-22,Argentina,Morocco,0,0,Qualifier,0
+2019-09-22,Argentina,Canada,3,0,Friendly,0
+2019-09-23,Senegal,Serbia,3,0,Qualifier,0
+2019-09-24,Portugal,Australia,4,0,Friendly,0
+2019-09-25,Saudi Arabia,Germany,0,1,Friendly,0
+2019-09-25,Ghana,Italy,0,3,Qualifier,0
+2019-09-26,Switzerland,Paraguay,3,0,Qualifier,1
+2019-09-27,Germany,Egypt,2,1,Friendly,0
+2019-09-28,Paraguay,Uzbekistan,3,0,Qualifier,0
+2019-09-28,Uzbekistan,Spain,0,0,Friendly,0
+2019-09-29,Australia,Portugal,1,3,Qualifier,0
+2019-09-30,United States,Argentina,1,2,Qualifier,0
+2019-10-01,Italy,Serbia,2,0,Friendly,0
+2019-10-01,Ukraine,Spain,0,5,Friendly,1
+2019-10-02,Ghana,Japan,1,3,Friendly,1
+2019-10-03,Australia,Uzbekistan,2,0,Qualifier,1
+2019-10-03,Belgium,Mexico,1,0,Friendly,0
+2019-10-04,Switzerland,Ghana,4,0,Qualifier,0
+2019-10-05,Canada,Saudi Arabia,2,0,Qualifier,0
+2019-10-06,Austria,Saudi Arabia,3,1,Qualifier,0
+2019-10-06,Belgium,Australia,1,0,Friendly,0
+2019-10-07,Paraguay,Croatia,0,1,Qualifier,0
+2019-10-08,Saudi Arabia,Japan,1,0,Qualifier,1
+2019-10-09,Bolivia,Senegal,0,4,Friendly,0
+2019-10-09,Senegal,Ivory Coast,2,0,Qualifier,0
+2019-10-10,Brazil,Ivory Coast,4,0,Qualifier,1
+2019-10-11,Qatar,Turkey,0,2,Friendly,0
+2019-10-11,Panama,Saudi Arabia,0,0,Friendly,0
+2019-10-12,United States,Spain,0,5,Qualifier,0
+2019-10-13,Iran,Ukraine,0,0,Qualifier,0
+2019-10-14,Tunisia,Ukraine,2,2,Qualifier,0
+2019-10-14,Panama,Belgium,0,5,Qualifier,0
+2019-10-15,Poland,England,1,3,Friendly,0
+2019-10-16,Spain,Nigeria,1,0,Qualifier,0
+2019-10-17,Algeria,Uruguay,0,0,Friendly,1
+2019-10-17,Ukraine,Germany,3,2,Qualifier,0
+2019-10-18,Bolivia,Costa Rica,1,0,Friendly,0
+2019-10-19,Poland,Panama,1,2,Friendly,0
+2019-10-20,Ukraine,Australia,1,1,Qualifier,1
+2019-10-20,Australia,Egypt,4,1,Qualifier,0
+2019-10-21,Senegal,Spain,1,1,Qualifier,0
+2019-10-22,Egypt,Poland,4,4,Friendly,0
+2019-10-22,Uzbekistan,France,0,6,Qualifier,0
+2019-10-23,Algeria,Ecuador,3,1,Qualifier,0
+2019-10-24,Qatar,Iran,1,0,Qualifier,1
+2019-10-25,Serbia,Germany,1,4,Friendly,1
+2019-10-25,Nigeria,United States,2,1,Qualifier,0
+2019-10-26,Netherlands,Qatar,2,1,Friendly,0
+2019-10-27,Spain,Iraq,9,0,Qualifier,0
+2019-10-28,Denmark,Ecuador,2,1,Qualifier,0
+2019-10-28,Ukraine,New Zealand,6,1,Qualifier,0
+2019-10-29,Colombia,Iraq,1,0,Friendly,0
+2019-10-30,Jamaica,Poland,1,1,Qualifier,0
+2019-10-30,Poland,Qatar,2,0,Friendly,0
+2019-10-31,Ecuador,France,1,1,Qualifier,0
+2019-11-01,Tunisia,New Zealand,1,1,Friendly,0
+2019-11-02,Croatia,Belgium,1,1,Qualifier,1
+2019-11-02,Qatar,Uruguay,0,1,Qualifier,0
+2019-11-03,Spain,Paraguay,7,2,Qualifier,0
+2019-11-04,Qatar,United States,1,0,Friendly,0
+2019-11-05,Japan,Argentina,0,2,Qualifier,0
+2019-11-05,Qatar,Ukraine,1,0,Friendly,0
+2019-11-06,Poland,Nigeria,1,0,Qualifier,0
+2019-11-07,Switzerland,Ecuador,1,0,Qualifier,0
+2019-11-07,Saudi Arabia,Iran,0,2,Qualifier,0
+2019-11-08,Canada,Croatia,0,2,Friendly,0
+2019-11-09,South Korea,Argentina,0,4,Friendly,0
+2019-11-10,Bolivia,Algeria,0,1,Qualifier,0
+2019-11-10,Brazil,Uzbekistan,5,1,Qualifier,1
+2019-11-11,Paraguay,Croatia,1,2,Friendly,0
+2019-11-12,Ivory Coast,Serbia,1,0,Qualifier,1
+2019-11-13,United States,Australia,2,2,Friendly,1
+2019-11-13,France,Serbia,2,1,Qualifier,0
+2019-11-14,Saudi Arabia,Ukraine,2,0,Qualifier,0
+2019-11-15,Iran,Spain,0,0,Qualifier,1
+2019-11-16,England,Spain,3,0,Friendly,0
+2019-11-16,Netherlands,England,1,2,Qualifier,1
+2019-11-17,Algeria,Argentina,0,2,Qualifier,0
+2019-11-18,Argentina,Brazil,3,2,Friendly,0
+2019-11-18,Croatia,Morocco,5,2,Friendly,0
+2019-11-19,Panama,Qatar,1,1,Qualifier,0
+2019-11-20,Japan,Portugal,0,0,Qualifier,0
+2019-11-21,Italy,Denmark,2,0,Qualifier,0
+2019-11-21,Denmark,Mexico,2,0,Qualifier,0
+2019-11-22,Morocco,Nigeria,0,2,Friendly,1
+2019-11-23,South Korea,Serbia,0,0,Qualifier,0
+2019-11-24,Cameroon,DR Congo,6,4,Qualifier,0
+2019-11-24,Croatia,Bolivia,3,0,Friendly,0
+2019-11-25,Egypt,Japan,2,1,Friendly,1
+2019-11-26,United States,Iran,2,1,Friendly,0
+2019-11-26,Algeria,France,3,3,Friendly,0
+2019-11-27,Canada,Germany,0,1,Friendly,0
+2019-11-28,Colombia,Netherlands,1,3,Friendly,0
+2019-11-29,DR Congo,Austria,0,2,Friendly,0
+2019-11-29,Germany,Costa Rica,7,0,Qualifier,0
+2019-11-30,Colombia,Tunisia,6,0,Qualifier,0
+2019-12-01,Iraq,Ecuador,0,1,Qualifier,0
+2019-12-02,Croatia,Switzerland,1,2,Friendly,0
+2019-12-02,Morocco,New Zealand,3,2,Qualifier,1
+2019-12-03,Italy,Switzerland,0,0,Qualifier,1
+2019-12-04,South Korea,France,1,2,Qualifier,0
+2019-12-04,Portugal,Denmark,0,0,Qualifier,0
+2019-12-05,Brazil,Jamaica,6,0,Qualifier,0
+2019-12-06,Turkey,Iraq,3,0,Qualifier,0
+2019-12-07,Iraq,Paraguay,3,1,Friendly,0
+2019-12-07,Serbia,Senegal,1,0,Friendly,0
+2019-12-08,Senegal,Jamaica,2,0,Qualifier,0
+2019-12-09,Ukraine,Mexico,3,0,Friendly,0
+2019-12-10,New Zealand,Costa Rica,0,1,Qualifier,0
+2019-12-10,Saudi Arabia,Denmark,2,2,Qualifier,0
+2019-12-11,Austria,Panama,3,0,Friendly,0
+2019-12-12,Uzbekistan,Canada,1,3,Qualifier,0
+2019-12-13,Croatia,Mexico,1,0,Friendly,0
+2019-12-13,Iran,Morocco,1,1,Friendly,0
+2019-12-14,Turkey,Uzbekistan,4,1,Qualifier,0
+2019-12-15,Iraq,Ecuador,1,2,Qualifier,1
+2019-12-15,Iraq,Spain,0,4,Qualifier,0
+2019-12-16,Senegal,Panama,1,2,Qualifier,1
+2019-12-17,Bolivia,Croatia,0,0,Friendly,1
+2019-12-18,Portugal,DR Congo,4,1,Friendly,1
+2019-12-18,Japan,Ivory Coast,3,1,Qualifier,1
+2019-12-19,Qatar,Serbia,1,1,Qualifier,0
+2019-12-20,Ghana,Serbia,1,1,Friendly,0
+2019-12-21,Bolivia,Uruguay,0,3,Friendly,0
+2019-12-21,Ghana,Colombia,0,0,Friendly,0
+2019-12-22,Croatia,Egypt,2,0,Qualifier,0
+2019-12-23,Brazil,Morocco,2,0,Friendly,0
+2019-12-23,Iraq,Brazil,1,1,Qualifier,1
+2019-12-24,Iraq,Tunisia,0,3,Friendly,0
+2019-12-25,Uzbekistan,Iran,1,2,Qualifier,0
+2019-12-26,Croatia,Bolivia,5,0,Friendly,0
+2019-12-26,Costa Rica,Colombia,1,3,Qualifier,1
+2019-12-27,Ghana,Germany,1,2,Qualifier,0
+2019-12-28,Poland,Australia,2,0,Qualifier,0
+2019-12-29,Argentina,Japan,6,1,Qualifier,0
+2019-12-29,Cameroon,Denmark,1,2,Friendly,1
+2019-12-30,Algeria,Tunisia,2,3,Friendly,0
+2019-12-31,Uzbekistan,South Korea,2,1,Friendly,0
+2020-01-01,Senegal,Iraq,1,0,Qualifier,0
+2020-01-01,Iran,Egypt,2,0,Qualifier,0
+2020-01-02,France,Germany,4,2,Qualifier,0
+2020-01-03,France,Spain,2,1,Friendly,0
+2020-01-03,Uzbekistan,Iraq,0,1,Friendly,0
+2020-01-04,Netherlands,Poland,7,0,Qualifier,0
+2020-01-05,Brazil,Ivory Coast,2,0,Friendly,0
+2020-01-06,New Zealand,Paraguay,0,1,Friendly,0
+2020-01-06,Costa Rica,Ghana,2,2,Qualifier,0
+2020-01-07,Tunisia,France,1,2,Friendly,1
+2020-01-08,Iran,Ghana,2,1,Qualifier,0
+2020-01-09,Serbia,Croatia,2,1,Qualifier,1
+2020-01-09,Costa Rica,Uzbekistan,3,0,Qualifier,0
+2020-01-10,Netherlands,Austria,3,0,Qualifier,0
+2020-01-11,Turkey,Belgium,2,3,Qualifier,0
+2020-01-11,Morocco,Austria,1,0,Friendly,1
+2020-01-12,Austria,DR Congo,2,1,Qualifier,0
+2020-01-13,Ecuador,Algeria,2,0,Qualifier,0
+2020-01-14,Algeria,DR Congo,5,0,Friendly,0
+2020-01-14,France,Ghana,3,1,Friendly,0
+2020-01-15,Panama,United States,1,2,Qualifier,0
+2020-01-16,Morocco,Japan,2,0,Friendly,0
+2020-01-17,Paraguay,Egypt,0,1,Friendly,1
+2020-01-17,Colombia,Germany,1,0,Qualifier,0
+2020-01-18,Uruguay,Nigeria,3,1,Friendly,0
+2020-01-19,Germany,Morocco,3,0,Qualifier,1
+2020-01-19,Portugal,Bolivia,2,0,Qualifier,1
+2020-01-20,Switzerland,Ukraine,1,1,Qualifier,0
+2020-01-21,Poland,Serbia,1,0,Friendly,1
+2020-01-22,Portugal,Iran,4,0,Qualifier,1
+2020-01-22,Egypt,Qatar,2,0,Qualifier,0
+2020-01-23,Brazil,Senegal,5,1,Qualifier,0
+2020-01-24,Italy,Cameroon,1,1,Friendly,1
+2020-01-25,Nigeria,Tunisia,2,0,Friendly,1
+2020-01-25,Turkey,Colombia,0,1,Qualifier,1
+2020-01-26,Panama,Canada,0,2,Qualifier,0
+2020-01-27,Uruguay,France,0,0,Qualifier,1
+2020-01-28,Spain,Bolivia,8,0,Qualifier,0
+2020-01-28,Cameroon,United States,1,1,Qualifier,1
+2020-01-29,Ivory Coast,Cameroon,0,2,Qualifier,0
+2020-01-30,France,Ghana,5,0,Friendly,0
+2020-01-30,Denmark,Canada,1,0,Qualifier,0
+2020-01-31,Ecuador,Cameroon,2,0,Qualifier,0
+2020-02-01,Ghana,United States,1,3,Qualifier,1
+2020-02-02,Austria,New Zealand,5,0,Qualifier,1
+2020-02-02,Iraq,Costa Rica,1,2,Qualifier,0
+2020-02-03,Qatar,Turkey,0,2,Qualifier,0
+2020-02-04,Italy,Qatar,10,0,Qualifier,0
+2020-02-05,Uzbekistan,Australia,2,1,Qualifier,1
+2020-02-05,South Korea,Panama,1,1,Friendly,0
+2020-02-06,Germany,France,0,2,Qualifier,0
+2020-02-07,Italy,Tunisia,3,1,Friendly,0
+2020-02-07,France,Iraq,5,0,Friendly,0
+2020-02-08,Bolivia,Austria,1,1,Qualifier,1
+2020-02-09,DR Congo,Poland,1,3,Friendly,0
+2020-02-10,Ghana,South Korea,0,2,Qualifier,0
+2020-02-10,Tunisia,Algeria,1,0,Friendly,0
+2020-02-11,South Korea,Austria,0,2,Qualifier,0
+2020-02-12,Colombia,Australia,2,0,Qualifier,0
+2020-02-13,Bolivia,Colombia,0,2,Qualifier,0
+2020-02-13,Ghana,DR Congo,1,0,Qualifier,0
+2020-02-14,Japan,Ivory Coast,2,0,Qualifier,0
+2020-02-15,Bolivia,Uzbekistan,0,2,Friendly,1
+2020-02-15,Denmark,Ukraine,2,1,Friendly,0
+2020-02-16,Mexico,France,2,2,Qualifier,0
+2020-02-17,Uzbekistan,Serbia,2,0,Qualifier,0
+2020-02-18,Algeria,Saudi Arabia,3,0,Friendly,1
+2020-02-18,Canada,Switzerland,3,2,Qualifier,0
+2020-02-19,Uzbekistan,Australia,2,0,Friendly,0
+2020-02-20,Spain,Japan,6,0,Friendly,0
+2020-02-21,DR Congo,Belgium,1,3,Qualifier,0
+2020-02-21,Canada,Denmark,2,2,Qualifier,0
+2020-02-22,Canada,Switzerland,1,0,Friendly,0
+2020-02-23,Bolivia,Ivory Coast,2,2,Friendly,1
+2020-02-24,Brazil,Paraguay,2,2,Qualifier,0
+2020-02-24,Denmark,Italy,1,0,Friendly,0
+2020-02-25,New Zealand,Switzerland,3,2,Friendly,0
+2020-02-26,Spain,Cameroon,3,1,Friendly,0
+2020-02-26,Ecuador,Algeria,1,0,Friendly,0
+2020-02-27,Australia,Spain,0,3,Qualifier,0
+2020-02-28,Uruguay,Italy,1,1,Qualifier,0
+2020-02-29,Uruguay,Denmark,3,1,Qualifier,0
+2020-02-29,Australia,Uruguay,1,1,Qualifier,1
+2020-03-01,Uzbekistan,Italy,2,5,Qualifier,0
+2020-03-02,Egypt,Switzerland,2,0,Qualifier,0
+2020-03-03,Netherlands,DR Congo,2,1,Qualifier,1
+2020-03-03,Cameroon,Uzbekistan,2,0,Friendly,0
+2020-03-04,Austria,Switzerland,3,0,Qualifier,0
+2020-03-05,South Korea,Iran,2,1,Friendly,0
+2020-03-05,Turkey,Egypt,1,0,Qualifier,0
+2020-03-06,United States,Belgium,1,1,Qualifier,0
+2020-03-07,United States,Denmark,4,1,Qualifier,0
+2020-03-08,United States,Algeria,1,0,Qualifier,1
+2020-03-08,Italy,Costa Rica,2,1,Qualifier,0
+2020-03-09,Ivory Coast,Austria,1,0,Friendly,0
+2020-03-10,Qatar,Australia,2,2,Qualifier,1
+2020-03-11,Uzbekistan,Japan,2,0,Qualifier,0
+2020-03-11,Uzbekistan,Tunisia,0,1,Qualifier,0
+2020-03-12,Uzbekistan,Senegal,1,1,Qualifier,0
+2020-03-13,Iraq,Turkey,2,2,Qualifier,0
+2020-03-14,Canada,Argentina,0,2,Qualifier,0
+2020-03-14,Uruguay,Australia,5,2,Qualifier,1
+2020-03-15,South Korea,Egypt,4,0,Qualifier,1
+2020-03-16,England,Morocco,2,0,Qualifier,0
+2020-03-16,New Zealand,Portugal,0,3,Qualifier,0
+2020-03-17,Belgium,Croatia,1,1,Qualifier,0
+2020-03-18,Saudi Arabia,Senegal,1,1,Qualifier,0
+2020-03-19,DR Congo,Denmark,1,2,Qualifier,0
+2020-03-19,Canada,Ivory Coast,0,0,Qualifier,0
+2020-03-20,Ecuador,Mexico,2,1,Qualifier,0
+2020-03-21,Poland,Senegal,0,1,Qualifier,0
+2020-03-22,France,England,2,1,Friendly,0
+2020-03-22,Nigeria,Austria,3,0,Qualifier,0
+2020-03-23,Poland,Panama,5,1,Qualifier,0
+2020-03-24,Canada,Panama,2,0,Qualifier,0
+2020-03-24,Uzbekistan,Denmark,2,3,Qualifier,0
+2020-03-25,Costa Rica,Austria,2,4,Qualifier,0
+2020-03-26,Switzerland,Ghana,2,1,Friendly,0
+2020-03-27,England,Austria,4,1,Friendly,0
+2020-03-27,Colombia,Iraq,4,1,Friendly,0
+2020-03-28,Senegal,Paraguay,3,0,Qualifier,0
+2020-03-29,Tunisia,Canada,1,0,Qualifier,0
+2020-03-30,Argentina,Ghana,3,0,Qualifier,0
+2020-03-30,New Zealand,Austria,1,3,Friendly,1
+2020-03-31,Uzbekistan,Switzerland,1,1,Friendly,1
+2020-04-01,Saudi Arabia,Morocco,3,4,Qualifier,0
+2020-04-01,Senegal,Iraq,6,0,Friendly,1
+2020-04-02,Mexico,Tunisia,2,1,Qualifier,0
+2020-04-03,Paraguay,Panama,1,1,Friendly,0
+2020-04-04,Bolivia,Germany,2,1,Qualifier,0
+2020-04-04,Iran,Spain,0,2,Qualifier,0
+2020-04-05,Mexico,Uruguay,3,2,Qualifier,1
+2020-04-06,Croatia,New Zealand,5,0,Friendly,0
+2020-04-07,Austria,Qatar,1,0,Friendly,0
+2020-04-07,Senegal,Turkey,2,0,Qualifier,0
+2020-04-08,Mexico,New Zealand,2,1,Qualifier,0
+2020-04-09,Ukraine,Cameroon,1,1,Friendly,0
+2020-04-10,Uzbekistan,Italy,0,4,Friendly,0
+2020-04-10,Denmark,England,0,3,Qualifier,0
+2020-04-11,Cameroon,Costa Rica,1,1,Friendly,0
+2020-04-12,Mexico,Ecuador,4,0,Friendly,0
+2020-04-12,Italy,Mexico,0,1,Friendly,0
+2020-04-13,Uruguay,Iraq,6,1,Friendly,0
+2020-04-14,Serbia,Cameroon,3,1,Qualifier,1
+2020-04-15,Australia,South Korea,1,0,Qualifier,0
+2020-04-15,United States,Australia,1,2,Friendly,0
+2020-04-16,Canada,Colombia,1,1,Qualifier,0
+2020-04-17,Argentina,Iraq,9,0,Qualifier,0
+2020-04-18,Ukraine,Spain,0,1,Qualifier,0
+2020-04-18,United States,Iraq,1,0,Qualifier,1
+2020-04-19,Costa Rica,Australia,1,0,Friendly,1
+2020-04-20,Ghana,Nigeria,3,0,Qualifier,0
+2020-04-20,Morocco,Brazil,1,1,Qualifier,0
+2020-04-21,Senegal,Jamaica,1,2,Friendly,0
+2020-04-22,DR Congo,Australia,1,1,Friendly,0
+2020-04-23,Uruguay,Austria,0,1,Friendly,0
+2020-04-23,Egypt,Ukraine,2,4,Friendly,0
+2020-04-24,United States,Saudi Arabia,1,1,Qualifier,0
+2020-04-25,Iran,Portugal,1,2,Qualifier,0
+2020-04-26,Austria,Uzbekistan,1,0,Qualifier,0
+2020-04-26,Costa Rica,Brazil,0,2,Qualifier,1
+2020-04-27,Tunisia,New Zealand,2,1,Friendly,0
+2020-04-28,Egypt,Saudi Arabia,1,0,Friendly,0
+2020-04-28,DR Congo,Austria,0,0,Qualifier,1
+2020-04-29,Morocco,Canada,3,0,Qualifier,0
+2020-04-30,Ghana,Nigeria,1,0,Qualifier,1
+2020-05-01,Switzerland,Spain,0,4,Friendly,1
+2020-05-01,France,Iran,4,1,Qualifier,1
+2020-05-02,Germany,Panama,4,0,Friendly,0
+2020-05-03,Bolivia,New Zealand,1,0,Friendly,0
+2020-05-04,Belgium,Croatia,1,1,Qualifier,1
+2020-05-04,Jamaica,Brazil,0,2,Qualifier,0
+2020-05-05,Ghana,Poland,1,2,Friendly,0
+2020-05-06,Croatia,New Zealand,3,0,Qualifier,0
+2020-05-07,Argentina,Denmark,2,1,Qualifier,1
+2020-05-07,Iran,Nigeria,4,1,Friendly,0
+2020-05-08,South Korea,Mexico,3,1,Qualifier,0
+2020-05-09,Denmark,Jamaica,3,0,Qualifier,0
+2020-05-09,Senegal,Canada,0,0,Qualifier,0
+2020-05-10,Algeria,Panama,2,1,Friendly,0
+2020-05-11,Turkey,Belgium,0,3,Qualifier,0
+2020-05-12,Colombia,Turkey,0,1,Qualifier,0
+2020-05-12,Iraq,France,1,3,Qualifier,0
+2020-05-13,Austria,Uzbekistan,3,0,Friendly,0
+2020-05-14,Germany,Ghana,3,1,Qualifier,0
+2020-05-15,Uzbekistan,Morocco,2,1,Friendly,0
+2020-05-15,Portugal,Canada,1,0,Qualifier,0
+2020-05-16,United States,Iraq,2,0,Friendly,0
+2020-05-17,Cameroon,Spain,0,0,Friendly,1
+2020-05-17,Brazil,Algeria,3,0,Friendly,1
+2020-05-18,Argentina,Qatar,6,1,Friendly,0
+2020-05-19,Germany,Netherlands,5,4,Qualifier,1
+2020-05-20,United States,Switzerland,2,1,Qualifier,0
+2020-05-20,United States,Morocco,0,2,Friendly,1
+2020-05-21,South Korea,Uruguay,4,2,Qualifier,0
+2020-05-22,Poland,Cameroon,3,0,Qualifier,0
+2020-05-23,Germany,Costa Rica,3,1,Qualifier,0
+2020-05-23,Algeria,Australia,1,1,Friendly,0
+2020-05-24,South Korea,Belgium,0,1,Friendly,0
+2020-05-25,Egypt,Tunisia,4,2,Friendly,0
+2020-05-26,Turkey,Iran,1,0,Friendly,1
+2020-05-26,Serbia,DR Congo,0,0,Qualifier,0
+2020-05-27,Croatia,Brazil,0,1,Friendly,0
+2020-05-28,Tunisia,Poland,2,0,Qualifier,0
+2020-05-28,Nigeria,Brazil,0,2,Qualifier,0
+2020-05-29,Tunisia,England,0,3,Friendly,0
+2020-05-30,Argentina,Ecuador,4,0,Friendly,0
+2020-05-31,France,Serbia,5,0,Qualifier,1
+2020-05-31,Austria,Denmark,0,1,Qualifier,0
+2020-06-01,Nigeria,Serbia,1,0,Friendly,0
+2020-06-02,Argentina,Uzbekistan,4,0,Qualifier,1
+2020-06-03,Austria,Ecuador,4,1,Qualifier,0
+2020-06-03,Colombia,Switzerland,1,0,Friendly,0
+2020-06-04,Ukraine,Germany,2,0,Qualifier,0
+2020-06-05,Ukraine,Cameroon,4,0,Friendly,0
+2020-06-05,Egypt,Saudi Arabia,1,1,Qualifier,1
+2020-06-06,Mexico,Brazil,0,0,Friendly,0
+2020-06-07,Switzerland,Uruguay,1,1,Qualifier,0
+2020-06-08,Belgium,New Zealand,5,3,Friendly,0
+2020-06-08,Ghana,Australia,1,1,Qualifier,0
+2020-06-09,Jamaica,Japan,0,0,Qualifier,0
+2020-06-10,Ecuador,Argentina,3,2,Qualifier,0
+2020-06-11,Turkey,United States,3,0,Qualifier,0
+2020-06-11,South Korea,Belgium,2,2,Qualifier,0
+2020-06-12,Mexico,Italy,1,0,Qualifier,0
+2020-06-13,Belgium,Canada,5,1,Friendly,0
+2020-06-13,Argentina,Denmark,2,1,Qualifier,0
+2020-06-14,Morocco,France,0,3,Qualifier,0
+2020-06-15,Bolivia,Uzbekistan,3,1,Qualifier,0
+2020-06-16,Brazil,France,3,1,Qualifier,0
+2020-06-16,Ecuador,Japan,0,1,Friendly,0
+2020-06-17,Brazil,Canada,3,0,Friendly,0
+2020-06-18,South Korea,Ghana,2,1,Friendly,0
+2020-06-19,Costa Rica,Ecuador,0,2,Friendly,0
+2020-06-19,Iran,Qatar,3,0,Qualifier,0
+2020-06-20,Panama,New Zealand,1,1,Friendly,0
+2020-06-21,United States,Nigeria,1,0,Friendly,0
+2020-06-22,Serbia,Senegal,2,0,Qualifier,1
+2020-06-22,Switzerland,Egypt,2,0,Qualifier,0
+2020-06-23,Colombia,Saudi Arabia,0,1,Qualifier,0
+2020-06-24,New Zealand,Mexico,2,1,Qualifier,0
+2020-06-24,Denmark,Iraq,0,1,Friendly,0
+2020-06-25,Mexico,Bolivia,3,0,Friendly,0
+2020-06-26,Australia,Tunisia,2,1,Qualifier,0
+2020-06-27,Switzerland,Qatar,1,1,Qualifier,0
+2020-06-27,Saudi Arabia,Paraguay,1,0,Qualifier,0
+2020-06-28,England,Ukraine,3,0,Qualifier,0
+2020-06-29,Uzbekistan,Ghana,2,2,Qualifier,0
+2020-06-30,Brazil,Mexico,1,0,Qualifier,0
+2020-06-30,Ghana,Jamaica,0,0,Qualifier,0
+2020-07-01,Ghana,Colombia,1,0,Friendly,0
+2020-07-02,Croatia,Ukraine,3,0,Qualifier,0
+2020-07-02,Cameroon,Uzbekistan,0,1,Friendly,0
+2020-07-03,Senegal,Colombia,0,1,Qualifier,0
+2020-07-04,Uruguay,Iraq,3,1,Friendly,0
+2020-07-05,Saudi Arabia,Costa Rica,2,0,Qualifier,0
+2020-07-05,Switzerland,Uruguay,2,2,Qualifier,0
+2020-07-06,Iran,Portugal,1,3,Qualifier,0
+2020-07-07,Nigeria,Costa Rica,2,1,Qualifier,0
+2020-07-08,Germany,Tunisia,4,0,Qualifier,0
+2020-07-08,Ecuador,Uzbekistan,2,0,Qualifier,0
+2020-07-09,Ghana,Ecuador,3,3,Friendly,1
+2020-07-10,Italy,Jamaica,4,1,Friendly,0
+2020-07-10,Australia,Germany,1,3,Qualifier,0
+2020-07-11,New Zealand,Tunisia,1,3,Qualifier,0
+2020-07-12,Morocco,Australia,4,0,Friendly,0
+2020-07-13,Paraguay,Serbia,0,1,Qualifier,0
+2020-07-13,Cameroon,DR Congo,1,3,Qualifier,0
+2020-07-14,Spain,South Korea,1,1,Qualifier,0
+2020-07-15,Germany,Switzerland,2,0,Qualifier,0
+2020-07-16,Mexico,Japan,4,3,Friendly,0
+2020-07-16,Morocco,Japan,5,0,Qualifier,1
+2020-07-17,France,Costa Rica,6,0,Friendly,0
+2020-07-18,Uzbekistan,Senegal,0,1,Friendly,1
+2020-07-19,Germany,South Korea,6,2,Qualifier,0
+2020-07-19,South Korea,Uzbekistan,4,2,Qualifier,0
+2020-07-20,Ecuador,Tunisia,1,1,Qualifier,0
+2020-07-21,Croatia,Costa Rica,5,1,Friendly,0
+2020-07-21,Mexico,Ecuador,1,0,Qualifier,0
+2020-07-22,Cameroon,Ghana,2,1,Qualifier,0
+2020-07-23,Jamaica,Ukraine,3,0,Friendly,0
+2020-07-24,Austria,Turkey,2,1,Friendly,0
+2020-07-24,South Korea,Uruguay,0,1,Qualifier,0
+2020-07-25,Spain,Netherlands,1,1,Qualifier,0
+2020-07-26,Spain,Algeria,3,0,Qualifier,1
+2020-07-27,Germany,Netherlands,1,2,Qualifier,0
+2020-07-27,Tunisia,England,0,2,Friendly,0
+2020-07-28,South Korea,Spain,2,2,Qualifier,0
+2020-07-29,Uruguay,England,1,1,Qualifier,0
+2020-07-29,Denmark,Ghana,4,1,Friendly,0
+2020-07-30,Ukraine,Algeria,0,2,Friendly,0
+2020-07-31,Mexico,Spain,2,2,Friendly,0
+2020-08-01,South Korea,Tunisia,2,1,Friendly,0
+2020-08-01,Spain,Iran,6,0,Friendly,0
+2020-08-02,Colombia,Nigeria,1,1,Qualifier,0
+2020-08-03,Bolivia,Ukraine,2,4,Friendly,0
+2020-08-04,Egypt,Japan,1,0,Qualifier,0
+2020-08-04,Algeria,Turkey,1,2,Friendly,1
+2020-08-05,Uzbekistan,Ghana,2,2,Qualifier,0
+2020-08-06,Morocco,Egypt,2,0,Qualifier,0
+2020-08-07,Tunisia,Mexico,3,1,Friendly,0
+2020-08-07,Saudi Arabia,Poland,1,3,Qualifier,0
+2020-08-08,Tunisia,Saudi Arabia,2,0,Qualifier,0
+2020-08-09,Portugal,Uruguay,1,0,Qualifier,0
+2020-08-09,Belgium,Serbia,4,0,Qualifier,0
+2020-08-10,Panama,Uzbekistan,4,3,Qualifier,0
+2020-08-11,Argentina,Tunisia,8,0,Qualifier,0
+2020-08-12,South Korea,Nigeria,2,0,Qualifier,0
+2020-08-12,Qatar,Belgium,0,5,Qualifier,0
+2020-08-13,Brazil,Bolivia,7,0,Friendly,0
+2020-08-14,South Korea,Denmark,2,0,Qualifier,1
+2020-08-15,England,Colombia,2,0,Friendly,0
+2020-08-15,Ecuador,South Korea,2,1,Qualifier,0
+2020-08-16,South Korea,Colombia,1,3,Qualifier,0
+2020-08-17,New Zealand,South Korea,2,1,Qualifier,0
+2020-08-17,Bolivia,Cameroon,1,1,Qualifier,0
+2020-08-18,Canada,Netherlands,2,2,Friendly,0
+2020-08-19,Egypt,Ivory Coast,0,1,Qualifier,1
+2020-08-20,Brazil,Qatar,6,0,Friendly,1
+2020-08-20,Ecuador,Uzbekistan,1,0,Qualifier,0
+2020-08-21,Denmark,Qatar,3,0,Qualifier,1
+2020-08-22,Cameroon,Iran,1,0,Friendly,0
+2020-08-23,Italy,Senegal,2,0,Qualifier,0
+2020-08-23,Canada,Italy,0,0,Qualifier,0
+2020-08-24,Ghana,Qatar,1,3,Qualifier,0
+2020-08-25,Denmark,South Korea,3,0,Qualifier,1
+2020-08-25,DR Congo,Australia,2,3,Friendly,0
+2020-08-26,Portugal,Ghana,3,0,Friendly,1
+2020-08-27,Ivory Coast,South Korea,1,0,Friendly,0
+2020-08-28,Belgium,Uzbekistan,4,0,Friendly,1
+2020-08-28,Brazil,Australia,4,0,Friendly,0
+2020-08-29,Netherlands,Brazil,3,1,Qualifier,0
+2020-08-30,Germany,Jamaica,4,0,Qualifier,0
+2020-08-31,Croatia,Ecuador,1,0,Qualifier,0
+2020-08-31,Ghana,Netherlands,0,1,Friendly,0
+2020-09-01,France,Austria,4,0,Friendly,0
+2020-09-02,Nigeria,Senegal,0,1,Qualifier,0
+2020-09-03,Argentina,England,1,0,Qualifier,0
+2020-09-03,Netherlands,Ivory Coast,1,1,Qualifier,0
+2020-09-04,Saudi Arabia,Jamaica,2,0,Qualifier,0
+2020-09-05,Germany,Cameroon,3,0,Friendly,0
+2020-09-05,Mexico,Iran,6,2,Qualifier,1
+2020-09-06,New Zealand,France,0,4,Friendly,0
+2020-09-07,United States,Nigeria,4,1,Friendly,0
+2020-09-08,Mexico,Bolivia,2,0,Friendly,0
+2020-09-08,United States,Japan,1,2,Qualifier,1
+2020-09-09,Croatia,Colombia,0,2,Friendly,0
+2020-09-10,Uzbekistan,Paraguay,2,1,Qualifier,0
+2020-09-11,Japan,Costa Rica,1,1,Friendly,0
+2020-09-11,Italy,Germany,1,1,Qualifier,0
+2020-09-12,Serbia,Argentina,0,1,Friendly,0
+2020-09-13,Colombia,Austria,5,0,Qualifier,0
+2020-09-13,Uzbekistan,Panama,0,1,Qualifier,0
+2020-09-14,Croatia,Serbia,1,0,Qualifier,0
+2020-09-15,Iraq,Netherlands,1,3,Qualifier,1
+2020-09-16,Spain,Germany,3,0,Qualifier,0
+2020-09-16,DR Congo,Ivory Coast,2,0,Qualifier,1
+2020-09-17,Serbia,Algeria,1,0,Friendly,1
+2020-09-18,Colombia,Ghana,5,1,Friendly,1
+2020-09-19,Ukraine,Portugal,0,2,Friendly,0
+2020-09-19,England,Ivory Coast,4,0,Friendly,1
+2020-09-20,Uruguay,Ecuador,2,2,Friendly,0
+2020-09-21,Algeria,Turkey,2,1,Friendly,1
+2020-09-21,Uzbekistan,Mexico,1,0,Qualifier,0
+2020-09-22,Ecuador,Uruguay,1,2,Qualifier,1
+2020-09-23,Mexico,Australia,1,2,Friendly,0
+2020-09-24,United States,New Zealand,2,0,Qualifier,1
+2020-09-24,Ecuador,Mexico,1,2,Qualifier,1
+2020-09-25,Switzerland,England,0,1,Friendly,0
+2020-09-26,Cameroon,Senegal,1,2,Qualifier,0
+2020-09-27,Algeria,Ukraine,5,0,Friendly,0
+2020-09-27,Argentina,Senegal,3,0,Qualifier,0
+2020-09-28,Cameroon,Paraguay,4,2,Friendly,0
+2020-09-29,Cameroon,Spain,1,2,Qualifier,0
+2020-09-30,Jamaica,Ghana,0,0,Qualifier,0
+2020-09-30,Denmark,Serbia,2,0,Qualifier,0
+2020-10-01,Netherlands,Tunisia,1,1,Friendly,0
+2020-10-02,Portugal,Japan,1,0,Qualifier,0
+2020-10-02,Ghana,Japan,0,1,Friendly,0
+2020-10-03,Iran,Australia,2,1,Friendly,0
+2020-10-04,Serbia,Croatia,2,0,Qualifier,0
+2020-10-05,Egypt,Croatia,4,1,Qualifier,1
+2020-10-05,Panama,Brazil,0,4,Friendly,0
+2020-10-06,Australia,Argentina,1,4,Qualifier,0
+2020-10-07,DR Congo,Algeria,2,2,Friendly,0
+2020-10-08,Uruguay,South Korea,3,0,Qualifier,0
+2020-10-08,Iran,Belgium,0,1,Qualifier,0
+2020-10-09,Japan,England,0,1,Qualifier,0
+2020-10-10,Jamaica,DR Congo,2,0,Friendly,0
+2020-10-10,Canada,Australia,3,1,Qualifier,0
+2020-10-11,Cameroon,Iran,1,2,Qualifier,0
+2020-10-12,Austria,Iran,0,0,Qualifier,0
+2020-10-13,Algeria,Bolivia,3,3,Friendly,0
+2020-10-13,Germany,Portugal,2,2,Friendly,0
+2020-10-14,Tunisia,Morocco,0,3,Qualifier,0
+2020-10-15,Turkey,Iran,2,0,Friendly,0
+2020-10-16,Portugal,Mexico,1,0,Friendly,0
+2020-10-16,Paraguay,Panama,2,0,Friendly,0
+2020-10-17,Spain,Iraq,4,0,Friendly,0
+2020-10-18,Croatia,England,3,2,Friendly,1
+2020-10-18,Turkey,Bolivia,6,0,Qualifier,0
+2020-10-19,South Korea,Ivory Coast,5,0,Qualifier,0
+2020-10-20,Serbia,England,2,1,Friendly,1
+2020-10-21,Tunisia,France,2,3,Friendly,1
+2020-10-21,England,Tunisia,3,1,Qualifier,0
+2020-10-22,South Korea,Australia,1,1,Friendly,0
+2020-10-23,Costa Rica,Uruguay,4,2,Qualifier,1
+2020-10-24,South Korea,Morocco,0,2,Qualifier,0
+2020-10-24,DR Congo,South Korea,0,3,Qualifier,0
+2020-10-25,Australia,Spain,1,1,Qualifier,1
+2020-10-26,Serbia,Jamaica,0,0,Friendly,0
+2020-10-27,Australia,Ghana,1,1,Friendly,0
+2020-10-27,Cameroon,Paraguay,4,1,Qualifier,0
+2020-10-28,Morocco,Costa Rica,7,0,Friendly,0
+2020-10-29,Cameroon,Canada,2,3,Qualifier,0
+2020-10-29,Japan,Tunisia,2,0,Friendly,0
+2020-10-30,Brazil,Italy,3,0,Qualifier,0
+2020-10-31,Ecuador,Tunisia,1,1,Qualifier,1
+2020-11-01,Cameroon,Austria,2,0,Friendly,0
+2020-11-01,Spain,Tunisia,3,0,Friendly,0
+2020-11-02,Ghana,Ukraine,1,1,Friendly,0
+2020-11-03,Turkey,South Korea,0,3,Qualifier,0
+2020-11-04,Italy,Croatia,0,0,Qualifier,0
+2020-11-04,Ghana,Qatar,1,1,Friendly,0
+2020-11-05,Saudi Arabia,Uruguay,2,1,Friendly,1
+2020-11-06,Ivory Coast,Serbia,2,0,Qualifier,0
+2020-11-06,Ghana,Spain,2,2,Qualifier,0
+2020-11-07,Italy,Senegal,3,1,Friendly,0
+2020-11-08,Qatar,Canada,0,2,Qualifier,0
+2020-11-09,England,Uruguay,1,1,Qualifier,0
+2020-11-09,Tunisia,Saudi Arabia,1,2,Friendly,0
+2020-11-10,Costa Rica,Uruguay,1,2,Friendly,1
+2020-11-11,France,Costa Rica,6,1,Qualifier,0
+2020-11-12,Uruguay,Ukraine,2,2,Qualifier,0
+2020-11-12,Algeria,Uzbekistan,0,1,Friendly,0
+2020-11-13,United States,Colombia,2,0,Friendly,1
+2020-11-14,Paraguay,Ghana,1,1,Friendly,0
+2020-11-15,Cameroon,Ecuador,1,1,Qualifier,0
+2020-11-15,Germany,Japan,1,1,Friendly,0
+2020-11-16,Poland,Netherlands,2,3,Qualifier,0
+2020-11-17,England,Croatia,0,0,Qualifier,1
+2020-11-17,Uruguay,Switzerland,0,2,Qualifier,1
+2020-11-18,Iran,Turkey,0,1,Qualifier,1
+2020-11-19,Algeria,DR Congo,0,0,Qualifier,0
+2020-11-20,Turkey,Morocco,2,2,Qualifier,0
+2020-11-20,Ghana,Jamaica,1,3,Friendly,1
+2020-11-21,Germany,United States,2,0,Friendly,0
+2020-11-22,Turkey,Italy,0,1,Qualifier,0
+2020-11-23,Paraguay,Morocco,2,0,Qualifier,0
+2020-11-23,Tunisia,Ukraine,3,1,Friendly,0
+2020-11-24,Poland,New Zealand,4,0,Friendly,0
+2020-11-25,Nigeria,Brazil,1,1,Friendly,0
+2020-11-25,Saudi Arabia,Ghana,2,1,Qualifier,0
+2020-11-26,Nigeria,Turkey,3,1,Friendly,0
+2020-11-27,Spain,Qatar,2,0,Qualifier,0
+2020-11-28,Morocco,England,1,1,Qualifier,1
+2020-11-28,England,Serbia,2,0,Qualifier,0
+2020-11-29,Italy,Argentina,2,0,Qualifier,0
+2020-11-30,Costa Rica,Turkey,0,3,Qualifier,0
+2020-12-01,Costa Rica,Morocco,2,1,Friendly,1
+2020-12-01,Canada,Croatia,2,1,Qualifier,0
+2020-12-02,Senegal,Paraguay,2,0,Qualifier,0
+2020-12-03,Croatia,Iran,3,0,Friendly,0
+2020-12-03,New Zealand,Canada,1,1,Friendly,0
+2020-12-04,Algeria,Argentina,0,1,Qualifier,0
+2020-12-05,Poland,Netherlands,2,3,Friendly,0
+2020-12-06,Uzbekistan,Austria,1,1,Qualifier,0
+2020-12-06,France,South Korea,2,0,Friendly,0
+2020-12-07,New Zealand,Jamaica,1,1,Qualifier,1
+2020-12-08,Cameroon,Australia,0,0,Friendly,1
+2020-12-09,South Korea,Costa Rica,2,1,Qualifier,0
+2020-12-09,Brazil,Tunisia,6,0,Friendly,0
+2020-12-10,Canada,Brazil,1,4,Qualifier,0
+2020-12-11,Netherlands,Iraq,8,0,Friendly,0
+2020-12-12,Colombia,Poland,0,0,Friendly,0
+2020-12-12,Bolivia,Denmark,2,1,Qualifier,0
+2020-12-13,Portugal,Mexico,0,1,Qualifier,0
+2020-12-14,Bolivia,Netherlands,0,2,Qualifier,0
+2020-12-14,Paraguay,South Korea,3,1,Qualifier,0
+2020-12-15,Jamaica,Turkey,1,0,Friendly,0
+2020-12-16,Ghana,Morocco,0,1,Qualifier,0
+2020-12-17,Algeria,Turkey,0,2,Qualifier,0
+2020-12-17,Bolivia,Argentina,1,5,Friendly,1
+2020-12-18,New Zealand,Iran,2,2,Friendly,0
+2020-12-19,Ivory Coast,Australia,2,0,Qualifier,0
+2020-12-20,Portugal,Serbia,1,0,Friendly,0
+2020-12-20,Mexico,Bolivia,2,0,Qualifier,0
+2020-12-21,Ivory Coast,Mexico,0,1,Qualifier,1
+2020-12-22,Cameroon,Egypt,0,1,Qualifier,0
+2020-12-22,Croatia,Canada,3,0,Qualifier,1
+2020-12-23,Costa Rica,United States,2,0,Friendly,0
+2020-12-24,Portugal,Ecuador,4,0,Qualifier,0
+2020-12-25,Ukraine,United States,3,1,Qualifier,0
+2020-12-25,Serbia,England,2,2,Qualifier,0
+2020-12-26,Portugal,Bolivia,5,0,Qualifier,0
+2020-12-27,Croatia,France,2,3,Qualifier,0
+2020-12-28,Australia,Colombia,0,2,Friendly,0
+2020-12-28,Poland,Ivory Coast,1,0,Qualifier,0
+2020-12-29,DR Congo,Croatia,1,3,Qualifier,0
+2020-12-30,Ghana,Poland,2,0,Qualifier,0
+2020-12-31,Senegal,Cameroon,1,1,Qualifier,0
+2020-12-31,France,Qatar,4,1,Friendly,1
+2021-01-01,Ecuador,Uzbekistan,2,0,Qualifier,1
+2021-01-02,Italy,Belgium,3,2,Qualifier,1
+2021-01-02,Algeria,Panama,3,1,Friendly,1
+2021-01-03,Colombia,Spain,0,2,Friendly,1
+2021-01-04,New Zealand,Belgium,1,2,Qualifier,0
+2021-01-05,Switzerland,Paraguay,5,1,Qualifier,0
+2021-01-05,Uruguay,Colombia,1,0,Friendly,0
+2021-01-06,United States,DR Congo,2,0,Qualifier,0
+2021-01-07,Poland,Colombia,0,0,Friendly,0
+2021-01-08,Belgium,Denmark,0,2,Qualifier,0
+2021-01-08,Netherlands,Panama,8,0,Qualifier,0
+2021-01-09,Japan,Austria,2,0,Qualifier,1
+2021-01-10,Italy,Costa Rica,3,0,Friendly,0
+2021-01-10,Panama,New Zealand,3,0,Qualifier,0
+2021-01-11,Uruguay,Italy,1,0,Qualifier,1
+2021-01-12,Australia,Canada,0,2,Qualifier,0
+2021-01-13,United States,Mexico,2,1,Qualifier,1
+2021-01-13,Switzerland,Jamaica,0,0,Qualifier,0
+2021-01-14,England,France,3,0,Qualifier,0
+2021-01-15,Costa Rica,Poland,2,2,Friendly,0
+2021-01-16,Canada,Brazil,1,1,Friendly,1
+2021-01-16,Qatar,Senegal,3,1,Friendly,0
+2021-01-17,England,Italy,1,1,Qualifier,0
+2021-01-18,Croatia,Iraq,3,0,Qualifier,0
+2021-01-18,United States,England,2,2,Friendly,1
+2021-01-19,Morocco,Iran,3,0,Qualifier,0
+2021-01-20,Netherlands,Ukraine,1,1,Friendly,0
+2021-01-21,Serbia,Poland,3,2,Qualifier,0
+2021-01-21,Colombia,Nigeria,2,1,Friendly,0
+2021-01-22,France,Iran,4,0,Friendly,0
+2021-01-23,United States,Ghana,2,1,Friendly,0
+2021-01-24,Switzerland,Qatar,2,1,Qualifier,0
+2021-01-24,United States,Senegal,1,0,Qualifier,1
+2021-01-25,Costa Rica,Australia,0,0,Qualifier,0
+2021-01-26,Panama,Uruguay,2,1,Qualifier,0
+2021-01-27,Bolivia,Ukraine,1,3,Qualifier,0
+2021-01-27,Ecuador,Iran,0,0,Qualifier,0
+2021-01-28,Japan,Uruguay,0,3,Qualifier,0
+2021-01-29,Germany,Tunisia,3,0,Friendly,0
+2021-01-29,Bolivia,Netherlands,1,0,Qualifier,0
+2021-01-30,New Zealand,Croatia,0,0,Qualifier,0
+2021-01-31,New Zealand,Ghana,2,1,Qualifier,0
+2021-02-01,Poland,Germany,1,2,Friendly,0
+2021-02-01,Uruguay,Paraguay,5,0,Qualifier,0
+2021-02-02,Qatar,Morocco,0,1,Qualifier,0
+2021-02-03,Senegal,Uzbekistan,4,0,Friendly,0
+2021-02-04,Bolivia,Italy,0,0,Friendly,1
+2021-02-04,Qatar,Austria,0,3,Qualifier,0
+2021-02-05,Bolivia,United States,3,2,Friendly,0
+2021-02-06,Switzerland,Belgium,1,0,Friendly,0
+2021-02-06,Colombia,Japan,4,0,Qualifier,0
+2021-02-07,Italy,Canada,2,1,Friendly,0
+2021-02-08,France,United States,4,1,Qualifier,0
+2021-02-09,Portugal,Tunisia,6,0,Friendly,1
+2021-02-09,Ghana,Mexico,0,0,Qualifier,0
+2021-02-10,Croatia,Brazil,2,1,Qualifier,1
+2021-02-11,Uzbekistan,England,0,5,Qualifier,0
+2021-02-12,Belgium,Argentina,0,1,Friendly,0
+2021-02-12,Portugal,Japan,3,1,Qualifier,0
+2021-02-13,Mexico,Senegal,1,0,Qualifier,0
+2021-02-14,Spain,Senegal,2,2,Qualifier,0
+2021-02-14,Iraq,Colombia,0,2,Friendly,0
+2021-02-15,Japan,Uruguay,1,0,Friendly,0
+2021-02-16,Algeria,Croatia,1,2,Friendly,0
+2021-02-17,Argentina,Qatar,6,0,Friendly,1
+2021-02-17,Austria,Ivory Coast,2,0,Friendly,0
+2021-02-18,South Korea,Uzbekistan,0,0,Qualifier,1
+2021-02-19,Japan,Canada,1,0,Friendly,0
+2021-02-20,France,Canada,4,0,Qualifier,0
+2021-02-20,Australia,Brazil,1,2,Qualifier,0
+2021-02-21,Uzbekistan,Senegal,0,3,Qualifier,0
+2021-02-22,Saudi Arabia,Canada,0,1,Friendly,1
+2021-02-23,Uzbekistan,Austria,0,1,Qualifier,1
+2021-02-23,Serbia,New Zealand,2,1,Qualifier,1
+2021-02-24,Bolivia,Argentina,0,3,Friendly,1
+2021-02-25,Nigeria,Netherlands,1,2,Qualifier,0
+2021-02-25,Denmark,Nigeria,4,0,Friendly,0
+2021-02-26,Poland,Morocco,6,2,Friendly,0
+2021-02-27,Ecuador,Ghana,6,0,Qualifier,1
+2021-02-28,Jamaica,Denmark,0,2,Qualifier,1
+2021-02-28,France,Poland,2,0,Friendly,0
+2021-03-01,Serbia,Morocco,3,0,Qualifier,0
+2021-03-02,Paraguay,South Korea,1,1,Qualifier,0
+2021-03-03,Denmark,Paraguay,1,0,Friendly,1
+2021-03-03,Saudi Arabia,Iran,3,4,Friendly,1
+2021-03-04,Paraguay,DR Congo,0,0,Friendly,0
+2021-03-05,Colombia,Uzbekistan,2,1,Friendly,0
+2021-03-05,Algeria,Brazil,3,3,Qualifier,0
+2021-03-06,Spain,Algeria,6,1,Friendly,0
+2021-03-07,Spain,Senegal,2,0,Qualifier,0
+2021-03-08,Nigeria,Belgium,1,1,Friendly,0
+2021-03-08,Poland,Portugal,1,1,Qualifier,0
+2021-03-09,Austria,Australia,4,0,Qualifier,0
+2021-03-10,Denmark,Canada,4,1,Friendly,0
+2021-03-11,Poland,Serbia,1,1,Qualifier,0
+2021-03-11,Belgium,England,0,1,Qualifier,0
+2021-03-12,Brazil,Croatia,2,1,Qualifier,1
+2021-03-13,Italy,Canada,3,0,Qualifier,1
+2021-03-14,Japan,Austria,1,0,Qualifier,0
+2021-03-14,England,Senegal,4,0,Friendly,0
+2021-03-15,South Korea,Jamaica,3,2,Qualifier,0
+2021-03-16,Poland,Argentina,0,0,Qualifier,0
+2021-03-16,Morocco,Poland,1,1,Qualifier,0
+2021-03-17,Costa Rica,Turkey,1,2,Qualifier,0
+2021-03-18,Netherlands,Panama,5,0,Qualifier,1
+2021-03-19,Colombia,Belgium,2,0,Qualifier,0
+2021-03-19,Paraguay,France,1,1,Qualifier,1
+2021-03-20,Croatia,Ivory Coast,1,1,Friendly,0
+2021-03-21,Croatia,Saudi Arabia,3,0,Qualifier,0
+2021-03-22,Ghana,Ukraine,0,0,Qualifier,0
+2021-03-22,Turkey,Nigeria,1,1,Friendly,1
+2021-03-23,Cameroon,Brazil,1,4,Friendly,0
+2021-03-24,Egypt,Qatar,5,0,Qualifier,0
+2021-03-24,Saudi Arabia,Senegal,1,2,Qualifier,0
+2021-03-25,Germany,England,1,1,Qualifier,0
+2021-03-26,Jamaica,Colombia,1,3,Friendly,0
+2021-03-27,Paraguay,France,1,2,Qualifier,0
+2021-03-27,Panama,Algeria,2,2,Qualifier,0
+2021-03-28,France,England,1,0,Qualifier,0
+2021-03-29,Paraguay,Ukraine,0,3,Qualifier,0
+2021-03-30,Croatia,Uzbekistan,4,1,Qualifier,0
+2021-03-30,Ukraine,United States,1,0,Qualifier,0
+2021-03-31,Senegal,Brazil,2,0,Qualifier,0
+2021-04-01,Nigeria,Algeria,1,0,Friendly,1
+2021-04-01,Spain,Italy,1,1,Friendly,0
+2021-04-02,Australia,Algeria,1,0,Friendly,0
+2021-04-03,Serbia,Croatia,0,0,Qualifier,0
+2021-04-04,Panama,Argentina,0,2,Qualifier,0
+2021-04-04,Canada,Croatia,2,1,Qualifier,0
+2021-04-05,Switzerland,Denmark,0,1,Qualifier,0
+2021-04-06,Iran,Netherlands,1,0,Qualifier,0
+2021-04-07,Poland,Uzbekistan,5,2,Qualifier,0
+2021-04-07,Australia,Cameroon,3,1,Qualifier,0
+2021-04-08,Ghana,Canada,1,2,Qualifier,0
+2021-04-09,Switzerland,Mexico,2,1,Friendly,0
+2021-04-10,Jamaica,Poland,2,3,Friendly,0
+2021-04-10,Ukraine,Saudi Arabia,4,0,Qualifier,1
+2021-04-11,Qatar,Uruguay,1,2,Friendly,0
+2021-04-12,Germany,Morocco,2,1,Friendly,1
+2021-04-12,Bolivia,Jamaica,2,2,Qualifier,0
+2021-04-13,Mexico,Ivory Coast,4,1,Qualifier,0
+2021-04-14,Japan,Egypt,1,0,Friendly,0
+2021-04-15,Iran,Ghana,4,0,Qualifier,0
+2021-04-15,Cameroon,France,1,3,Qualifier,0
+2021-04-16,Jamaica,Ukraine,0,2,Qualifier,0
+2021-04-17,Netherlands,Brazil,2,0,Friendly,0
+2021-04-18,Brazil,Japan,5,0,Friendly,0
+2021-04-18,Italy,Croatia,2,1,Qualifier,0
+2021-04-19,Costa Rica,New Zealand,1,3,Friendly,0
+2021-04-20,Canada,Mexico,2,1,Qualifier,1
+2021-04-20,Bolivia,Australia,1,1,Qualifier,0
+2021-04-21,England,Germany,0,2,Qualifier,0
+2021-04-22,France,Iraq,7,0,Qualifier,0
+2021-04-23,Ivory Coast,England,1,2,Qualifier,0
+2021-04-23,New Zealand,Tunisia,1,0,Qualifier,0
+2021-04-24,Cameroon,Argentina,1,6,Friendly,0
+2021-04-25,Croatia,Saudi Arabia,5,1,Qualifier,0
+2021-04-26,Belgium,Saudi Arabia,0,0,Friendly,0
+2021-04-26,Ukraine,Croatia,3,3,Friendly,0
+2021-04-27,Qatar,Japan,0,1,Qualifier,0
+2021-04-28,Uzbekistan,Uruguay,0,1,Qualifier,0
+2021-04-28,Austria,Uzbekistan,2,4,Qualifier,0
+2021-04-29,Panama,Ghana,2,0,Friendly,0
+2021-04-30,Qatar,Tunisia,1,1,Friendly,0
+2021-05-01,Saudi Arabia,Ivory Coast,2,0,Qualifier,0
+2021-05-01,Cameroon,Morocco,1,2,Qualifier,0
+2021-05-02,Canada,South Korea,3,0,Friendly,0
+2021-05-03,DR Congo,United States,2,1,Friendly,1
+2021-05-04,Switzerland,England,1,1,Friendly,0
+2021-05-04,Uruguay,Croatia,2,3,Qualifier,0
+2021-05-05,Ecuador,Algeria,1,0,Friendly,0
+2021-05-06,Colombia,Panama,0,0,Qualifier,1
+2021-05-07,United States,Poland,2,1,Friendly,0
+2021-05-07,Costa Rica,Mexico,0,1,Qualifier,0
+2021-05-08,Serbia,Croatia,0,1,Qualifier,0
+2021-05-09,Mexico,Tunisia,1,0,Qualifier,1
+2021-05-09,Nigeria,Japan,1,1,Qualifier,0
+2021-05-10,Japan,Ukraine,3,3,Qualifier,0
+2021-05-11,Uzbekistan,Bolivia,2,2,Qualifier,0
+2021-05-12,Austria,Turkey,2,2,Qualifier,0
+2021-05-12,Jamaica,Ivory Coast,3,2,Friendly,0
+2021-05-13,Iran,Jamaica,4,1,Qualifier,0
+2021-05-14,Cameroon,Japan,0,2,Friendly,0
+2021-05-15,Paraguay,Australia,1,0,Qualifier,0
+2021-05-15,Costa Rica,Paraguay,1,2,Qualifier,0
+2021-05-16,Australia,Panama,4,2,Friendly,0
+2021-05-17,Jamaica,Mexico,0,1,Qualifier,0
+2021-05-17,Netherlands,South Korea,0,0,Friendly,0
+2021-05-18,Iraq,Denmark,1,2,Qualifier,0
+2021-05-19,Colombia,Uruguay,1,2,Qualifier,1
+2021-05-20,England,Argentina,1,1,Qualifier,0
+2021-05-20,Turkey,Portugal,1,1,Friendly,0
+2021-05-21,Ghana,Iraq,3,1,Friendly,0
+2021-05-22,France,Qatar,11,0,Qualifier,0
+2021-05-23,Germany,New Zealand,4,0,Friendly,0
+2021-05-23,United States,Ivory Coast,4,0,Friendly,0
+2021-05-24,United States,Iraq,4,1,Friendly,1
+2021-05-25,Algeria,Senegal,3,2,Qualifier,0
+2021-05-26,Uzbekistan,Iran,0,1,Friendly,1
+2021-05-26,Saudi Arabia,Algeria,1,1,Friendly,0
+2021-05-27,Belgium,Ecuador,3,0,Qualifier,0
+2021-05-28,New Zealand,Ecuador,0,0,Qualifier,0
+2021-05-28,South Korea,England,2,2,Qualifier,1
+2021-05-29,Argentina,France,1,2,Qualifier,0
+2021-05-30,Germany,Qatar,5,0,Friendly,0
+2021-05-31,Saudi Arabia,Italy,1,2,Friendly,0
+2021-05-31,Canada,Tunisia,1,1,Qualifier,0
+2021-06-01,Colombia,Nigeria,2,0,Qualifier,1
+2021-06-02,Egypt,Turkey,3,1,Qualifier,0
+2021-06-03,Italy,Australia,2,1,Qualifier,0
+2021-06-03,Denmark,United States,3,1,Friendly,0
+2021-06-04,Saudi Arabia,Ukraine,1,2,Qualifier,1
+2021-06-05,Ivory Coast,Algeria,1,1,Friendly,0
+2021-06-05,South Korea,Brazil,2,3,Qualifier,0
+2021-06-06,Canada,Denmark,1,1,Qualifier,0
+2021-06-07,Colombia,Ukraine,2,0,Friendly,0
+2021-06-08,Austria,Serbia,0,0,Qualifier,0
+2021-06-08,Panama,France,1,4,Qualifier,0
+2021-06-09,Germany,Colombia,1,4,Qualifier,0
+2021-06-10,Switzerland,DR Congo,2,1,Qualifier,0
+2021-06-11,Japan,Nigeria,0,4,Qualifier,0
+2021-06-11,Tunisia,Italy,1,0,Qualifier,0
+2021-06-12,Poland,New Zealand,6,0,Friendly,0
+2021-06-13,New Zealand,Switzerland,2,7,Qualifier,0
+2021-06-13,Spain,Mexico,0,0,Friendly,0
+2021-06-14,Netherlands,Ghana,2,1,Friendly,0
+2021-06-15,Nigeria,Qatar,4,0,Qualifier,0
+2021-06-16,Jamaica,Uzbekistan,1,1,Qualifier,1
+2021-06-16,Morocco,Netherlands,2,2,Qualifier,0
+2021-06-17,Turkey,Poland,5,1,Friendly,0
+2021-06-18,Panama,Ivory Coast,5,3,Friendly,0
+2021-06-19,Uzbekistan,Algeria,1,2,Friendly,0
+2021-06-19,Canada,Iran,2,2,Qualifier,0
+2021-06-20,DR Congo,Uzbekistan,2,2,Friendly,0
+2021-06-21,Senegal,Iran,2,1,Qualifier,0
+2021-06-22,Algeria,New Zealand,2,1,Friendly,0
+2021-06-22,Serbia,Uzbekistan,3,0,Friendly,0
+2021-06-23,Ukraine,Argentina,1,1,Friendly,0
+2021-06-24,Poland,Bolivia,1,1,Qualifier,0
+2021-06-24,Qatar,Poland,2,1,Qualifier,0
+2021-06-25,South Korea,Croatia,0,1,Qualifier,0
+2021-06-26,Austria,Saudi Arabia,6,0,Friendly,0
+2021-06-27,Argentina,Paraguay,5,0,Qualifier,0
+2021-06-27,Saudi Arabia,Mexico,1,1,Qualifier,1
+2021-06-28,Ivory Coast,New Zealand,2,1,Friendly,0
+2021-06-29,Canada,Croatia,0,2,Qualifier,0
+2021-06-30,Tunisia,Egypt,2,1,Qualifier,0
+2021-06-30,Italy,Mexico,4,2,Friendly,0
+2021-07-01,Canada,South Korea,1,1,Qualifier,1
+2021-07-02,Tunisia,Costa Rica,2,0,Qualifier,1
+2021-07-02,Tunisia,Austria,1,2,Qualifier,1
+2021-07-03,Netherlands,Austria,7,0,Qualifier,0
+2021-07-04,Belgium,Paraguay,1,1,Friendly,0
+2021-07-05,DR Congo,Serbia,1,1,Qualifier,0
+2021-07-05,Morocco,South Korea,0,1,Qualifier,0
+2021-07-06,Denmark,France,0,2,Qualifier,0
+2021-07-07,Iran,Ghana,3,1,Qualifier,0
+2021-07-08,Netherlands,Spain,1,0,Friendly,0
+2021-07-08,Argentina,South Korea,1,0,Qualifier,0
+2021-07-09,Ecuador,Jamaica,5,1,Friendly,0
+2021-07-10,Algeria,Nigeria,1,3,Qualifier,0
+2021-07-10,Austria,Morocco,1,0,Friendly,0
+2021-07-11,Ukraine,Qatar,1,0,Qualifier,1
+2021-07-12,Belgium,United States,7,0,Qualifier,0
+2021-07-13,South Korea,Uruguay,0,0,Qualifier,0
+2021-07-13,New Zealand,England,0,3,Friendly,0
+2021-07-14,South Korea,Senegal,2,0,Friendly,0
+2021-07-15,Croatia,Ukraine,4,0,Friendly,0
+2021-07-16,Colombia,Bolivia,3,1,Qualifier,1
+2021-07-16,DR Congo,Portugal,0,2,Qualifier,0
+2021-07-17,Germany,Tunisia,1,0,Qualifier,0
+2021-07-18,Ghana,Germany,1,2,Friendly,0
+2021-07-19,Bolivia,Australia,0,0,Friendly,0
+2021-07-19,Turkey,Argentina,2,6,Qualifier,0
+2021-07-20,Panama,Cameroon,1,5,Friendly,0
+2021-07-21,South Korea,France,1,1,Qualifier,0
+2021-07-21,Croatia,Panama,3,0,Qualifier,0
+2021-07-22,South Korea,Belgium,2,1,Friendly,0
+2021-07-23,Switzerland,Ghana,3,0,Qualifier,0
+2021-07-24,Ecuador,Iraq,4,1,Qualifier,0
+2021-07-24,Algeria,Germany,1,1,Friendly,0
+2021-07-25,DR Congo,Denmark,1,3,Friendly,0
+2021-07-26,New Zealand,Qatar,3,4,Friendly,0
+2021-07-27,Japan,Nigeria,1,3,Qualifier,1
+2021-07-27,South Korea,Australia,3,2,Friendly,0
+2021-07-28,Uzbekistan,Germany,1,2,Friendly,0
+2021-07-29,Serbia,Paraguay,2,2,Qualifier,0
+2021-07-29,Morocco,Switzerland,2,0,Qualifier,0
+2021-07-30,Iraq,Austria,1,3,Qualifier,1
+2021-07-31,Paraguay,Cameroon,1,0,Qualifier,1
+2021-08-01,Ukraine,DR Congo,2,0,Qualifier,0
+2021-08-01,Algeria,United States,3,0,Friendly,0
+2021-08-02,Uruguay,Colombia,1,1,Friendly,0
+2021-08-03,Costa Rica,Uruguay,0,1,Qualifier,0
+2021-08-04,Saudi Arabia,Denmark,1,2,Friendly,0
+2021-08-04,Jamaica,Belgium,0,1,Friendly,0
+2021-08-05,Belgium,Bolivia,4,1,Friendly,0
+2021-08-06,Switzerland,Egypt,5,0,Qualifier,0
+2021-08-07,Germany,Saudi Arabia,3,2,Friendly,0
+2021-08-07,Turkey,Portugal,1,1,Qualifier,0
+2021-08-08,Uruguay,South Korea,3,1,Qualifier,0
+2021-08-09,Poland,New Zealand,0,0,Friendly,0
+2021-08-09,Egypt,Nigeria,1,0,Qualifier,1
+2021-08-10,United States,Brazil,2,1,Qualifier,0
+2021-08-11,Morocco,Austria,2,0,Qualifier,0
+2021-08-12,Cameroon,England,1,1,Qualifier,1
+2021-08-12,South Korea,New Zealand,1,1,Friendly,1
+2021-08-13,Turkey,Austria,2,0,Friendly,0
+2021-08-14,Argentina,Belgium,1,1,Qualifier,0
+2021-08-15,Spain,South Korea,5,2,Friendly,0
+2021-08-15,Croatia,New Zealand,3,0,Qualifier,1
+2021-08-16,Canada,Tunisia,1,1,Friendly,0
+2021-08-17,Austria,Nigeria,3,0,Qualifier,0
+2021-08-17,Canada,Denmark,2,1,Qualifier,1
+2021-08-18,Cameroon,Saudi Arabia,1,1,Friendly,1
+2021-08-19,Jamaica,Poland,0,2,Qualifier,0
+2021-08-20,France,Qatar,6,0,Qualifier,0
+2021-08-20,Netherlands,Morocco,1,0,Qualifier,0
+2021-08-21,Ivory Coast,Croatia,1,1,Friendly,0
+2021-08-22,Ghana,Netherlands,2,3,Friendly,0
+2021-08-23,United States,England,0,3,Friendly,0
+2021-08-23,Iran,Qatar,3,1,Friendly,0
+2021-08-24,Croatia,Belgium,2,0,Qualifier,0
+2021-08-25,Ivory Coast,Australia,0,0,Friendly,0
+2021-08-25,Poland,Bolivia,3,0,Qualifier,0
+2021-08-26,Austria,Nigeria,2,0,Qualifier,0
+2021-08-27,Serbia,Croatia,1,1,Qualifier,0
+2021-08-28,France,Netherlands,1,2,Qualifier,0
+2021-08-28,Denmark,Jamaica,4,2,Qualifier,0
+2021-08-29,Brazil,Bolivia,6,0,Qualifier,0
+2021-08-30,United States,Argentina,0,3,Qualifier,1
+2021-08-31,Argentina,Jamaica,2,0,Qualifier,0
+2021-08-31,Australia,Panama,3,0,Friendly,0
+2021-09-01,Mexico,Spain,0,0,Qualifier,1
+2021-09-02,Morocco,Netherlands,2,2,Qualifier,0
+2021-09-03,Croatia,Argentina,0,0,Qualifier,0
+2021-09-03,Colombia,Bolivia,4,0,Friendly,0
+2021-09-04,Uzbekistan,Australia,1,1,Qualifier,0
+2021-09-05,Paraguay,Netherlands,2,2,Qualifier,1
+2021-09-05,Costa Rica,Tunisia,2,2,Qualifier,0
+2021-09-06,Portugal,Jamaica,5,0,Friendly,0
+2021-09-07,Saudi Arabia,Senegal,1,3,Qualifier,0
+2021-09-08,Switzerland,England,0,5,Qualifier,0
+2021-09-08,Brazil,Iraq,7,0,Qualifier,1
+2021-09-09,Denmark,Germany,0,2,Friendly,1
+2021-09-10,Nigeria,New Zealand,1,0,Qualifier,0
+2021-09-11,Tunisia,Spain,0,3,Qualifier,1
+2021-09-11,Spain,Jamaica,5,0,Qualifier,1
+2021-09-12,Morocco,Saudi Arabia,2,0,Qualifier,0
+2021-09-13,Poland,Ivory Coast,1,1,Qualifier,0
+2021-09-13,United States,Serbia,1,4,Qualifier,0
+2021-09-14,Italy,Morocco,1,0,Qualifier,1
+2021-09-15,Mexico,Tunisia,1,2,Friendly,1
+2021-09-16,Uzbekistan,Costa Rica,2,2,Friendly,0
+2021-09-16,Tunisia,Argentina,0,7,Qualifier,0
+2021-09-17,United States,Austria,3,0,Qualifier,1
+2021-09-18,Panama,Turkey,0,2,Friendly,0
+2021-09-19,Qatar,France,3,2,Qualifier,0
+2021-09-19,Denmark,Japan,0,2,Friendly,0
+2021-09-20,Spain,Morocco,3,0,Qualifier,0
+2021-09-21,Nigeria,Jamaica,0,3,Friendly,0
+2021-09-21,Iran,Croatia,2,0,Qualifier,0
+2021-09-22,Saudi Arabia,DR Congo,1,1,Qualifier,0
+2021-09-23,Argentina,Australia,1,0,Qualifier,0
+2021-09-24,Brazil,Argentina,2,1,Friendly,1
+2021-09-24,England,Ukraine,3,0,Friendly,0
+2021-09-25,France,Ecuador,3,1,Qualifier,0
+2021-09-26,Switzerland,Iran,3,1,Friendly,0
+2021-09-27,Uzbekistan,Portugal,0,7,Friendly,1
+2021-09-27,France,Algeria,6,0,Qualifier,1
+2021-09-28,Serbia,Switzerland,3,2,Friendly,0
+2021-09-29,Senegal,Italy,1,1,Qualifier,0
+2021-09-30,Australia,Qatar,0,1,Qualifier,0
+2021-09-30,England,Algeria,4,0,Qualifier,0
+2021-10-01,Ukraine,Netherlands,0,1,Qualifier,0
+2021-10-02,Nigeria,Saudi Arabia,3,2,Qualifier,0
+2021-10-02,Brazil,France,3,1,Friendly,0
+2021-10-03,Brazil,South Korea,4,3,Friendly,0
+2021-10-04,Turkey,South Korea,3,1,Friendly,0
+2021-10-05,Uzbekistan,DR Congo,3,0,Friendly,0
+2021-10-05,England,Italy,3,1,Friendly,0
+2021-10-06,Poland,South Korea,1,2,Qualifier,0
+2021-10-07,Croatia,Iran,0,1,Qualifier,0
+2021-10-08,Australia,Argentina,2,2,Friendly,0
+2021-10-08,Austria,Serbia,3,1,Friendly,0
+2021-10-09,Ivory Coast,France,0,0,Friendly,0
+2021-10-10,Costa Rica,Ukraine,1,0,Qualifier,0
+2021-10-10,Tunisia,Colombia,0,1,Qualifier,0
+2021-10-11,Senegal,Morocco,2,0,Friendly,0
+2021-10-12,Mexico,Iraq,5,1,Qualifier,1
+2021-10-13,Switzerland,Uzbekistan,1,0,Qualifier,0
+2021-10-13,Iraq,Algeria,1,1,Qualifier,0
+2021-10-14,Saudi Arabia,Panama,2,1,Friendly,1
+2021-10-15,Tunisia,Qatar,3,1,Qualifier,0
+2021-10-16,Denmark,Switzerland,1,3,Qualifier,0
+2021-10-16,Mexico,Austria,7,0,Friendly,0
+2021-10-17,Canada,South Korea,1,0,Qualifier,0
+2021-10-18,Tunisia,Denmark,0,3,Qualifier,0
+2021-10-19,Cameroon,Turkey,5,2,Friendly,0
+2021-10-19,Paraguay,Ecuador,2,1,Friendly,1
+2021-10-20,Ecuador,Japan,2,0,Friendly,1
+2021-10-21,Egypt,Italy,0,1,Friendly,0
+2021-10-21,Egypt,Paraguay,2,2,Friendly,1
+2021-10-22,Jamaica,Turkey,1,3,Friendly,0
+2021-10-23,Morocco,Bolivia,8,0,Friendly,0
+2021-10-24,Austria,Iran,3,0,Qualifier,0
+2021-10-24,Australia,Iran,1,0,Qualifier,0
+2021-10-25,Nigeria,Poland,3,0,Qualifier,0
+2021-10-26,Brazil,New Zealand,4,0,Friendly,0
+2021-10-27,Canada,Switzerland,1,2,Qualifier,0
+2021-10-27,Ivory Coast,Uzbekistan,2,0,Friendly,0
+2021-10-28,Germany,Ivory Coast,3,0,Friendly,0
+2021-10-29,Ivory Coast,Australia,2,2,Friendly,1
+2021-10-29,Brazil,Nigeria,4,0,Qualifier,0
+2021-10-30,Jamaica,United States,1,0,Friendly,0
+2021-10-31,Panama,New Zealand,2,2,Qualifier,1
+2021-11-01,United States,Panama,2,1,Qualifier,0
+2021-11-01,Algeria,Ivory Coast,1,2,Qualifier,0
+2021-11-02,Brazil,Australia,3,0,Qualifier,1
+2021-11-03,Austria,Argentina,1,4,Friendly,0
+2021-11-04,Colombia,Canada,2,1,Friendly,1
+2021-11-04,Canada,Portugal,1,2,Qualifier,0
+2021-11-05,Belgium,England,1,0,Qualifier,0
+2021-11-06,Qatar,Senegal,1,2,Friendly,0
+2021-11-06,Nigeria,Morocco,2,2,Qualifier,0
+2021-11-07,Serbia,England,1,1,Qualifier,0
+2021-11-08,Ivory Coast,Ecuador,1,1,Qualifier,0
+2021-11-09,Portugal,Croatia,6,3,Qualifier,0
+2021-11-09,Jamaica,Morocco,0,2,Qualifier,1
+2021-11-10,England,Colombia,2,0,Friendly,0
+2021-11-11,Austria,Qatar,2,1,Friendly,0
+2021-11-12,Ecuador,Denmark,2,1,Qualifier,0
+2021-11-12,Tunisia,Senegal,0,0,Qualifier,1
+2021-11-13,Canada,DR Congo,4,0,Qualifier,0
+2021-11-14,Saudi Arabia,Serbia,1,1,Friendly,0
+2021-11-15,Spain,Japan,4,0,Friendly,0
+2021-11-15,Ukraine,Serbia,0,1,Friendly,0
+2021-11-16,Iran,Belgium,3,1,Friendly,0
+2021-11-17,Poland,Panama,4,0,Friendly,0
+2021-11-17,France,Canada,3,2,Qualifier,0
+2021-11-18,Poland,Nigeria,0,3,Qualifier,1
+2021-11-19,DR Congo,Ecuador,0,0,Friendly,0
+2021-11-20,Denmark,Iran,2,2,Friendly,0
+2021-11-20,Japan,Ivory Coast,2,1,Friendly,1
+2021-11-21,Turkey,Colombia,1,1,Qualifier,0
+2021-11-22,Tunisia,Ivory Coast,2,1,Friendly,0
+2021-11-23,Nigeria,DR Congo,4,2,Friendly,0
+2021-11-23,Tunisia,Ivory Coast,2,1,Friendly,0
+2021-11-24,Iraq,Brazil,1,2,Qualifier,0
+2021-11-25,Ecuador,Morocco,1,2,Qualifier,1
+2021-11-25,Italy,Uzbekistan,3,0,Friendly,0
+2021-11-26,Jamaica,Cameroon,1,0,Qualifier,0
+2021-11-27,Canada,Austria,2,1,Qualifier,0
+2021-11-28,Qatar,Bolivia,0,0,Friendly,0
+2021-11-28,Nigeria,Croatia,1,0,Qualifier,0
+2021-11-29,Tunisia,DR Congo,0,2,Qualifier,0
+2021-11-30,United States,Croatia,1,1,Qualifier,0
+2021-12-01,Poland,Bolivia,2,0,Friendly,1
+2021-12-01,Tunisia,Germany,0,3,Qualifier,0
+2021-12-02,Panama,Argentina,1,3,Friendly,1
+2021-12-03,Paraguay,Denmark,2,2,Qualifier,0
+2021-12-03,Spain,Croatia,4,0,Friendly,0
+2021-12-04,Germany,Uzbekistan,3,0,Qualifier,1
+2021-12-05,Japan,Germany,0,0,Qualifier,0
+2021-12-06,Argentina,France,3,2,Qualifier,0
+2021-12-06,Belgium,Portugal,1,1,Qualifier,1
+2021-12-07,Serbia,Spain,0,0,Friendly,0
+2021-12-08,Netherlands,France,2,1,Friendly,0
+2021-12-09,Nigeria,Belgium,1,1,Qualifier,0
+2021-12-09,Senegal,Algeria,2,1,Friendly,0
+2021-12-10,Ecuador,Ukraine,2,1,Qualifier,0
+2021-12-11,Austria,Netherlands,3,1,Qualifier,0
+2021-12-12,Uruguay,Japan,1,1,Qualifier,0
+2021-12-12,South Korea,New Zealand,4,1,Friendly,0
+2021-12-13,DR Congo,Ecuador,0,3,Friendly,0
+2021-12-14,Qatar,Germany,0,3,Friendly,0
+2021-12-14,Iraq,Bolivia,0,0,Qualifier,0
+2021-12-15,Canada,Croatia,1,2,Qualifier,0
+2021-12-16,Senegal,Saudi Arabia,3,1,Friendly,0
+2021-12-17,Switzerland,Iraq,7,1,Qualifier,0
+2021-12-17,Colombia,Costa Rica,4,0,Qualifier,0
+2021-12-18,Switzerland,Saudi Arabia,3,2,Qualifier,0
+2021-12-19,Costa Rica,Croatia,2,3,Qualifier,1
+2021-12-20,Uzbekistan,Brazil,1,2,Friendly,1
+2021-12-20,Ivory Coast,Nigeria,2,2,Qualifier,0
+2021-12-21,Germany,Austria,3,1,Qualifier,0
+2021-12-22,Panama,England,0,7,Qualifier,0
+2021-12-22,Morocco,Senegal,3,2,Qualifier,0
+2021-12-23,Turkey,Ecuador,0,2,Qualifier,0
+2021-12-24,Egypt,Nigeria,2,0,Qualifier,0
+2021-12-25,Turkey,Croatia,0,0,Qualifier,0
+2021-12-25,Austria,Morocco,0,2,Friendly,0
+2021-12-26,United States,Spain,2,0,Qualifier,0
+2021-12-27,Turkey,DR Congo,1,2,Qualifier,0
+2021-12-28,Poland,England,1,2,Qualifier,1
+2021-12-28,Bolivia,Algeria,1,2,Friendly,0
+2021-12-29,Serbia,Saudi Arabia,1,4,Friendly,1
+2021-12-30,Argentina,Netherlands,2,0,Qualifier,0
+2021-12-31,Cameroon,Senegal,1,3,Friendly,1
+2021-12-31,Serbia,Paraguay,1,2,Qualifier,0
+2022-01-01,Nigeria,Ukraine,0,1,Friendly,0
+2022-01-02,Italy,Spain,2,1,Qualifier,0
+2022-01-02,Denmark,Canada,4,0,Qualifier,0
+2022-01-03,Iraq,Japan,2,0,Qualifier,0
+2022-01-04,Germany,France,1,3,Friendly,1
+2022-01-05,Saudi Arabia,Germany,3,2,Qualifier,0
+2022-01-05,Egypt,Iraq,1,0,Qualifier,0
+2022-01-06,Denmark,DR Congo,4,1,Friendly,1
+2022-01-07,Germany,Iraq,3,0,Qualifier,0
+2022-01-08,Brazil,Ivory Coast,4,0,Qualifier,0
+2022-01-08,Portugal,Japan,4,0,Friendly,0
+2022-01-09,Algeria,Spain,0,3,Qualifier,1
+2022-01-10,Canada,New Zealand,1,2,Qualifier,0
+2022-01-10,Costa Rica,Saudi Arabia,3,0,Qualifier,0
+2022-01-11,France,Qatar,4,2,Qualifier,0
+2022-01-12,Ghana,United States,3,1,Friendly,1
+2022-01-13,Senegal,New Zealand,0,0,Qualifier,0
+2022-01-13,Iraq,Austria,2,2,Qualifier,0
+2022-01-14,Canada,Uruguay,0,2,Qualifier,0
+2022-01-15,New Zealand,Bolivia,3,2,Qualifier,0
+2022-01-16,Tunisia,New Zealand,2,0,Qualifier,0
+2022-01-16,Portugal,Switzerland,0,1,Qualifier,0
+2022-01-17,Germany,England,2,2,Qualifier,0
+2022-01-18,Iraq,Uzbekistan,1,1,Qualifier,1
+2022-01-18,Ukraine,Japan,1,1,Qualifier,1
+2022-01-19,Saudi Arabia,Belgium,0,4,Friendly,0
+2022-01-20,Egypt,Portugal,0,5,Qualifier,0
+2022-01-21,Panama,Croatia,1,1,Friendly,0
+2022-01-21,Croatia,Morocco,0,2,Friendly,0
+2022-01-22,Nigeria,Bolivia,1,1,Qualifier,1
+2022-01-23,Costa Rica,Panama,2,0,Qualifier,0
+2022-01-24,New Zealand,Canada,0,0,Qualifier,0
+2022-01-24,Mexico,Austria,2,1,Friendly,0
+2022-01-25,Uruguay,Ukraine,0,2,Qualifier,0
+2022-01-26,Iraq,New Zealand,1,1,Qualifier,0
+2022-01-27,Argentina,Switzerland,3,0,Qualifier,0
+2022-01-27,DR Congo,Brazil,3,0,Qualifier,0
+2022-01-28,Mexico,Germany,0,1,Friendly,0
+2022-01-29,Saudi Arabia,Japan,0,0,Friendly,0
+2022-01-29,Poland,Cameroon,3,1,Friendly,0
+2022-01-30,Austria,Nigeria,1,2,Friendly,0
+2022-01-31,Morocco,Portugal,1,1,Qualifier,1
+2022-02-01,Qatar,Portugal,0,2,Qualifier,0
+2022-02-01,Paraguay,Morocco,1,0,Friendly,0
+2022-02-02,Italy,Canada,2,0,Qualifier,0
+2022-02-03,Serbia,Morocco,1,0,Friendly,0
+2022-02-04,Paraguay,Morocco,1,4,Friendly,0
+2022-02-04,South Korea,France,2,2,Qualifier,0
+2022-02-05,Algeria,Netherlands,2,0,Friendly,0
+2022-02-06,Ecuador,Ukraine,2,3,Friendly,0
+2022-02-06,Ukraine,Uruguay,1,1,Qualifier,1
+2022-02-07,South Korea,Denmark,1,1,Qualifier,0
+2022-02-08,Australia,Jamaica,3,0,Friendly,0
+2022-02-09,Belgium,Mexico,1,1,Qualifier,0
+2022-02-09,Qatar,Ivory Coast,3,3,Qualifier,0
+2022-02-10,Iran,United States,0,2,Qualifier,0
+2022-02-11,Bolivia,Argentina,0,2,Qualifier,0
+2022-02-12,Panama,Serbia,3,1,Qualifier,1
+2022-02-12,Bolivia,Costa Rica,3,0,Qualifier,0
+2022-02-13,Saudi Arabia,Denmark,0,3,Friendly,0
+2022-02-14,Qatar,Portugal,0,2,Friendly,1
+2022-02-14,Egypt,Bolivia,3,0,Qualifier,1
+2022-02-15,Cameroon,Austria,2,1,Qualifier,0
+2022-02-16,Cameroon,Morocco,0,1,Friendly,0
+2022-02-17,DR Congo,Ivory Coast,1,1,Qualifier,0
+2022-02-17,Panama,DR Congo,1,1,Friendly,0
+2022-02-18,Poland,United States,3,1,Qualifier,0
+2022-02-19,New Zealand,Morocco,0,2,Qualifier,0
+2022-02-20,Australia,Costa Rica,3,1,Qualifier,0
+2022-02-20,Ukraine,Ivory Coast,1,1,Qualifier,0
+2022-02-21,Egypt,DR Congo,2,1,Qualifier,0
+2022-02-22,Senegal,Netherlands,1,0,Friendly,0
+2022-02-23,United States,France,0,1,Qualifier,0
+2022-02-23,Bolivia,South Korea,1,4,Friendly,0
+2022-02-24,Nigeria,Switzerland,2,0,Friendly,0
+2022-02-25,Switzerland,Canada,1,1,Friendly,1
+2022-02-25,Australia,Brazil,0,0,Qualifier,0
+2022-02-26,Algeria,Uruguay,1,4,Friendly,0
+2022-02-27,Cameroon,Italy,1,3,Qualifier,1
+2022-02-28,Egypt,Ecuador,1,2,Friendly,0
+2022-02-28,Japan,South Korea,1,1,Friendly,0
+2022-03-01,Portugal,Tunisia,1,1,Qualifier,0
+2022-03-02,Austria,Senegal,0,0,Qualifier,0
+2022-03-03,Mexico,Germany,1,0,Qualifier,0
+2022-03-03,Morocco,Brazil,2,1,Friendly,1
+2022-03-04,Argentina,Uruguay,8,0,Qualifier,0
+2022-03-05,Germany,Egypt,5,1,Friendly,0
+2022-03-05,Qatar,Switzerland,1,0,Qualifier,1
+2022-03-06,Iran,Turkey,2,0,Friendly,0
+2022-03-07,Mexico,Switzerland,0,1,Friendly,0
+2022-03-08,Bolivia,Iraq,2,1,Qualifier,0
+2022-03-08,Mexico,United States,4,1,Qualifier,0
+2022-03-09,Paraguay,Ukraine,1,0,Friendly,0
+2022-03-10,Austria,South Korea,2,2,Qualifier,0
+2022-03-11,Argentina,Switzerland,5,1,Qualifier,0
+2022-03-11,France,Ukraine,3,0,Qualifier,1
+2022-03-12,Qatar,Algeria,0,1,Qualifier,0
+2022-03-13,France,Poland,1,1,Qualifier,0
+2022-03-14,Croatia,Belgium,2,1,Qualifier,0
+2022-03-14,Nigeria,England,3,1,Qualifier,0
+2022-03-15,Colombia,United States,2,0,Qualifier,0
+2022-03-16,Tunisia,Colombia,1,1,Qualifier,0
+2022-03-16,Nigeria,Costa Rica,2,1,Qualifier,0
+2022-03-17,Switzerland,Australia,1,1,Qualifier,0
+2022-03-18,Denmark,Nigeria,2,1,Friendly,1
+2022-03-19,Uruguay,DR Congo,3,1,Qualifier,0
+2022-03-19,Ivory Coast,Canada,1,1,Qualifier,0
+2022-03-20,Germany,Mexico,4,0,Qualifier,0
+2022-03-21,Jamaica,Egypt,2,1,Qualifier,0
+2022-03-22,Denmark,Switzerland,1,1,Qualifier,0
+2022-03-22,Costa Rica,France,0,1,Qualifier,0
+2022-03-23,Paraguay,Ecuador,2,0,Friendly,0
+2022-03-24,Bolivia,Tunisia,0,0,Qualifier,0
+2022-03-24,Senegal,Croatia,1,3,Qualifier,0
+2022-03-25,Iraq,Jamaica,0,4,Qualifier,1
+2022-03-26,Egypt,Turkey,0,1,Qualifier,0
+2022-03-27,Canada,Serbia,0,1,Qualifier,0
+2022-03-27,Canada,Egypt,1,2,Friendly,0
+2022-03-28,New Zealand,Iraq,2,2,Qualifier,1
+2022-03-29,Croatia,Belgium,5,2,Qualifier,0
+2022-03-30,Argentina,Tunisia,4,0,Friendly,0
+2022-03-30,Jamaica,Netherlands,0,5,Qualifier,0
+2022-03-31,Morocco,Uruguay,1,0,Friendly,0
+2022-04-01,Tunisia,Serbia,1,0,Qualifier,0
+2022-04-01,Ivory Coast,Tunisia,2,3,Qualifier,0
+2022-04-02,Brazil,Netherlands,5,0,Qualifier,0
+2022-04-03,Ukraine,Ivory Coast,5,3,Qualifier,0
+2022-04-04,Poland,South Korea,1,1,Friendly,0
+2022-04-04,England,Turkey,1,1,Friendly,1
+2022-04-05,Italy,Brazil,3,2,Friendly,0
+2022-04-06,South Korea,Austria,0,0,Qualifier,0
+2022-04-07,Uruguay,Paraguay,4,2,Qualifier,1
+2022-04-07,Costa Rica,Algeria,0,1,Qualifier,0
+2022-04-08,Iran,Egypt,3,0,Qualifier,0
+2022-04-09,Brazil,Turkey,1,0,Qualifier,0
+2022-04-10,Japan,Paraguay,2,1,Qualifier,0
+2022-04-10,Australia,Jamaica,2,0,Friendly,1
+2022-04-11,Ukraine,Iran,2,2,Friendly,0
+2022-04-12,DR Congo,Croatia,1,6,Friendly,0
+2022-04-12,Bolivia,Ecuador,0,2,Friendly,0
+2022-04-13,Mexico,Italy,2,2,Friendly,0
+2022-04-14,Denmark,New Zealand,2,1,Qualifier,0
+2022-04-15,Argentina,Uzbekistan,2,0,Qualifier,0
+2022-04-15,DR Congo,Denmark,1,2,Friendly,0
+2022-04-16,Canada,Portugal,0,0,Friendly,0
+2022-04-17,Egypt,Costa Rica,3,1,Qualifier,1
+2022-04-18,Ghana,Canada,5,0,Friendly,0
+2022-04-18,Tunisia,Turkey,3,4,Friendly,0
+2022-04-19,Cameroon,Uzbekistan,6,0,Qualifier,0
+2022-04-20,Canada,England,1,1,Friendly,0
+2022-04-20,DR Congo,Spain,0,4,Friendly,0
+2022-04-21,Croatia,Japan,0,1,Qualifier,0
+2022-04-22,Japan,Poland,0,0,Qualifier,0
+2022-04-23,United States,Netherlands,0,0,Qualifier,0
+2022-04-23,Austria,Jamaica,3,0,Qualifier,0
+2022-04-24,Cameroon,South Korea,3,1,Qualifier,1
+2022-04-25,Argentina,Croatia,5,0,Qualifier,1
+2022-04-26,Denmark,Tunisia,1,2,Qualifier,0
+2022-04-26,Nigeria,Ukraine,1,1,Qualifier,0
+2022-04-27,Uzbekistan,Germany,2,3,Friendly,0
+2022-04-28,Croatia,Argentina,0,1,Friendly,0
+2022-04-28,Ecuador,Egypt,2,0,Friendly,0
+2022-04-29,Brazil,Iraq,4,1,Friendly,0
+2022-04-30,Belgium,Brazil,2,2,Qualifier,1
+2022-05-01,Austria,Switzerland,3,1,Friendly,0
+2022-05-01,United States,Germany,0,0,Qualifier,1
+2022-05-02,Croatia,Uzbekistan,0,1,Qualifier,0
+2022-05-03,Uruguay,Argentina,1,1,Friendly,1
+2022-05-04,Uruguay,Argentina,1,0,Qualifier,0
+2022-05-04,Ghana,Iraq,2,0,Qualifier,0
+2022-05-05,Egypt,Ukraine,1,0,Qualifier,0
+2022-05-06,Senegal,Germany,1,0,Friendly,0
+2022-05-07,Belgium,DR Congo,2,0,Friendly,0
+2022-05-07,Belgium,Egypt,1,0,Qualifier,0
+2022-05-08,Uruguay,Uzbekistan,0,0,Qualifier,0
+2022-05-09,Colombia,Qatar,2,0,Qualifier,0
+2022-05-09,United States,Turkey,3,0,Friendly,0
+2022-05-10,Ghana,Qatar,4,1,Friendly,1
+2022-05-11,Japan,Switzerland,1,0,Qualifier,0
+2022-05-12,Algeria,Brazil,1,0,Qualifier,0
+2022-05-12,Nigeria,Argentina,0,1,Qualifier,0
+2022-05-13,Ghana,Netherlands,0,5,Qualifier,0
+2022-05-14,Iran,South Korea,0,1,Friendly,0
+2022-05-15,Argentina,Switzerland,9,0,Friendly,0
+2022-05-15,Netherlands,Jamaica,3,0,Friendly,0
+2022-05-16,Italy,Paraguay,2,1,Qualifier,0
+2022-05-17,Iran,Turkey,1,3,Qualifier,0
+2022-05-17,Canada,Mexico,2,1,Qualifier,1
+2022-05-18,DR Congo,Turkey,0,2,Friendly,0
+2022-05-19,Australia,Panama,3,0,Qualifier,0
+2022-05-20,Tunisia,Uzbekistan,3,1,Friendly,0
+2022-05-20,Poland,Uruguay,2,1,Qualifier,1
+2022-05-21,Costa Rica,Denmark,0,1,Friendly,0
+2022-05-22,Uruguay,Belgium,0,1,Friendly,0
+2022-05-23,Ghana,DR Congo,2,2,Qualifier,1
+2022-05-23,Egypt,DR Congo,3,0,Qualifier,0
+2022-05-24,Algeria,Iran,1,1,Qualifier,0
+2022-05-25,Austria,Morocco,2,0,Qualifier,0
+2022-05-26,Austria,Jamaica,4,0,Friendly,1
+2022-05-26,Tunisia,Qatar,3,1,Qualifier,0
+2022-05-27,France,Croatia,2,0,Friendly,1
+2022-05-28,Croatia,Serbia,1,1,Friendly,0
+2022-05-28,Ukraine,United States,6,2,Friendly,0
+2022-05-29,England,Uzbekistan,3,0,Friendly,0
+2022-05-30,Bolivia,Ecuador,0,2,Qualifier,1
+2022-05-31,Denmark,Belgium,5,0,Qualifier,0
+2022-05-31,Morocco,Belgium,2,0,Qualifier,0
+2022-06-01,Uruguay,Serbia,3,0,Friendly,0
+2022-06-02,Italy,Panama,4,1,Qualifier,0
+2022-06-03,Netherlands,Switzerland,3,1,Qualifier,0
+2022-06-03,Uzbekistan,Qatar,0,2,Friendly,0
+2022-06-04,Egypt,Uzbekistan,0,0,Friendly,0
+2022-06-05,Cameroon,Bolivia,3,0,Qualifier,0
+2022-06-05,Bolivia,Saudi Arabia,1,1,Friendly,0
+2022-06-06,DR Congo,Algeria,1,3,Friendly,1
+2022-06-07,Ukraine,United States,4,2,Qualifier,0
+2022-06-08,Saudi Arabia,England,3,2,Friendly,0
+2022-06-08,Costa Rica,Belgium,1,3,Friendly,0
+2022-06-09,Argentina,Japan,1,0,Qualifier,0
+2022-06-10,Colombia,Japan,1,1,Qualifier,0
+2022-06-11,Ecuador,Iraq,4,0,Friendly,0
+2022-06-11,Mexico,Panama,1,0,Friendly,0
+2022-06-12,Paraguay,Panama,1,0,Friendly,0
+2022-06-13,Morocco,Qatar,8,0,Qualifier,0
+2022-06-13,Spain,Denmark,1,0,Qualifier,0
+2022-06-14,Ukraine,England,2,2,Qualifier,0
+2022-06-15,Cameroon,Iran,2,2,Friendly,0
+2022-06-16,Netherlands,Japan,4,1,Friendly,0
+2022-06-16,Portugal,Spain,0,2,Qualifier,1
+2022-06-17,Portugal,Mexico,4,0,Qualifier,0
+2022-06-18,United States,Algeria,3,2,Qualifier,0
+2022-06-19,Tunisia,Turkey,0,0,Qualifier,1
+2022-06-19,Bolivia,Belgium,0,2,Qualifier,1
+2022-06-20,Denmark,Uruguay,1,1,Friendly,0
+2022-06-21,Ivory Coast,Argentina,1,2,Qualifier,0
+2022-06-22,Argentina,Algeria,8,1,Qualifier,1
+2022-06-22,Denmark,Japan,1,0,Qualifier,0
+2022-06-23,Croatia,Belgium,0,1,Friendly,0
+2022-06-24,Belgium,Qatar,3,1,Qualifier,0
+2022-06-24,Portugal,Switzerland,5,1,Qualifier,0
+2022-06-25,Belgium,Ghana,4,0,Qualifier,0
+2022-06-26,Germany,Poland,1,1,Qualifier,1
+2022-06-27,Nigeria,Costa Rica,1,1,Qualifier,0
+2022-06-27,Argentina,Iraq,5,0,Qualifier,1
+2022-06-28,Nigeria,Croatia,0,2,Friendly,1
+2022-06-29,Iran,Ukraine,1,0,Qualifier,1
+2022-06-30,France,Mexico,7,1,Qualifier,0
+2022-06-30,Costa Rica,Iran,2,2,Qualifier,0
+2022-07-01,Ecuador,Senegal,2,0,Friendly,0
+2022-07-02,Austria,Germany,2,1,Friendly,1
+2022-07-02,Japan,Costa Rica,5,0,Qualifier,0
+2022-07-03,Egypt,Iran,2,0,Qualifier,0
+2022-07-04,Turkey,Spain,1,1,Qualifier,1
+2022-07-05,Serbia,Iran,2,0,Qualifier,0
+2022-07-05,Italy,Bolivia,10,0,Qualifier,0
+2022-07-06,Japan,Uzbekistan,2,1,Qualifier,0
+2022-07-07,Jamaica,Brazil,0,3,Qualifier,1
+2022-07-08,Portugal,Canada,2,0,Friendly,0
+2022-07-08,Morocco,United States,0,0,Qualifier,0
+2022-07-09,Senegal,Ecuador,1,0,Qualifier,0
+2022-07-10,Uruguay,Portugal,0,1,Friendly,0
+2022-07-10,Netherlands,United States,3,0,Friendly,0
+2022-07-11,Panama,Algeria,3,3,Qualifier,0
+2022-07-12,Colombia,Mexico,4,1,Friendly,0
+2022-07-13,Italy,Japan,5,1,Qualifier,0
+2022-07-13,Ghana,Italy,1,4,Qualifier,0
+2022-07-14,Nigeria,Poland,1,0,Qualifier,0
+2022-07-15,Australia,Egypt,1,2,Qualifier,0
+2022-07-16,Ivory Coast,Senegal,2,3,Qualifier,0
+2022-07-16,Australia,Costa Rica,2,1,Qualifier,1
+2022-07-17,Serbia,Japan,2,2,Qualifier,0
+2022-07-18,Poland,Tunisia,2,0,Friendly,0
+2022-07-19,Poland,Ukraine,0,0,Qualifier,1
+2022-07-19,Panama,New Zealand,4,1,Qualifier,0
+2022-07-20,Australia,Cameroon,3,0,Qualifier,0
+2022-07-21,France,Japan,2,0,Friendly,1
+2022-07-21,Serbia,United States,2,1,Friendly,1
+2022-07-22,Mexico,Costa Rica,3,0,Friendly,0
+2022-07-23,Ivory Coast,Denmark,0,0,Qualifier,0
+2022-07-24,Germany,Italy,2,0,Friendly,0
+2022-07-24,Algeria,Paraguay,1,0,Qualifier,0
+2022-07-25,Austria,Bolivia,2,0,Friendly,0
+2022-07-26,United States,Cameroon,4,0,Qualifier,0
+2022-07-27,New Zealand,Australia,3,0,Qualifier,1
+2022-07-27,Cameroon,Morocco,0,2,Qualifier,1
+2022-07-28,Poland,Spain,0,3,Qualifier,0
+2022-07-29,Austria,Ghana,6,2,Qualifier,1
+2022-07-29,Croatia,Mexico,2,1,Qualifier,1
+2022-07-30,Argentina,Austria,6,1,Qualifier,0
+2022-07-31,Spain,Japan,6,2,Friendly,0
+2022-08-01,Portugal,Ecuador,0,2,Friendly,0
+2022-08-01,Poland,Cameroon,0,1,Qualifier,0
+2022-08-02,Ecuador,Panama,6,2,Qualifier,0
+2022-08-03,Netherlands,Senegal,1,1,Qualifier,0
+2022-08-04,Qatar,Poland,5,0,Qualifier,0
+2022-08-04,Jamaica,Serbia,1,2,Qualifier,0
+2022-08-05,Senegal,Costa Rica,1,0,Friendly,0
+2022-08-06,Jamaica,Qatar,0,1,Friendly,0
+2022-08-06,New Zealand,Croatia,0,2,Qualifier,0
+2022-08-07,DR Congo,Canada,1,0,Qualifier,0
+2022-08-08,Portugal,Turkey,4,0,Qualifier,0
+2022-08-09,Ecuador,Netherlands,0,3,Qualifier,0
+2022-08-09,Qatar,Portugal,1,3,Qualifier,0
+2022-08-10,Uzbekistan,Poland,0,2,Friendly,0
+2022-08-11,Egypt,Denmark,1,3,Qualifier,0
+2022-08-12,Saudi Arabia,South Korea,1,1,Qualifier,0
+2022-08-12,Tunisia,Ukraine,0,2,Qualifier,1
+2022-08-13,Paraguay,France,2,3,Qualifier,0
+2022-08-14,Cameroon,Portugal,2,0,Qualifier,1
+2022-08-15,Qatar,Colombia,1,2,Qualifier,0
+2022-08-15,Belgium,Portugal,0,1,Friendly,0
+2022-08-16,Paraguay,Cameroon,2,0,Qualifier,1
+2022-08-17,Bolivia,Austria,2,7,Qualifier,0
+2022-08-17,Italy,Belgium,1,1,Friendly,0
+2022-08-18,Argentina,Jamaica,3,1,Friendly,0
+2022-08-19,Italy,Qatar,4,2,Friendly,0
+2022-08-20,Iraq,Senegal,0,1,Qualifier,0
+2022-08-20,Mexico,Saudi Arabia,2,0,Friendly,0
+2022-08-21,Qatar,Senegal,1,0,Friendly,0
+2022-08-22,Algeria,Jamaica,5,2,Qualifier,0
+2022-08-23,Algeria,Tunisia,1,0,Friendly,0
+2022-08-23,Ukraine,Denmark,1,0,Qualifier,0
+2022-08-24,Panama,Ivory Coast,2,0,Friendly,1
+2022-08-25,Egypt,Ivory Coast,0,0,Qualifier,0
+2022-08-25,Netherlands,Australia,3,0,Qualifier,0
+2022-08-26,Spain,South Korea,3,0,Friendly,0
+2022-08-27,Panama,Bolivia,1,1,Friendly,0
+2022-08-28,Switzerland,Turkey,4,1,Friendly,0
+2022-08-28,Iran,Switzerland,1,1,Qualifier,0
+2022-08-29,Iran,Nigeria,2,1,Friendly,0
+2022-08-30,Japan,Senegal,2,1,Friendly,0
+2022-08-31,Australia,Saudi Arabia,2,2,Friendly,0
+2022-08-31,Senegal,Morocco,3,1,Friendly,0
+2022-09-01,Costa Rica,Panama,2,0,Qualifier,1
+2022-09-02,Ivory Coast,Uzbekistan,3,0,Qualifier,0
+2022-09-03,Switzerland,Costa Rica,5,0,Qualifier,1
+2022-09-03,Germany,Serbia,2,0,Friendly,0
+2022-09-04,Ecuador,Portugal,0,2,Friendly,1
+2022-09-05,Uruguay,Netherlands,0,1,Qualifier,0
+2022-09-05,United States,Argentina,2,1,Qualifier,1
+2022-09-06,Costa Rica,Austria,2,1,Qualifier,1
+2022-09-07,Spain,Jamaica,5,0,Friendly,0
+2022-09-08,Iraq,Iran,0,0,Qualifier,0
+2022-09-08,Saudi Arabia,Germany,1,5,Qualifier,0
+2022-09-09,Qatar,Iran,1,3,Qualifier,0
+2022-09-10,Bolivia,Nigeria,2,4,Friendly,0
+2022-09-11,Algeria,Tunisia,1,2,Qualifier,0
+2022-09-11,Australia,South Korea,0,2,Qualifier,0
+2022-09-12,Austria,Uruguay,3,1,Friendly,1
+2022-09-13,Switzerland,Netherlands,1,1,Friendly,1
+2022-09-13,Denmark,Costa Rica,6,0,Friendly,0
+2022-09-14,Ivory Coast,Algeria,0,3,Qualifier,0
+2022-09-15,Croatia,England,0,1,Qualifier,1
+2022-09-16,Jamaica,Bolivia,3,3,Friendly,0
+2022-09-16,Ecuador,Poland,0,1,Qualifier,0
+2022-09-17,Spain,New Zealand,6,0,Friendly,0
+2022-09-18,Costa Rica,Nigeria,1,2,Qualifier,0
+2022-09-19,England,Netherlands,0,0,Friendly,0
+2022-09-19,Algeria,Egypt,3,1,Qualifier,0
+2022-09-20,Germany,Belgium,3,0,Qualifier,0
+2022-09-21,Cameroon,Iraq,1,1,Qualifier,0
+2022-09-21,Serbia,Ecuador,2,1,Qualifier,0
+2022-09-22,South Korea,Costa Rica,3,2,Friendly,0
+2022-09-23,Mexico,DR Congo,3,0,Qualifier,0
+2022-09-24,Mexico,Cameroon,1,0,Qualifier,0
+2022-09-24,Spain,Qatar,2,1,Friendly,1
+2022-09-25,Uzbekistan,Algeria,0,2,Qualifier,0
+2022-09-26,Serbia,Turkey,1,0,Qualifier,1
+2022-09-27,Belgium,Australia,1,1,Qualifier,0
+2022-09-27,Morocco,Iraq,3,0,Qualifier,0
+2022-09-28,Belgium,Nigeria,1,0,Friendly,0
+2022-09-29,Uzbekistan,Senegal,1,1,Friendly,0
+2022-09-30,Argentina,Tunisia,4,0,Qualifier,0
+2022-09-30,Serbia,Croatia,0,3,Qualifier,0
+2022-10-01,Tunisia,Denmark,1,0,Friendly,0
+2022-10-02,South Korea,Ivory Coast,0,0,Friendly,0
+2022-10-02,Ukraine,Serbia,2,2,Qualifier,0
+2022-10-03,Panama,Saudi Arabia,2,1,Qualifier,1
+2022-10-04,South Korea,Uzbekistan,5,0,Friendly,0
+2022-10-05,Serbia,Australia,3,0,Friendly,0
+2022-10-05,Ivory Coast,United States,0,2,Qualifier,0
+2022-10-06,Ghana,Ukraine,0,2,Qualifier,0
+2022-10-07,Cameroon,Ghana,0,1,Qualifier,0
+2022-10-08,Colombia,DR Congo,4,0,Qualifier,0
+2022-10-08,Jamaica,Nigeria,1,4,Qualifier,1
+2022-10-09,Iraq,DR Congo,2,1,Qualifier,0
+2022-10-10,Serbia,New Zealand,1,2,Qualifier,0
+2022-10-10,United States,England,2,2,Friendly,0
+2022-10-11,Germany,Panama,3,2,Qualifier,0
+2022-10-12,Austria,Ukraine,1,1,Qualifier,0
+2022-10-13,Japan,Egypt,2,0,Qualifier,0
+2022-10-13,Tunisia,Italy,0,4,Qualifier,1
+2022-10-14,Canada,Netherlands,1,0,Qualifier,1
+2022-10-15,New Zealand,Morocco,1,1,Friendly,1
+2022-10-16,Tunisia,Jamaica,3,0,Qualifier,0
+2022-10-16,Ecuador,Croatia,0,1,Friendly,0
+2022-10-17,Cameroon,Canada,0,1,Friendly,1
+2022-10-18,Panama,France,1,2,Qualifier,0
+2022-10-19,Japan,Iran,4,0,Friendly,0
+2022-10-19,Canada,Ghana,3,1,Qualifier,0
+2022-10-20,Jamaica,Morocco,0,2,Friendly,0
+2022-10-21,Jamaica,Ghana,2,3,Friendly,0
+2022-10-21,Panama,Switzerland,3,1,Friendly,0
+2022-10-22,Turkey,Paraguay,0,1,Friendly,0
+2022-10-23,Cameroon,England,2,4,Friendly,0
+2022-10-24,South Korea,Uruguay,1,0,Friendly,1
+2022-10-24,Uzbekistan,Canada,1,2,Friendly,0
+2022-10-25,Serbia,Turkey,0,2,Friendly,0
+2022-10-26,Netherlands,Bolivia,7,1,Qualifier,0
+2022-10-27,Cameroon,Egypt,1,2,Qualifier,0
+2022-10-27,Jamaica,New Zealand,1,1,Qualifier,1
+2022-10-28,England,France,2,2,Friendly,1
+2022-10-29,Bolivia,Senegal,0,5,Qualifier,0
+2022-10-29,Canada,Qatar,5,0,Qualifier,0
+2022-10-30,England,Australia,4,2,Qualifier,0
+2022-10-31,United States,Uruguay,0,0,Qualifier,0
+2022-11-01,Bolivia,Austria,3,2,Qualifier,0
+2022-11-01,Ukraine,Japan,0,1,Qualifier,0
+2022-11-02,Ukraine,Denmark,0,2,Qualifier,0
+2022-11-03,Qatar,New Zealand,4,0,Friendly,0
+2022-11-04,DR Congo,United States,1,2,Qualifier,0
+2022-11-04,Qatar,France,0,4,Qualifier,1
+2022-11-05,Belgium,Ukraine,3,1,Friendly,1
+2022-11-06,Iraq,Iran,0,2,Qualifier,0
+2022-11-06,Ivory Coast,Nigeria,0,1,Qualifier,0
+2022-11-07,Saudi Arabia,Argentina,0,4,Friendly,0
+2022-11-08,Paraguay,Tunisia,2,0,Friendly,0
+2022-11-09,United States,Ivory Coast,0,1,Qualifier,0
+2022-11-09,United States,New Zealand,3,1,Qualifier,0
+2022-11-10,Egypt,Netherlands,5,4,Friendly,0
+2022-11-11,Tunisia,Ghana,0,0,Qualifier,1
+2022-11-12,Turkey,Croatia,0,0,Qualifier,0
+2022-11-12,Tunisia,Argentina,0,2,Qualifier,1
+2022-11-13,Panama,Portugal,1,5,Qualifier,1
+2022-11-14,Uzbekistan,Saudi Arabia,2,0,Qualifier,0
+2022-11-15,United States,Colombia,0,1,Friendly,0
+2022-11-15,Denmark,Qatar,4,0,Friendly,1
+2022-11-16,South Korea,Uzbekistan,4,1,Qualifier,1
+2022-11-17,Denmark,Belgium,4,1,Qualifier,0
+2022-11-17,Croatia,United States,0,0,Friendly,0
+2022-11-18,Ivory Coast,Senegal,2,0,Qualifier,0
+2022-11-19,Egypt,United States,1,4,Friendly,0
+2022-11-20,Austria,France,0,4,Friendly,0
+2022-11-20,Uzbekistan,Portugal,1,0,Friendly,0
+2022-11-21,Serbia,Germany,2,2,Qualifier,0
+2022-11-22,Croatia,Morocco,6,2,Qualifier,0
+2022-11-23,Colombia,Australia,0,0,Qualifier,0
+2022-11-23,Costa Rica,South Korea,2,0,Qualifier,0
+2022-11-24,Spain,Argentina,2,3,Qualifier,0
+2022-11-25,Nigeria,Canada,3,0,Qualifier,0
+2022-11-25,Argentina,Germany,2,0,Qualifier,0
+2022-11-26,Italy,Uzbekistan,3,0,Qualifier,0
+2022-11-27,Austria,Ecuador,0,1,Qualifier,1
+2022-11-28,Netherlands,Austria,1,0,Qualifier,1
+2022-11-28,Netherlands,Ukraine,7,2,Qualifier,0
+2022-11-29,Cameroon,Ghana,2,1,Qualifier,0
+2022-11-30,Portugal,Italy,1,1,Friendly,0
+2022-12-01,Argentina,Iraq,6,0,Qualifier,1
+2022-12-01,Serbia,DR Congo,6,1,Qualifier,0
+2022-12-02,Panama,Ghana,3,0,Friendly,0
+2022-12-03,Jamaica,Portugal,1,3,Friendly,0
+2022-12-03,Ecuador,Algeria,3,0,Friendly,0
+2022-12-04,Bolivia,Nigeria,1,0,Friendly,1
+2022-12-05,Morocco,Senegal,2,0,Friendly,0
+2022-12-06,Saudi Arabia,Switzerland,0,2,Qualifier,0
+2022-12-06,France,Spain,4,1,Qualifier,1
+2022-12-07,Egypt,Portugal,1,2,Friendly,1
+2022-12-08,Serbia,New Zealand,5,0,Qualifier,1
+2022-12-09,Senegal,Ivory Coast,0,2,Qualifier,1
+2022-12-09,Austria,Tunisia,3,1,Friendly,0
+2022-12-10,Canada,Jamaica,4,1,Friendly,0
+2022-12-11,France,Ecuador,4,2,Qualifier,0
+2022-12-12,Uruguay,Iraq,4,0,Qualifier,0
+2022-12-12,Tunisia,Cameroon,0,0,Qualifier,1
+2022-12-13,Paraguay,Ghana,2,1,Qualifier,0
+2022-12-14,Argentina,Portugal,2,1,Qualifier,0
+2022-12-14,Jamaica,New Zealand,0,1,Qualifier,0
+2022-12-15,Ghana,Portugal,1,3,Qualifier,1
+2022-12-16,Ecuador,Denmark,0,1,Qualifier,0
+2022-12-17,South Korea,Paraguay,2,2,Qualifier,0
+2022-12-17,Germany,Turkey,5,1,Qualifier,0
+2022-12-18,South Korea,Qatar,3,1,Qualifier,0
+2022-12-19,Costa Rica,Paraguay,3,2,Qualifier,0
+2022-12-20,Argentina,Ghana,6,0,Qualifier,1
+2022-12-20,Switzerland,DR Congo,3,0,Qualifier,0
+2022-12-21,Mexico,Canada,0,2,Qualifier,0
+2022-12-22,Saudi Arabia,Cameroon,0,0,Qualifier,0
+2022-12-22,Uruguay,France,2,0,Friendly,1
+2022-12-23,Ukraine,Tunisia,2,2,Qualifier,0
+2022-12-24,United States,Tunisia,5,0,Qualifier,0
+2022-12-25,Ukraine,Australia,0,1,Friendly,0
+2022-12-25,Ghana,Senegal,2,1,Qualifier,0
+2022-12-26,Austria,Morocco,0,1,Friendly,0
+2022-12-27,Austria,Costa Rica,2,3,Qualifier,1
+2022-12-28,Ecuador,Colombia,3,1,Friendly,0
+2022-12-28,Japan,Argentina,0,3,Qualifier,1
+2022-12-29,Morocco,Algeria,3,1,Friendly,0
+2022-12-30,France,Bolivia,4,0,Qualifier,0
+2022-12-31,Croatia,Iran,3,1,Qualifier,1
+2022-12-31,Ivory Coast,Ukraine,0,2,Qualifier,1
+2023-01-01,Canada,Germany,2,3,Qualifier,0
+2023-01-02,Iran,Serbia,2,1,Friendly,0
+2023-01-02,Costa Rica,Iraq,1,2,Qualifier,0
+2023-01-03,Iraq,Saudi Arabia,0,2,Qualifier,0
+2023-01-04,Colombia,Netherlands,1,2,Qualifier,0
+2023-01-05,Cameroon,Portugal,0,0,Friendly,0
+2023-01-05,Spain,Colombia,3,1,Qualifier,1
+2023-01-06,Colombia,Bolivia,6,0,Qualifier,0
+2023-01-07,Costa Rica,Turkey,0,1,Friendly,0
+2023-01-08,United States,Belgium,0,0,Qualifier,0
+2023-01-08,South Korea,DR Congo,2,2,Friendly,0
+2023-01-09,United States,Poland,1,2,Qualifier,1
+2023-01-10,Belgium,Brazil,1,0,Qualifier,0
+2023-01-10,Mexico,Ghana,2,2,Friendly,1
+2023-01-11,Portugal,Nigeria,3,1,Qualifier,0
+2023-01-12,Colombia,Japan,2,2,Qualifier,0
+2023-01-13,Germany,Iraq,5,1,Friendly,0
+2023-01-13,France,Tunisia,9,1,Qualifier,0
+2023-01-14,Morocco,Iraq,2,0,Qualifier,0
+2023-01-15,Germany,Saudi Arabia,2,0,Friendly,1
+2023-01-16,DR Congo,South Korea,3,1,Qualifier,0
+2023-01-16,Algeria,Germany,1,3,Qualifier,0
+2023-01-17,Uzbekistan,Cameroon,0,0,Friendly,0
+2023-01-18,Jamaica,Switzerland,2,2,Friendly,0
+2023-01-18,Mexico,Germany,0,1,Qualifier,0
+2023-01-19,Portugal,New Zealand,1,0,Qualifier,0
+2023-01-20,Japan,Colombia,5,2,Qualifier,0
+2023-01-21,DR Congo,Switzerland,0,2,Friendly,0
+2023-01-21,Bolivia,Qatar,0,1,Qualifier,1
+2023-01-22,Iraq,Ukraine,1,1,Friendly,0
+2023-01-23,Spain,Iraq,6,0,Qualifier,0
+2023-01-24,Tunisia,Qatar,4,0,Qualifier,0
+2023-01-24,Qatar,United States,0,3,Friendly,0
+2023-01-25,Belgium,Brazil,0,1,Qualifier,1
+2023-01-26,Ecuador,New Zealand,3,1,Qualifier,0
+2023-01-27,Paraguay,Netherlands,1,3,Friendly,0
+2023-01-27,Qatar,Argentina,0,4,Friendly,0
+2023-01-28,Cameroon,New Zealand,5,1,Qualifier,0
+2023-01-29,Turkey,Italy,4,3,Qualifier,0
+2023-01-29,Iran,South Korea,2,0,Friendly,0
+2023-01-30,England,Turkey,2,0,Friendly,1
+2023-01-31,Spain,Netherlands,3,2,Friendly,0
+2023-02-01,Belgium,Iran,5,1,Qualifier,0
+2023-02-01,Croatia,Ukraine,2,1,Friendly,0
+2023-02-02,United States,Germany,1,3,Friendly,0
+2023-02-03,Paraguay,Cameroon,0,2,Friendly,1
+2023-02-04,Mexico,Jamaica,3,1,Friendly,0
+2023-02-04,Ukraine,Bolivia,5,0,Friendly,0
+2023-02-05,Germany,Mexico,1,0,Qualifier,0
+2023-02-06,Paraguay,Austria,0,0,Qualifier,0
+2023-02-06,Algeria,Colombia,2,0,Friendly,0
+2023-02-07,Colombia,Poland,1,0,Qualifier,0
+2023-02-08,Brazil,Canada,3,0,Qualifier,1
+2023-02-09,Japan,Tunisia,3,1,Friendly,1
+2023-02-09,Bolivia,Spain,1,4,Qualifier,0
+2023-02-10,Cameroon,Morocco,1,1,Friendly,0
+2023-02-11,Spain,South Korea,1,0,Friendly,0
+2023-02-12,Japan,Germany,2,0,Qualifier,0
+2023-02-12,Denmark,Ghana,3,2,Friendly,0
+2023-02-13,Colombia,Iran,3,0,Qualifier,0
+2023-02-14,Spain,Germany,4,1,Qualifier,0
+2023-02-14,DR Congo,Ecuador,2,1,Friendly,0
+2023-02-15,Austria,Iraq,4,1,Friendly,1
+2023-02-16,Ivory Coast,Nigeria,3,3,Qualifier,0
+2023-02-17,Turkey,Mexico,2,3,Qualifier,0
+2023-02-17,Germany,Qatar,2,1,Friendly,0
+2023-02-18,Ecuador,New Zealand,3,0,Friendly,1
+2023-02-19,New Zealand,Costa Rica,2,1,Qualifier,0
+2023-02-20,Australia,Iran,3,3,Friendly,0
+2023-02-20,Switzerland,Nigeria,0,0,Qualifier,0
+2023-02-21,Ghana,Netherlands,0,1,Qualifier,0
+2023-02-22,Egypt,Croatia,1,2,Qualifier,0
+2023-02-23,Nigeria,Germany,0,2,Qualifier,0
+2023-02-23,Argentina,DR Congo,3,0,Friendly,1
+2023-02-24,Turkey,Ukraine,3,3,Qualifier,0
+2023-02-25,Ecuador,Denmark,0,0,Friendly,0
+2023-02-25,Iran,Saudi Arabia,1,0,Qualifier,0
+2023-02-26,Nigeria,Algeria,4,0,Qualifier,1
+2023-02-27,Iran,Turkey,1,2,Qualifier,1
+2023-02-28,Ivory Coast,Ecuador,1,3,Qualifier,0
+2023-02-28,Iraq,Argentina,1,4,Friendly,0
+2023-03-01,Switzerland,Denmark,0,3,Friendly,0
+2023-03-02,Saudi Arabia,Spain,0,2,Friendly,0
+2023-03-03,Denmark,Spain,2,0,Qualifier,0
+2023-03-03,Ukraine,Belgium,0,1,Qualifier,0
+2023-03-04,DR Congo,Iraq,1,1,Friendly,0
+2023-03-05,Tunisia,Saudi Arabia,2,0,Friendly,0
+2023-03-05,Austria,Saudi Arabia,3,2,Friendly,0
+2023-03-06,Tunisia,Switzerland,1,0,Qualifier,0
+2023-03-07,Serbia,Canada,1,0,Qualifier,0
+2023-03-08,France,Panama,4,0,Friendly,0
+2023-03-08,Brazil,Costa Rica,3,0,Friendly,0
+2023-03-09,Ivory Coast,Colombia,1,0,Friendly,1
+2023-03-10,Iraq,Croatia,0,0,Friendly,0
+2023-03-11,Uruguay,France,1,1,Qualifier,0
+2023-03-11,England,Iraq,1,0,Qualifier,0
+2023-03-12,Iraq,Qatar,2,1,Friendly,0
+2023-03-13,Poland,Bolivia,3,0,Qualifier,0
+2023-03-14,Tunisia,Senegal,1,3,Qualifier,0
+2023-03-14,Saudi Arabia,Germany,1,4,Friendly,1
+2023-03-15,Iran,Canada,1,3,Qualifier,0
+2023-03-16,Portugal,Australia,5,0,Friendly,1
+2023-03-16,Ivory Coast,Qatar,3,0,Friendly,0
+2023-03-17,Bolivia,Argentina,1,7,Qualifier,0
+2023-03-18,Serbia,Tunisia,2,2,Qualifier,0
+2023-03-19,Costa Rica,Belgium,2,1,Qualifier,0
+2023-03-19,Croatia,Uzbekistan,1,2,Qualifier,1
+2023-03-20,Uzbekistan,DR Congo,1,3,Qualifier,0
+2023-03-21,England,South Korea,2,0,Qualifier,0
+2023-03-22,Netherlands,United States,2,0,Friendly,0
+2023-03-22,Italy,Paraguay,4,1,Qualifier,1
+2023-03-23,Ivory Coast,Brazil,3,2,Friendly,0
+2023-03-24,Belgium,Ivory Coast,2,1,Friendly,0
+2023-03-24,Egypt,Portugal,1,3,Friendly,1
+2023-03-25,DR Congo,Ecuador,0,3,Friendly,0
+2023-03-26,Switzerland,Italy,0,1,Qualifier,0
+2023-03-27,Denmark,Argentina,0,0,Qualifier,0
+2023-03-27,Serbia,France,0,3,Qualifier,1
+2023-03-28,Belgium,DR Congo,1,1,Qualifier,1
+2023-03-29,Colombia,Italy,0,2,Friendly,0
+2023-03-30,England,Morocco,1,2,Qualifier,0
+2023-03-30,Jamaica,Poland,0,0,Friendly,0
+2023-03-31,Turkey,Panama,2,0,Qualifier,0
+2023-04-01,Senegal,Poland,2,0,Friendly,0
+2023-04-01,Algeria,Bolivia,6,0,Friendly,0
+2023-04-02,Panama,Iraq,5,1,Friendly,0
+2023-04-03,Turkey,Nigeria,2,1,Qualifier,0
+2023-04-04,Germany,Iran,3,1,Friendly,0
+2023-04-04,Serbia,Belgium,0,1,Qualifier,0
+2023-04-05,Algeria,Cameroon,1,1,Friendly,0
+2023-04-06,Morocco,Ghana,2,1,Qualifier,0
+2023-04-07,Serbia,Egypt,1,2,Qualifier,0
+2023-04-07,Ukraine,Ivory Coast,0,4,Qualifier,0
+2023-04-08,Morocco,Tunisia,3,0,Friendly,0
+2023-04-09,Ivory Coast,Paraguay,1,1,Qualifier,0
+2023-04-10,Tunisia,Serbia,1,3,Qualifier,0
+2023-04-10,Belgium,Ukraine,3,0,Qualifier,0
+2023-04-11,Portugal,Egypt,1,1,Friendly,1
+2023-04-12,Portugal,Bolivia,6,0,Qualifier,0
+2023-04-12,Turkey,Canada,0,1,Friendly,0
+2023-04-13,United States,Turkey,1,1,Qualifier,0
+2023-04-14,South Korea,Denmark,1,2,Qualifier,0
+2023-04-15,Ghana,Uzbekistan,1,1,Qualifier,0
+2023-04-15,Senegal,Nigeria,2,0,Friendly,0
+2023-04-16,Ecuador,Spain,2,4,Qualifier,0
+2023-04-17,Switzerland,United States,1,0,Friendly,1
+2023-04-18,Colombia,Iran,4,0,Qualifier,1
+2023-04-18,England,Tunisia,2,0,Friendly,0
+2023-04-19,Spain,Netherlands,0,2,Qualifier,0
+2023-04-20,Belgium,Turkey,2,1,Qualifier,0
+2023-04-20,Australia,Austria,2,0,Qualifier,1
+2023-04-21,Uruguay,Uzbekistan,5,0,Qualifier,0
+2023-04-22,Spain,Algeria,7,0,Friendly,1
+2023-04-23,France,Nigeria,6,1,Qualifier,0
+2023-04-23,Austria,Saudi Arabia,2,0,Qualifier,0
+2023-04-24,Jamaica,Morocco,2,1,Friendly,0
+2023-04-25,Tunisia,Belgium,0,3,Qualifier,0
+2023-04-26,Canada,Ivory Coast,2,0,Qualifier,0
+2023-04-26,Spain,England,4,0,Friendly,0
+2023-04-27,South Korea,United States,3,1,Qualifier,1
+2023-04-28,Denmark,Ecuador,3,0,Friendly,0
+2023-04-28,Austria,Denmark,2,1,Qualifier,0
+2023-04-29,Nigeria,Japan,3,1,Qualifier,1
+2023-04-30,France,Turkey,2,1,Qualifier,0
+2023-05-01,Austria,Senegal,1,1,Qualifier,0
+2023-05-01,Senegal,Colombia,1,2,Qualifier,0
+2023-05-02,Morocco,Paraguay,2,0,Friendly,0
+2023-05-03,Australia,France,0,2,Qualifier,0
+2023-05-04,Poland,Turkey,2,4,Friendly,1
+2023-05-04,Ukraine,Turkey,1,0,Qualifier,0
+2023-05-05,Iran,DR Congo,4,0,Qualifier,0
+2023-05-06,Poland,Nigeria,2,0,Qualifier,0
+2023-05-07,Denmark,DR Congo,3,1,Friendly,0
+2023-05-07,Nigeria,Uruguay,2,1,Friendly,0
+2023-05-08,Australia,Costa Rica,2,2,Friendly,0
+2023-05-09,Costa Rica,Paraguay,1,0,Qualifier,0
+2023-05-09,Uruguay,Portugal,4,0,Friendly,0
+2023-05-10,Germany,Italy,0,0,Qualifier,0
+2023-05-11,Egypt,Tunisia,1,0,Qualifier,1
+2023-05-12,Netherlands,Paraguay,4,1,Qualifier,1
+2023-05-12,New Zealand,Uruguay,1,0,Friendly,0
+2023-05-13,Iraq,Cameroon,4,1,Friendly,0
+2023-05-14,Iran,Bolivia,2,1,Qualifier,0
+2023-05-15,Iran,Netherlands,0,1,Qualifier,0
+2023-05-15,Algeria,Egypt,4,3,Qualifier,0
+2023-05-16,Spain,Austria,2,1,Friendly,0
+2023-05-17,Brazil,New Zealand,6,0,Qualifier,0
+2023-05-17,England,Brazil,1,1,Qualifier,0
+2023-05-18,Argentina,Iraq,10,0,Qualifier,0
+2023-05-19,Saudi Arabia,Switzerland,2,2,Qualifier,1
+2023-05-20,Germany,Ghana,1,1,Qualifier,1
+2023-05-20,England,Cameroon,5,1,Qualifier,0
+2023-05-21,Nigeria,Costa Rica,2,0,Friendly,1
+2023-05-22,Argentina,Nigeria,5,0,Qualifier,0
+2023-05-23,United States,Senegal,5,1,Friendly,0
+2023-05-23,Ecuador,Egypt,2,0,Friendly,0
+2023-05-24,Algeria,Switzerland,2,0,Qualifier,0
+2023-05-25,Egypt,Portugal,0,1,Friendly,0
+2023-05-26,Morocco,Denmark,2,0,Qualifier,0
+2023-05-26,Croatia,Italy,0,2,Qualifier,0
+2023-05-27,Colombia,Portugal,0,0,Friendly,0
+2023-05-28,Austria,Australia,3,0,Qualifier,0
+2023-05-28,Japan,Canada,3,0,Friendly,1
+2023-05-29,England,Saudi Arabia,1,0,Friendly,0
+2023-05-30,Brazil,Nigeria,8,1,Friendly,0
+2023-05-31,Colombia,Brazil,1,1,Friendly,0
+2023-05-31,Mexico,Costa Rica,0,0,Friendly,0
+2023-06-01,United States,Iran,0,2,Friendly,1
+2023-06-02,Spain,Iraq,6,0,Friendly,0
+2023-06-03,Cameroon,Saudi Arabia,1,1,Friendly,0
+2023-06-03,Paraguay,Mexico,1,0,Friendly,1
+2023-06-04,Cameroon,Spain,1,3,Qualifier,0
+2023-06-05,South Korea,Croatia,0,2,Qualifier,0
+2023-06-05,United States,Turkey,2,0,Qualifier,0
+2023-06-06,Turkey,Argentina,1,1,Friendly,0
+2023-06-07,Iraq,England,0,2,Friendly,0
+2023-06-08,Cameroon,Panama,1,1,Friendly,0
+2023-06-08,Australia,Bolivia,4,0,Qualifier,0
+2023-06-09,Panama,Netherlands,1,2,Friendly,0
+2023-06-10,Iran,New Zealand,3,3,Friendly,0
+2023-06-11,United States,Brazil,0,0,Friendly,0
+2023-06-11,Argentina,Ivory Coast,4,0,Friendly,0
+2023-06-12,Qatar,Iran,1,0,Qualifier,0
+2023-06-13,Turkey,Argentina,0,1,Friendly,1
+2023-06-13,Saudi Arabia,England,0,2,Qualifier,0
+2023-06-14,Ghana,Serbia,1,2,Qualifier,0
+2023-06-15,Canada,Austria,1,0,Qualifier,0
+2023-06-16,Serbia,Nigeria,2,1,Friendly,1
+2023-06-16,Paraguay,Ivory Coast,2,0,Friendly,0
+2023-06-17,Panama,Morocco,1,5,Qualifier,0
+2023-06-18,Netherlands,Turkey,3,0,Friendly,0
+2023-06-19,Cameroon,Ukraine,2,2,Qualifier,1
+2023-06-19,Argentina,Brazil,2,0,Qualifier,0
+2023-06-20,United States,Saudi Arabia,2,1,Friendly,0
+2023-06-21,Japan,United States,0,0,Friendly,0
+2023-06-22,Iraq,Serbia,1,0,Qualifier,0
+2023-06-22,Jamaica,England,3,3,Qualifier,0
+2023-06-23,Bolivia,Austria,1,0,Qualifier,1
+2023-06-24,Ecuador,Ghana,1,0,Qualifier,1
+2023-06-24,Portugal,Spain,3,0,Qualifier,0
+2023-06-25,Saudi Arabia,Ghana,3,0,Qualifier,0
+2023-06-26,Morocco,Portugal,2,1,Qualifier,1
+2023-06-27,Cameroon,Uzbekistan,5,0,Friendly,1
+2023-06-27,Brazil,Ecuador,3,2,Qualifier,1
+2023-06-28,South Korea,Ukraine,2,1,Qualifier,1
+2023-06-29,Germany,Cameroon,0,0,Friendly,1
+2023-06-30,Egypt,Poland,2,0,Friendly,0
+2023-06-30,Brazil,Ghana,3,0,Friendly,0
+2023-07-01,Canada,England,2,1,Qualifier,0
+2023-07-02,Canada,Panama,2,0,Qualifier,0
+2023-07-02,New Zealand,Spain,0,3,Qualifier,1
+2023-07-03,Panama,Iran,2,2,Qualifier,0
+2023-07-04,Algeria,New Zealand,2,1,Qualifier,1
+2023-07-05,Tunisia,England,1,1,Qualifier,1
+2023-07-05,South Korea,Senegal,1,0,Qualifier,0
+2023-07-06,Panama,Denmark,3,1,Friendly,0
+2023-07-07,Paraguay,Ukraine,3,0,Qualifier,0
+2023-07-08,Ecuador,Portugal,0,0,Qualifier,1
+2023-07-08,Panama,Nigeria,2,0,Qualifier,1
+2023-07-09,Paraguay,Serbia,1,1,Friendly,0
+2023-07-10,France,Portugal,2,1,Friendly,0
+2023-07-10,Australia,Tunisia,2,1,Qualifier,0
+2023-07-11,Denmark,Ghana,1,1,Qualifier,0
+2023-07-12,Algeria,Cameroon,0,1,Qualifier,1
+2023-07-13,Qatar,Mexico,1,0,Friendly,0
+2023-07-13,Canada,Ivory Coast,1,1,Friendly,0
+2023-07-14,Paraguay,Poland,3,0,Qualifier,0
+2023-07-15,Switzerland,Colombia,2,2,Friendly,0
+2023-07-16,Paraguay,Uruguay,2,1,Friendly,0
+2023-07-16,Japan,Portugal,0,0,Friendly,0
+2023-07-17,Turkey,Mexico,0,2,Qualifier,0
+2023-07-18,Tunisia,Japan,2,2,Qualifier,1
+2023-07-19,England,Switzerland,3,1,Friendly,0
+2023-07-19,Austria,New Zealand,6,0,Friendly,1
+2023-07-20,Brazil,Ivory Coast,4,0,Qualifier,0
+2023-07-21,Spain,Bolivia,9,0,Qualifier,0
+2023-07-21,Iraq,Colombia,3,1,Qualifier,0
+2023-07-22,Mexico,Turkey,1,1,Qualifier,0
+2023-07-23,Poland,Morocco,1,2,Qualifier,1
+2023-07-24,Brazil,England,1,0,Qualifier,0
+2023-07-24,Spain,Tunisia,3,0,Qualifier,1
+2023-07-25,Senegal,Egypt,2,1,Qualifier,0
+2023-07-26,Netherlands,Colombia,1,2,Qualifier,0
+2023-07-27,Morocco,Switzerland,4,1,Qualifier,0
+2023-07-27,Nigeria,New Zealand,6,1,Qualifier,0
+2023-07-28,Portugal,Ivory Coast,4,0,Friendly,1
+2023-07-29,Colombia,Croatia,2,1,Qualifier,0
+2023-07-29,Algeria,Spain,0,2,Qualifier,0
+2023-07-30,Ukraine,New Zealand,1,0,Qualifier,0
+2023-07-31,Iraq,Jamaica,1,1,Qualifier,0
+2023-08-01,Brazil,Uzbekistan,3,0,Qualifier,0
+2023-08-01,Morocco,Ivory Coast,1,2,Qualifier,0
+2023-08-02,Croatia,Algeria,2,1,Qualifier,0
+2023-08-03,Switzerland,Jamaica,4,1,Qualifier,0
+2023-08-04,New Zealand,Panama,1,1,Qualifier,0
+2023-08-04,Belgium,Cameroon,2,2,Friendly,0
+2023-08-05,Switzerland,Qatar,0,0,Qualifier,0
+2023-08-06,Algeria,Turkey,2,2,Qualifier,1
+2023-08-06,Uzbekistan,Ukraine,1,2,Qualifier,0
+2023-08-07,Netherlands,Portugal,0,0,Qualifier,0
+2023-08-08,Argentina,Bolivia,5,1,Qualifier,0
+2023-08-09,Italy,Qatar,3,1,Friendly,0
+2023-08-09,Costa Rica,Ukraine,2,2,Friendly,0
+2023-08-10,Australia,Austria,0,0,Friendly,0
+2023-08-11,Switzerland,Costa Rica,1,0,Qualifier,0
+2023-08-12,Brazil,United States,3,1,Qualifier,1
+2023-08-12,Switzerland,Argentina,1,1,Qualifier,1
+2023-08-13,Senegal,Brazil,1,2,Friendly,0
+2023-08-14,Italy,England,0,1,Friendly,0
+2023-08-15,Egypt,Ghana,3,0,Friendly,0
+2023-08-15,Jamaica,Denmark,1,0,Friendly,0
+2023-08-16,Saudi Arabia,Morocco,0,2,Qualifier,0
+2023-08-17,Ghana,France,0,2,Qualifier,0
+2023-08-17,Qatar,Ivory Coast,1,0,Qualifier,0
+2023-08-18,Ecuador,Uruguay,1,3,Friendly,0
+2023-08-19,France,Senegal,3,0,Qualifier,0
+2023-08-20,Tunisia,Nigeria,0,3,Qualifier,0
+2023-08-20,Senegal,Uzbekistan,1,0,Qualifier,0
+2023-08-21,England,Morocco,1,1,Qualifier,0
+2023-08-22,Argentina,Iran,4,0,Friendly,0
+2023-08-23,Netherlands,Australia,3,4,Friendly,0
+2023-08-23,Jamaica,Saudi Arabia,1,1,Qualifier,0
+2023-08-24,Turkey,Ecuador,4,2,Qualifier,0
+2023-08-25,Tunisia,Spain,1,2,Qualifier,1
+2023-08-25,Spain,Brazil,2,0,Qualifier,0
+2023-08-26,Argentina,Austria,4,0,Qualifier,0
+2023-08-27,Switzerland,Algeria,4,1,Friendly,0
+2023-08-28,Costa Rica,United States,2,0,Qualifier,1
+2023-08-28,Italy,Ukraine,2,2,Qualifier,0
+2023-08-29,Iran,Croatia,4,1,Friendly,0
+2023-08-30,United States,Poland,2,0,Friendly,0
+2023-08-31,Morocco,Ecuador,4,1,Qualifier,0
+2023-08-31,Qatar,DR Congo,1,1,Qualifier,0
+2023-09-01,Italy,Denmark,2,0,Qualifier,0
+2023-09-02,Ecuador,Brazil,1,1,Qualifier,0
+2023-09-03,Saudi Arabia,Ivory Coast,1,1,Qualifier,1
+2023-09-03,Uzbekistan,Panama,1,0,Qualifier,0
+2023-09-04,Morocco,Portugal,1,0,Friendly,0
+2023-09-05,France,Spain,0,0,Qualifier,0
+2023-09-05,Qatar,Ukraine,1,0,Qualifier,0
+2023-09-06,Egypt,Ecuador,1,2,Qualifier,0
+2023-09-07,Denmark,Canada,2,0,Qualifier,0
+2023-09-08,England,Tunisia,2,1,Friendly,0
+2023-09-08,Germany,Cameroon,4,0,Qualifier,0
+2023-09-09,Canada,Turkey,2,0,Friendly,0
+2023-09-10,Turkey,Switzerland,0,1,Qualifier,0
+2023-09-11,Japan,Switzerland,0,0,Qualifier,0
+2023-09-11,Spain,Germany,1,0,Friendly,0
+2023-09-12,France,Ghana,2,0,Qualifier,0
+2023-09-13,South Korea,Uzbekistan,4,1,Qualifier,0
+2023-09-13,Egypt,Denmark,0,2,Friendly,0
+2023-09-14,Iran,Argentina,2,1,Friendly,0
+2023-09-15,Ghana,Croatia,1,2,Qualifier,1
+2023-09-16,DR Congo,Turkey,0,0,Qualifier,0
+2023-09-16,Colombia,Qatar,1,2,Qualifier,0
+2023-09-17,Iran,Australia,0,1,Friendly,0
+2023-09-18,Paraguay,Colombia,2,0,Qualifier,0
+2023-09-19,Ghana,Egypt,0,0,Qualifier,0
+2023-09-19,Netherlands,Ghana,3,0,Qualifier,1
+2023-09-20,Nigeria,Denmark,1,1,Qualifier,0
+2023-09-21,Iran,Japan,1,1,Qualifier,1
+2023-09-21,England,Egypt,3,1,Qualifier,0
+2023-09-22,Costa Rica,Iran,0,0,Qualifier,0
+2023-09-23,England,Switzerland,3,1,Qualifier,0
+2023-09-24,Panama,Costa Rica,1,0,Qualifier,0
+2023-09-24,Poland,Brazil,2,2,Qualifier,0
+2023-09-25,England,Austria,6,0,Friendly,0
+2023-09-26,Turkey,Italy,0,1,Qualifier,0
+2023-09-27,Canada,Italy,1,2,Friendly,1
+2023-09-27,Italy,Poland,1,0,Qualifier,0
+2023-09-28,Netherlands,Germany,2,3,Qualifier,0
+2023-09-29,Turkey,Colombia,1,1,Friendly,0
+2023-09-30,Algeria,Switzerland,2,2,Friendly,0
+2023-09-30,Croatia,Germany,0,2,Qualifier,0
+2023-10-01,Saudi Arabia,Mexico,0,2,Qualifier,0
+2023-10-02,Saudi Arabia,Ivory Coast,0,1,Qualifier,0
+2023-10-02,Costa Rica,Ghana,0,3,Qualifier,0
+2023-10-03,Iraq,Colombia,0,1,Friendly,0
+2023-10-04,Iraq,Argentina,0,2,Qualifier,1
+2023-10-05,Australia,Morocco,1,1,Friendly,0
+2023-10-05,United States,Egypt,1,1,Friendly,0
+2023-10-06,New Zealand,Egypt,0,3,Friendly,0
+2023-10-07,England,Cameroon,0,0,Qualifier,0
+2023-10-08,Switzerland,Iraq,1,2,Friendly,0
+2023-10-08,Mexico,Senegal,2,4,Qualifier,0
+2023-10-09,Ghana,Saudi Arabia,1,2,Friendly,0
+2023-10-10,Ukraine,Portugal,2,6,Friendly,0
+2023-10-10,Nigeria,Italy,2,1,Friendly,0
+2023-10-11,Iran,France,2,1,Qualifier,1
+2023-10-12,Portugal,DR Congo,1,1,Qualifier,1
+2023-10-13,Ecuador,Iran,3,2,Qualifier,0
+2023-10-13,United States,Bolivia,2,1,Qualifier,1
+2023-10-14,Saudi Arabia,Morocco,1,2,Friendly,0
+2023-10-15,Algeria,Netherlands,2,4,Qualifier,0
+2023-10-16,Cameroon,Colombia,3,4,Friendly,0
+2023-10-16,Algeria,Colombia,2,1,Qualifier,0
+2023-10-17,Uruguay,Portugal,2,1,Friendly,0
+2023-10-18,Iran,United States,2,2,Friendly,0
+2023-10-19,Jamaica,Saudi Arabia,0,1,Qualifier,0
+2023-10-19,Portugal,England,0,1,Qualifier,0
+2023-10-20,Ecuador,Jamaica,1,1,Friendly,0
+2023-10-21,Poland,Nigeria,2,2,Qualifier,0
+2023-10-21,Japan,Senegal,0,2,Friendly,0
+2023-10-22,Nigeria,Poland,0,0,Qualifier,1
+2023-10-23,Canada,Panama,5,0,Friendly,0
+2023-10-24,Serbia,Australia,0,0,Qualifier,0
+2023-10-24,Egypt,Ecuador,0,1,Friendly,0
+2023-10-25,Costa Rica,Croatia,1,1,Qualifier,0
+2023-10-26,Portugal,Austria,1,1,Qualifier,1
+2023-10-27,Jamaica,Netherlands,1,2,Friendly,0
+2023-10-27,South Korea,Panama,2,1,Qualifier,1
+2023-10-28,Serbia,Panama,4,0,Qualifier,0
+2023-10-29,Australia,Switzerland,1,1,Qualifier,1
+2023-10-29,Ghana,Austria,0,1,Qualifier,1
+2023-10-30,Ivory Coast,Uzbekistan,3,0,Qualifier,1
+2023-10-31,Japan,New Zealand,5,1,Qualifier,0
+2023-11-01,Austria,Australia,1,1,Friendly,0
+2023-11-01,Austria,Ivory Coast,0,0,Qualifier,1
+2023-11-02,Netherlands,Japan,0,0,Qualifier,0
+2023-11-03,Denmark,Australia,5,1,Qualifier,0
+2023-11-04,Algeria,Cameroon,1,0,Friendly,1
+2023-11-04,Croatia,Morocco,3,0,Qualifier,0
+2023-11-05,Canada,Serbia,0,1,Qualifier,1
+2023-11-06,Algeria,Senegal,1,1,Qualifier,0
+2023-11-06,Spain,Uzbekistan,3,0,Qualifier,0
+2023-11-07,Iraq,Austria,1,1,Qualifier,0
+2023-11-08,Croatia,United States,2,1,Friendly,1
+2023-11-09,Brazil,Turkey,1,1,Friendly,0
+2023-11-09,Australia,Austria,1,1,Friendly,0
+2023-11-10,United States,Denmark,6,1,Friendly,0
+2023-11-11,Brazil,Serbia,1,1,Friendly,0
+2023-11-12,Serbia,Argentina,1,1,Qualifier,0
+2023-11-12,Poland,Algeria,3,1,Qualifier,0
+2023-11-13,Ecuador,Uzbekistan,1,1,Friendly,0
+2023-11-14,Denmark,Germany,1,2,Qualifier,0
+2023-11-15,Netherlands,Germany,3,0,Qualifier,1
+2023-11-15,Germany,Iran,1,3,Qualifier,0
+2023-11-16,United States,Canada,2,1,Friendly,1
+2023-11-17,Panama,Austria,0,5,Qualifier,0
+2023-11-17,United States,Ukraine,5,2,Friendly,1
+2023-11-18,Ivory Coast,France,1,1,Qualifier,0
+2023-11-19,Nigeria,Germany,0,0,Friendly,0
+2023-11-20,England,Croatia,2,0,Qualifier,0
+2023-11-20,Brazil,DR Congo,4,0,Friendly,1
+2023-11-21,Ecuador,England,0,2,Qualifier,1
+2023-11-22,Denmark,Panama,2,2,Qualifier,0
+2023-11-23,DR Congo,United States,1,1,Qualifier,0
+2023-11-23,Spain,Ivory Coast,3,0,Friendly,1
+2023-11-24,Portugal,Costa Rica,3,0,Friendly,0
+2023-11-25,Jamaica,Bolivia,2,2,Qualifier,0
+2023-11-25,Nigeria,Saudi Arabia,3,1,Friendly,0
+2023-11-26,Brazil,Ghana,5,0,Qualifier,0
+2023-11-27,Uzbekistan,Uruguay,0,0,Friendly,0
+2023-11-28,New Zealand,France,3,3,Qualifier,0
+2023-11-28,Senegal,Bolivia,2,0,Qualifier,0
+2023-11-29,Croatia,Denmark,2,1,Friendly,0
+2023-11-30,Costa Rica,South Korea,1,0,Qualifier,1
+2023-12-01,Japan,France,1,3,Friendly,1
+2023-12-01,Ukraine,Senegal,1,1,Friendly,0
+2023-12-02,Senegal,Colombia,2,0,Friendly,0
+2023-12-03,Turkey,Croatia,0,0,Qualifier,0
+2023-12-03,Egypt,DR Congo,2,0,Friendly,0
+2023-12-04,Germany,Iraq,3,0,Friendly,1
+2023-12-05,Ukraine,Argentina,1,0,Qualifier,0
+2023-12-06,Portugal,Egypt,2,0,Qualifier,1
+2023-12-06,Senegal,Ghana,3,0,Friendly,0
+2023-12-07,Mexico,Canada,0,0,Friendly,0
+2023-12-08,United States,Paraguay,4,1,Friendly,0
+2023-12-09,Iran,Brazil,0,1,Qualifier,0
+2023-12-09,Panama,Australia,1,0,Qualifier,0
+2023-12-10,Brazil,Ivory Coast,8,0,Friendly,0
+2023-12-11,Denmark,Brazil,1,0,Qualifier,0
+2023-12-12,Iran,Turkey,0,1,Qualifier,1
+2023-12-12,Portugal,Ukraine,1,3,Friendly,0
+2023-12-13,Ukraine,Bolivia,2,0,Qualifier,0
+2023-12-14,Tunisia,New Zealand,0,1,Friendly,0
+2023-12-14,Ecuador,Uruguay,0,0,Friendly,0
+2023-12-15,United States,Paraguay,1,1,Friendly,1
+2023-12-16,Germany,Serbia,4,0,Friendly,0
+2023-12-17,DR Congo,Japan,2,3,Friendly,0
+2023-12-17,Ukraine,Uruguay,0,0,Qualifier,0
+2023-12-18,Jamaica,Poland,0,2,Friendly,0
+2023-12-19,Austria,New Zealand,2,1,Qualifier,0
+2023-12-20,France,Argentina,2,3,Friendly,0
+2023-12-20,Spain,Croatia,2,4,Friendly,1
+2023-12-21,Mexico,DR Congo,0,1,Friendly,1
+2023-12-22,Egypt,Portugal,1,5,Qualifier,0
+2023-12-22,New Zealand,Qatar,5,1,Friendly,0
+2023-12-23,Panama,Morocco,1,4,Qualifier,0
+2023-12-24,Japan,Egypt,0,0,Qualifier,0
+2023-12-25,Panama,Argentina,0,6,Qualifier,0
+2023-12-25,South Korea,Algeria,2,0,Qualifier,1
+2023-12-26,DR Congo,Ghana,1,2,Qualifier,1
+2023-12-27,Australia,Portugal,3,2,Qualifier,0
+2023-12-28,Morocco,Ghana,4,1,Qualifier,0
+2023-12-28,Argentina,Poland,1,0,Qualifier,1
+2023-12-29,Serbia,Tunisia,1,1,Friendly,0
+2023-12-30,Tunisia,Bolivia,6,0,Friendly,1
+2023-12-31,United States,Belgium,2,2,Friendly,0
+2023-12-31,Panama,Argentina,1,5,Qualifier,0
+2024-01-01,Uruguay,Bolivia,6,0,Qualifier,0
+2024-01-02,Morocco,Japan,7,1,Qualifier,0
+2024-01-02,Ivory Coast,Iran,1,0,Qualifier,0
+2024-01-03,Austria,United States,1,0,Friendly,0
+2024-01-04,Ivory Coast,Mexico,0,1,Qualifier,1
+2024-01-05,Netherlands,Iraq,6,0,Friendly,1
+2024-01-05,Paraguay,Uruguay,0,2,Qualifier,0
+2024-01-06,DR Congo,Denmark,1,1,Friendly,0
+2024-01-07,Nigeria,Iraq,3,0,Qualifier,1
+2024-01-08,Belgium,Switzerland,1,1,Friendly,1
+2024-01-08,Ivory Coast,Spain,0,1,Friendly,0
+2024-01-09,Spain,Argentina,2,0,Friendly,1
+2024-01-10,Costa Rica,Brazil,0,4,Friendly,0
+2024-01-10,Uzbekistan,Turkey,3,2,Qualifier,0
+2024-01-11,Germany,New Zealand,2,0,Qualifier,1
+2024-01-12,Panama,Ukraine,2,0,Friendly,1
+2024-01-13,England,Turkey,2,0,Qualifier,0
+2024-01-13,Japan,Algeria,2,0,Qualifier,0
+2024-01-14,Austria,Tunisia,1,0,Qualifier,1
+2024-01-15,Tunisia,Italy,2,0,Friendly,0
+2024-01-16,Austria,Egypt,1,1,Friendly,0
+2024-01-16,Colombia,Poland,2,1,Friendly,0
+2024-01-17,Egypt,Costa Rica,2,1,Qualifier,0
+2024-01-18,Jamaica,Qatar,2,2,Qualifier,1
+2024-01-18,South Korea,Belgium,4,2,Qualifier,0
+2024-01-19,Egypt,Tunisia,5,2,Qualifier,0
+2024-01-20,Austria,Jamaica,2,0,Friendly,0
+2024-01-21,DR Congo,Bolivia,3,1,Qualifier,1
+2024-01-21,France,Germany,0,1,Qualifier,0
+2024-01-22,Cameroon,Spain,0,3,Friendly,0
+2024-01-23,DR Congo,Panama,2,0,Qualifier,0
+2024-01-24,Turkey,Serbia,0,4,Qualifier,0
+2024-01-24,Iran,England,0,1,Qualifier,0
+2024-01-25,Costa Rica,Mexico,3,1,Qualifier,0
+2024-01-26,Argentina,Denmark,6,1,Friendly,0
+2024-01-27,Uruguay,Serbia,3,1,Friendly,0
+2024-01-27,Spain,Bolivia,7,0,Qualifier,1
+2024-01-28,Spain,Morocco,5,0,Qualifier,0
+2024-01-29,Italy,Iran,2,0,Qualifier,0
+2024-01-29,Japan,Brazil,1,0,Friendly,1
+2024-01-30,Cameroon,Paraguay,3,1,Friendly,0
+2024-01-31,Brazil,Turkey,2,1,Qualifier,0
+2024-02-01,Bolivia,Uruguay,2,0,Qualifier,0
+2024-02-01,Ivory Coast,England,0,2,Friendly,0
+2024-02-02,Cameroon,Japan,3,0,Qualifier,0
+2024-02-03,Ukraine,South Korea,1,3,Qualifier,1
+2024-02-04,Ukraine,Saudi Arabia,3,4,Friendly,0
+2024-02-04,Ivory Coast,Saudi Arabia,2,0,Qualifier,0
+2024-02-05,Paraguay,Qatar,2,1,Qualifier,0
+2024-02-06,Germany,Portugal,1,0,Qualifier,0
+2024-02-06,Algeria,Argentina,1,3,Qualifier,0
+2024-02-07,Spain,Iraq,10,0,Qualifier,0
+2024-02-08,Mexico,Cameroon,1,0,Qualifier,1
+2024-02-09,France,New Zealand,9,0,Qualifier,0
+2024-02-09,Turkey,Argentina,0,4,Qualifier,0
+2024-02-10,England,Uzbekistan,5,2,Qualifier,0
+2024-02-11,Algeria,Saudi Arabia,2,1,Qualifier,0
+2024-02-12,Ukraine,Nigeria,1,1,Qualifier,0
+2024-02-12,DR Congo,Netherlands,0,3,Qualifier,0
+2024-02-13,Netherlands,Saudi Arabia,2,1,Friendly,0
+2024-02-14,Netherlands,Bolivia,6,0,Qualifier,0
+2024-02-14,United States,Italy,0,1,Friendly,0
+2024-02-15,Croatia,Belgium,3,0,Qualifier,0
+2024-02-16,Austria,Jamaica,0,0,Friendly,0
+2024-02-17,Saudi Arabia,Switzerland,3,2,Friendly,0
+2024-02-17,Germany,Turkey,1,1,Qualifier,0
+2024-02-18,DR Congo,Saudi Arabia,2,3,Friendly,0
+2024-02-19,Jamaica,Ecuador,2,0,Qualifier,1
+2024-02-20,Nigeria,United States,2,2,Qualifier,0
+2024-02-20,Switzerland,Ecuador,3,2,Friendly,0
+2024-02-21,Bolivia,Belgium,1,0,Qualifier,1
+2024-02-22,Switzerland,Canada,1,0,Friendly,0
+2024-02-23,Algeria,Morocco,0,0,Qualifier,0
+2024-02-23,Belgium,Poland,2,0,Friendly,0
+2024-02-24,Japan,Bolivia,2,0,Friendly,0
+2024-02-25,Canada,Turkey,0,1,Qualifier,0
+2024-02-25,Saudi Arabia,Ecuador,1,1,Friendly,1
+2024-02-26,Japan,Bolivia,5,0,Qualifier,0
+2024-02-27,Turkey,Senegal,1,0,Qualifier,0
+2024-02-28,New Zealand,Serbia,1,0,Friendly,0
+2024-02-28,Canada,Costa Rica,5,0,Qualifier,1
+2024-02-29,Canada,Portugal,1,1,Qualifier,0
+2024-03-01,Germany,Turkey,1,2,Friendly,0
+2024-03-02,Jamaica,Ecuador,0,3,Qualifier,0
+2024-03-02,Cameroon,Australia,1,0,Qualifier,1
+2024-03-03,Switzerland,Bolivia,4,0,Qualifier,0
+2024-03-04,Germany,Tunisia,2,0,Friendly,1
+2024-03-04,France,Switzerland,2,0,Qualifier,0
+2024-03-05,Panama,Bolivia,1,0,Friendly,0
+2024-03-06,Ivory Coast,Canada,6,1,Qualifier,0
+2024-03-07,Cameroon,Spain,1,3,Qualifier,0
+2024-03-07,Iraq,Denmark,0,1,Friendly,0
+2024-03-08,Uruguay,Paraguay,3,1,Qualifier,0
+2024-03-09,Australia,Canada,0,1,Qualifier,0
+2024-03-10,Ecuador,Switzerland,3,1,Qualifier,0
+2024-03-10,Bolivia,Senegal,4,1,Qualifier,1
+2024-03-11,Tunisia,Uzbekistan,0,1,Friendly,0
+2024-03-12,Switzerland,Poland,1,0,Qualifier,0
+2024-03-13,Jamaica,Turkey,3,1,Qualifier,1
+2024-03-13,Iraq,Bolivia,1,0,Qualifier,0
+2024-03-14,Denmark,Turkey,0,2,Qualifier,0
+2024-03-15,United States,Ghana,5,1,Friendly,0
+2024-03-15,Japan,Germany,1,1,Qualifier,1
+2024-03-16,Australia,Italy,1,0,Qualifier,0
+2024-03-17,Italy,South Korea,2,0,Qualifier,0
+2024-03-18,Switzerland,Netherlands,1,0,Qualifier,1
+2024-03-18,France,Switzerland,2,1,Qualifier,0
+2024-03-19,Brazil,Jamaica,1,0,Qualifier,0
+2024-03-20,Turkey,Austria,0,1,Qualifier,1
+2024-03-21,Netherlands,Switzerland,1,0,Qualifier,0
+2024-03-21,Uzbekistan,Portugal,1,4,Qualifier,0
+2024-03-22,Iran,Japan,1,2,Friendly,0
+2024-03-23,England,Spain,1,2,Qualifier,0
+2024-03-23,Netherlands,Jamaica,5,0,Qualifier,0
+2024-03-24,Spain,United States,1,2,Friendly,0
+2024-03-25,Croatia,Portugal,3,2,Qualifier,0
+2024-03-26,Uzbekistan,Australia,5,3,Qualifier,0
+2024-03-26,United States,Ghana,4,1,Qualifier,0
+2024-03-27,Poland,New Zealand,4,1,Friendly,0
+2024-03-28,South Korea,Austria,1,2,Friendly,0
+2024-03-29,Saudi Arabia,Nigeria,1,1,Qualifier,0
+2024-03-29,Senegal,Saudi Arabia,4,1,Friendly,1
+2024-03-30,Costa Rica,Bolivia,2,0,Qualifier,0
+2024-03-31,Iran,Canada,1,2,Friendly,0
+2024-03-31,Egypt,DR Congo,2,1,Qualifier,0
+2024-04-01,Germany,Iran,6,1,Friendly,0
+2024-04-02,Germany,France,1,0,Friendly,0
+2024-04-03,Panama,Cameroon,6,2,Friendly,0
+2024-04-03,Germany,Saudi Arabia,6,1,Qualifier,1
+2024-04-04,Nigeria,Mexico,3,1,Friendly,0
+2024-04-05,Algeria,Iraq,3,0,Qualifier,1
+2024-04-06,Nigeria,Netherlands,2,3,Friendly,0
+2024-04-06,Brazil,Poland,5,0,Qualifier,0
+2024-04-07,Algeria,South Korea,3,0,Friendly,0
+2024-04-08,Ghana,Austria,2,1,Friendly,0
+2024-04-09,Egypt,Japan,0,0,Qualifier,0
+2024-04-09,Egypt,Netherlands,2,4,Friendly,1
+2024-04-10,Italy,Costa Rica,7,1,Qualifier,1
+2024-04-11,Spain,Qatar,4,1,Friendly,0
+2024-04-11,Iran,Tunisia,4,3,Friendly,1
+2024-04-12,Argentina,Ukraine,5,0,Qualifier,0
+2024-04-13,Portugal,Iran,3,0,Qualifier,0
+2024-04-14,Croatia,Germany,1,1,Qualifier,1
+2024-04-14,Ivory Coast,Morocco,5,1,Qualifier,0
+2024-04-15,Ecuador,Ghana,1,0,Qualifier,0
+2024-04-16,Portugal,Egypt,3,1,Qualifier,0
+2024-04-17,Turkey,France,1,3,Qualifier,0
+2024-04-17,Qatar,Ivory Coast,4,1,Qualifier,1
+2024-04-18,Germany,Nigeria,4,2,Qualifier,0
+2024-04-19,Uzbekistan,Switzerland,1,1,Qualifier,0
+2024-04-19,Tunisia,Belgium,1,1,Qualifier,0
+2024-04-20,Spain,Belgium,2,0,Qualifier,0
+2024-04-21,Denmark,Cameroon,2,1,Friendly,0
+2024-04-22,Egypt,New Zealand,3,0,Qualifier,0
+2024-04-22,Jamaica,Nigeria,0,1,Qualifier,0
+2024-04-23,Jamaica,Colombia,3,1,Qualifier,0
+2024-04-24,Uruguay,Ukraine,2,0,Qualifier,0
+2024-04-25,Australia,Tunisia,1,0,Friendly,0
+2024-04-25,Ghana,Colombia,1,0,Qualifier,1
+2024-04-26,Switzerland,Cameroon,3,0,Qualifier,1
+2024-04-27,England,Qatar,3,1,Friendly,0
+2024-04-27,Canada,Belgium,1,2,Friendly,0
+2024-04-28,Germany,Austria,1,0,Friendly,0
+2024-04-29,Nigeria,Uruguay,2,2,Qualifier,0
+2024-04-30,Nigeria,Spain,0,1,Friendly,0
+2024-04-30,Serbia,Spain,0,1,Qualifier,0
+2024-05-01,Ghana,Ecuador,0,2,Qualifier,1
+2024-05-02,Cameroon,Uruguay,1,1,Friendly,0
+2024-05-03,Saudi Arabia,DR Congo,2,2,Friendly,1
+2024-05-03,Morocco,Cameroon,5,1,Qualifier,1
+2024-05-04,Belgium,Croatia,2,1,Qualifier,0
+2024-05-05,Ukraine,Austria,1,0,Qualifier,0
+2024-05-06,Senegal,Belgium,0,2,Qualifier,1
+2024-05-06,Jamaica,Tunisia,0,2,Qualifier,0
+2024-05-07,Panama,Ghana,1,2,Friendly,0
+2024-05-08,Iraq,Uruguay,0,3,Qualifier,0
+2024-05-08,France,DR Congo,5,1,Qualifier,0
+2024-05-09,Qatar,Ghana,0,0,Friendly,0
+2024-05-10,Canada,Tunisia,2,2,Qualifier,1
+2024-05-11,Tunisia,Japan,3,2,Friendly,0
+2024-05-11,Egypt,Morocco,1,0,Qualifier,0
+2024-05-12,Uruguay,Egypt,4,1,Qualifier,1
+2024-05-13,Spain,Ukraine,3,2,Friendly,0
+2024-05-14,Portugal,Poland,0,0,Qualifier,0
+2024-05-14,Croatia,Qatar,5,1,Friendly,0
+2024-05-15,Croatia,Costa Rica,2,1,Friendly,0
+2024-05-16,Colombia,DR Congo,8,0,Qualifier,0
+2024-05-16,England,Iran,3,1,Friendly,0
+2024-05-17,Ukraine,Iraq,3,0,Qualifier,0
+2024-05-18,Nigeria,Poland,2,1,Friendly,1
+2024-05-19,Spain,Cameroon,9,0,Friendly,0
+2024-05-19,Ghana,South Korea,2,3,Friendly,0
+2024-05-20,Senegal,Argentina,0,2,Friendly,0
+2024-05-21,England,Serbia,3,2,Qualifier,0
+2024-05-22,Croatia,Nigeria,3,1,Qualifier,0
+2024-05-22,Italy,Portugal,2,1,Friendly,0
+2024-05-23,Egypt,Nigeria,2,0,Friendly,0
+2024-05-24,Cameroon,Austria,0,1,Qualifier,1
+2024-05-25,Costa Rica,Saudi Arabia,0,1,Qualifier,0
+2024-05-25,Ivory Coast,Algeria,2,0,Friendly,0
+2024-05-26,New Zealand,Colombia,2,3,Qualifier,0
+2024-05-27,Tunisia,Costa Rica,2,0,Friendly,0
+2024-05-27,Cameroon,Ukraine,2,2,Qualifier,1
+2024-05-28,United States,Netherlands,1,0,Qualifier,0
+2024-05-29,France,Algeria,5,0,Qualifier,1
+2024-05-30,Senegal,Iran,1,0,Qualifier,0
+2024-05-30,Costa Rica,Australia,0,2,Friendly,0
+2024-05-31,United States,Iraq,1,1,Friendly,0
+2024-06-01,Uzbekistan,Paraguay,2,3,Qualifier,0
+2024-06-02,Cameroon,Serbia,1,0,Friendly,1
+2024-06-02,Austria,Colombia,2,1,Qualifier,1
+2024-06-03,Portugal,Costa Rica,3,0,Friendly,0
+2024-06-04,Denmark,Germany,0,3,Qualifier,0
+2024-06-04,Colombia,Paraguay,5,0,Friendly,0
+2024-06-05,Colombia,Panama,0,1,Friendly,1
+2024-06-06,New Zealand,Denmark,0,2,Friendly,0
+2024-06-07,Senegal,Bolivia,3,0,Friendly,0
+2024-06-07,Switzerland,DR Congo,0,0,Qualifier,0
+2024-06-08,Paraguay,Switzerland,2,2,Qualifier,0
+2024-06-09,Croatia,Costa Rica,2,0,Friendly,1
+2024-06-10,Poland,Panama,4,2,Qualifier,0
+2024-06-10,France,Portugal,3,1,Qualifier,0
+2024-06-11,Panama,Costa Rica,3,1,Friendly,0
+2024-06-12,Canada,Uruguay,5,3,Friendly,0
+2024-06-12,Ivory Coast,Cameroon,2,0,Qualifier,0
+2024-06-13,United States,New Zealand,7,0,Qualifier,0
+2024-06-14,New Zealand,DR Congo,1,2,Qualifier,0
+2024-06-15,Netherlands,Mexico,3,1,Qualifier,0
+2024-06-15,England,Costa Rica,2,0,Qualifier,0
+2024-06-16,Mexico,Uzbekistan,0,1,Friendly,0
+2024-06-17,Switzerland,Brazil,0,2,Qualifier,0
+2024-06-18,England,DR Congo,3,0,Friendly,0
+2024-06-18,Netherlands,Brazil,1,0,Friendly,0
+2024-06-19,Ghana,Bolivia,2,1,Qualifier,0
+2024-06-20,Ecuador,Colombia,0,2,Qualifier,1
+2024-06-21,Mexico,Croatia,1,0,Qualifier,0
+2024-06-21,Egypt,Nigeria,0,2,Qualifier,0
+2024-06-22,Colombia,Netherlands,1,0,Qualifier,0
+2024-06-23,Netherlands,Mexico,0,0,Qualifier,1
+2024-06-23,Croatia,England,1,2,Qualifier,1
+2024-06-24,Iraq,Argentina,1,3,Qualifier,1
+2024-06-25,Australia,Ecuador,1,1,Qualifier,0
+2024-06-26,Denmark,Japan,2,0,Qualifier,0
+2024-06-26,Egypt,Croatia,3,0,Qualifier,0
+2024-06-27,Saudi Arabia,Switzerland,1,3,Qualifier,0
+2024-06-28,Nigeria,Morocco,2,2,Qualifier,0
+2024-06-29,Spain,Algeria,2,1,Friendly,0
+2024-06-29,Netherlands,France,0,1,Friendly,0
+2024-06-30,Colombia,Paraguay,2,0,Qualifier,0
+2024-07-01,Spain,Switzerland,2,1,Friendly,0
+2024-07-01,Morocco,Panama,3,0,Friendly,0
+2024-07-02,Croatia,Costa Rica,4,0,Qualifier,0
+2024-07-03,Portugal,New Zealand,4,0,Qualifier,0
+2024-07-04,Morocco,New Zealand,5,1,Qualifier,0
+2024-07-04,Cameroon,Argentina,0,1,Friendly,0
+2024-07-05,Uzbekistan,Jamaica,0,0,Friendly,1
+2024-07-06,Uruguay,Croatia,0,1,Friendly,0
+2024-07-07,Australia,DR Congo,2,0,Qualifier,1
+2024-07-07,Panama,DR Congo,1,1,Qualifier,0
+2024-07-08,Panama,Iraq,1,2,Qualifier,0
+2024-07-09,Brazil,DR Congo,6,0,Qualifier,0
+2024-07-09,Iran,Costa Rica,5,2,Qualifier,0
+2024-07-10,Qatar,Germany,0,4,Friendly,0
+2024-07-11,Morocco,Algeria,1,0,Friendly,0
+2024-07-12,Cameroon,Paraguay,4,0,Qualifier,1
+2024-07-12,Turkey,Iraq,3,3,Qualifier,0
+2024-07-13,Ukraine,Serbia,2,2,Qualifier,0
+2024-07-14,Germany,Mexico,3,1,Qualifier,1
+2024-07-15,Brazil,Belgium,4,2,Friendly,0
+2024-07-15,Ghana,Uzbekistan,4,1,Qualifier,0
+2024-07-16,Brazil,Iraq,5,0,Qualifier,0
+2024-07-17,Panama,Poland,3,3,Qualifier,0
+2024-07-18,Ukraine,Jamaica,2,0,Friendly,0
+2024-07-18,England,Cameroon,2,1,Qualifier,1
+2024-07-19,Morocco,Egypt,2,0,Qualifier,0
+2024-07-20,Poland,Ukraine,0,1,Qualifier,0
+2024-07-20,Egypt,Italy,1,2,Qualifier,0
+2024-07-21,Panama,Algeria,2,1,Qualifier,0
+2024-07-22,Ivory Coast,Poland,1,1,Qualifier,0
+2024-07-23,England,New Zealand,4,0,Qualifier,0
+2024-07-23,Morocco,Denmark,2,2,Friendly,0
+2024-07-24,South Korea,Netherlands,2,5,Qualifier,0
+2024-07-25,United States,England,1,1,Friendly,0
+2024-07-26,Germany,Egypt,3,0,Qualifier,0
+2024-07-26,Uruguay,England,2,1,Friendly,0
+2024-07-27,Switzerland,England,1,1,Friendly,0
+2024-07-28,Morocco,Costa Rica,1,0,Qualifier,0
+2024-07-28,Canada,Paraguay,4,1,Qualifier,0
+2024-07-29,Panama,Costa Rica,1,1,Qualifier,0
+2024-07-30,Portugal,Iran,6,1,Friendly,0
+2024-07-31,Brazil,Ghana,2,0,Friendly,0
+2024-07-31,South Korea,Iraq,1,0,Qualifier,0
+2024-08-01,Croatia,Germany,1,1,Friendly,0
+2024-08-02,Spain,Ecuador,4,0,Friendly,0
+2024-08-03,Paraguay,Ivory Coast,1,0,Friendly,0
+2024-08-03,Canada,Turkey,2,0,Friendly,0
+2024-08-04,Ivory Coast,Italy,0,0,Qualifier,0
+2024-08-05,Tunisia,Argentina,1,4,Qualifier,0
+2024-08-06,Belgium,Saudi Arabia,7,2,Friendly,0
+2024-08-06,Canada,Bolivia,4,3,Qualifier,0
+2024-08-07,Ghana,Croatia,1,3,Friendly,0
+2024-08-08,Morocco,Paraguay,1,0,Friendly,0
+2024-08-08,Ghana,United States,2,0,Qualifier,0
+2024-08-09,Argentina,Netherlands,2,2,Qualifier,0
+2024-08-10,United States,Iran,2,1,Friendly,1
+2024-08-11,Senegal,Ukraine,2,0,Qualifier,0
+2024-08-11,Uruguay,Croatia,1,0,Qualifier,0
+2024-08-12,Bolivia,Paraguay,5,0,Qualifier,0
+2024-08-13,Senegal,Netherlands,2,2,Qualifier,0
+2024-08-14,DR Congo,Netherlands,1,2,Friendly,0
+2024-08-14,Brazil,Denmark,4,2,Friendly,1
+2024-08-15,Belgium,Paraguay,3,0,Friendly,0
+2024-08-16,New Zealand,Turkey,0,2,Qualifier,0
+2024-08-16,Saudi Arabia,Belgium,1,3,Qualifier,0
+2024-08-17,Canada,Italy,0,2,Friendly,0
+2024-08-18,Ivory Coast,Serbia,0,1,Friendly,1
+2024-08-19,Tunisia,Serbia,1,2,Qualifier,1
+2024-08-19,Turkey,Mexico,1,2,Friendly,0
+2024-08-20,Qatar,New Zealand,1,1,Friendly,1
+2024-08-21,Panama,Qatar,2,0,Friendly,0
+2024-08-22,Paraguay,Egypt,2,0,Qualifier,0
+2024-08-22,Costa Rica,Croatia,1,5,Qualifier,1
+2024-08-23,Ukraine,Argentina,2,1,Friendly,0
+2024-08-24,Jamaica,Brazil,0,3,Qualifier,0
+2024-08-24,South Korea,Uzbekistan,5,0,Friendly,0
+2024-08-25,Australia,South Korea,2,1,Qualifier,0
+2024-08-26,Poland,Croatia,1,4,Friendly,0
+2024-08-27,Japan,Denmark,3,1,Friendly,0
+2024-08-27,Bolivia,Germany,3,1,Friendly,0
+2024-08-28,Paraguay,Denmark,1,1,Friendly,0
+2024-08-29,Qatar,Colombia,1,4,Qualifier,0
+2024-08-30,DR Congo,Senegal,0,1,Friendly,0
+2024-08-30,Ivory Coast,Nigeria,2,0,Qualifier,0
+2024-08-31,United States,Mexico,1,2,Qualifier,1
+2024-09-01,Argentina,DR Congo,4,1,Qualifier,0
+2024-09-02,Spain,Algeria,3,0,Friendly,0
+2024-09-02,Spain,Poland,7,0,Qualifier,0
+2024-09-03,Spain,Italy,3,1,Qualifier,0
+2024-09-04,DR Congo,Netherlands,0,2,Friendly,1
+2024-09-04,Ivory Coast,Spain,0,1,Friendly,0
+2024-09-05,Spain,Austria,3,0,Qualifier,0
+2024-09-06,Jamaica,Uzbekistan,2,2,Qualifier,0
+2024-09-07,Poland,Serbia,1,1,Qualifier,0
+2024-09-07,Egypt,Panama,2,0,Qualifier,1
+2024-09-08,Turkey,Saudi Arabia,4,2,Qualifier,0
+2024-09-09,Colombia,Ivory Coast,3,3,Qualifier,1
+2024-09-10,Costa Rica,Denmark,0,1,Qualifier,0
+2024-09-10,Costa Rica,Australia,0,0,Qualifier,0
+2024-09-11,Croatia,DR Congo,3,0,Qualifier,0
+2024-09-12,Egypt,Jamaica,2,1,Qualifier,0
+2024-09-12,Iran,Senegal,0,1,Friendly,0
+2024-09-13,Australia,Belgium,1,0,Friendly,1
+2024-09-14,Ukraine,Canada,2,1,Friendly,0
+2024-09-15,Ecuador,New Zealand,3,1,Friendly,0
+2024-09-15,Mexico,DR Congo,3,0,Friendly,0
+2024-09-16,Italy,Panama,2,0,Qualifier,0
+2024-09-17,Japan,Ivory Coast,1,1,Friendly,0
+2024-09-18,Mexico,Germany,0,1,Qualifier,0
+2024-09-18,Ivory Coast,Morocco,1,2,Qualifier,1
+2024-09-19,England,Poland,6,1,Friendly,0
+2024-09-20,Austria,Uruguay,0,1,Friendly,0
+2024-09-20,Ivory Coast,Australia,3,0,Qualifier,0
+2024-09-21,Brazil,Switzerland,4,1,Qualifier,0
+2024-09-22,United States,Netherlands,0,2,Friendly,0
+2024-09-23,United States,Colombia,2,1,Qualifier,0
+2024-09-23,South Korea,Australia,1,2,Friendly,0
+2024-09-24,Brazil,Netherlands,3,1,Friendly,0
+2024-09-25,Egypt,Argentina,0,3,Qualifier,0
+2024-09-26,Austria,Cameroon,2,0,Qualifier,0
+2024-09-26,Senegal,Nigeria,2,0,Qualifier,0
+2024-09-27,Cameroon,Belgium,1,2,Qualifier,0
+2024-09-28,Australia,Bolivia,0,1,Qualifier,0
+2024-09-29,England,Colombia,1,0,Qualifier,0
+2024-09-29,England,Argentina,0,1,Qualifier,0
+2024-09-30,Mexico,Australia,1,0,Qualifier,1
+2024-10-01,Saudi Arabia,Colombia,1,2,Qualifier,0
+2024-10-01,Ghana,Australia,0,0,Qualifier,1
+2024-10-02,Nigeria,Costa Rica,6,1,Qualifier,0
+2024-10-03,Austria,Tunisia,1,0,Qualifier,0
+2024-10-04,Colombia,DR Congo,2,0,Qualifier,0
+2024-10-04,Denmark,Portugal,1,2,Qualifier,0
+2024-10-05,Argentina,Denmark,1,2,Qualifier,1
+2024-10-06,Italy,Nigeria,3,2,Friendly,0
+2024-10-07,Turkey,Switzerland,0,1,Qualifier,0
+2024-10-07,Cameroon,Denmark,1,1,Qualifier,0
+2024-10-08,Portugal,Senegal,1,0,Qualifier,0
+2024-10-09,Paraguay,Ivory Coast,0,1,Friendly,0
+2024-10-09,Nigeria,Portugal,0,2,Qualifier,0
+2024-10-10,Uruguay,Cameroon,4,1,Qualifier,0
+2024-10-11,Spain,Egypt,3,0,Qualifier,0
+2024-10-12,Iran,Belgium,0,0,Friendly,0
+2024-10-12,Australia,Denmark,3,1,Qualifier,0
+2024-10-13,France,Italy,1,1,Friendly,0
+2024-10-14,Canada,Ivory Coast,2,2,Qualifier,0
+2024-10-15,Portugal,Germany,1,1,Friendly,1
+2024-10-15,Mexico,Bolivia,0,1,Qualifier,0
+2024-10-16,Turkey,Austria,0,0,Friendly,0
+2024-10-17,Germany,Algeria,4,0,Qualifier,0
+2024-10-18,Denmark,Qatar,5,0,Friendly,0
+2024-10-18,Argentina,Jamaica,6,0,Friendly,0
+2024-10-19,New Zealand,Ecuador,1,0,Qualifier,1
+2024-10-20,Ukraine,Brazil,0,5,Friendly,0
+2024-10-20,Qatar,England,0,2,Qualifier,0
+2024-10-21,Ecuador,Mexico,2,1,Qualifier,0
+2024-10-22,Belgium,Senegal,3,1,Friendly,0
+2024-10-23,Paraguay,Brazil,1,0,Friendly,0
+2024-10-23,Bolivia,Austria,0,3,Qualifier,0
+2024-10-24,Paraguay,England,1,2,Friendly,1
+2024-10-25,Canada,Turkey,0,0,Friendly,0
+2024-10-26,Belgium,Ecuador,1,0,Qualifier,1
+2024-10-26,Canada,Brazil,1,1,Friendly,0
+2024-10-27,Serbia,Ghana,3,1,Qualifier,0
+2024-10-28,Spain,France,2,0,Friendly,0
+2024-10-28,England,Germany,2,0,Friendly,1
+2024-10-29,South Korea,Colombia,0,1,Qualifier,0
+2024-10-30,United States,Colombia,2,2,Qualifier,0
+2024-10-31,Croatia,Cameroon,4,0,Friendly,0
+2024-10-31,Senegal,Ecuador,3,0,Friendly,0
+2024-11-01,Bolivia,Netherlands,0,2,Friendly,0
+2024-11-02,Poland,Jamaica,4,4,Qualifier,0
+2024-11-03,Argentina,Belgium,5,0,Qualifier,0
+2024-11-03,Tunisia,Poland,1,2,Friendly,0
+2024-11-04,Croatia,Brazil,2,2,Friendly,0
+2024-11-05,Colombia,Denmark,3,1,Qualifier,0
+2024-11-05,Egypt,Italy,0,0,Qualifier,0
+2024-11-06,Serbia,Denmark,1,0,Friendly,0
+2024-11-07,Croatia,Qatar,2,0,Qualifier,0
+2024-11-08,Colombia,Portugal,3,2,Qualifier,0
+2024-11-08,DR Congo,Mexico,1,1,Qualifier,0
+2024-11-09,Serbia,Morocco,3,0,Friendly,0
+2024-11-10,Croatia,Saudi Arabia,4,1,Qualifier,0
+2024-11-11,Senegal,Australia,1,2,Qualifier,0
+2024-11-11,Iran,Portugal,1,2,Qualifier,1
+2024-11-12,Nigeria,South Korea,1,3,Qualifier,0
+2024-11-13,Italy,Paraguay,4,0,Qualifier,0
+2024-11-14,Algeria,New Zealand,3,0,Friendly,0
+2024-11-14,Iraq,Saudi Arabia,0,0,Qualifier,0
+2024-11-15,Colombia,Cameroon,7,0,Friendly,0
+2024-11-16,Egypt,Japan,1,1,Qualifier,0
+2024-11-16,Uruguay,Uzbekistan,3,1,Qualifier,0
+2024-11-17,Denmark,Belgium,0,0,Qualifier,0
+2024-11-18,Panama,Ecuador,4,2,Qualifier,0
+2024-11-19,Canada,Senegal,1,2,Qualifier,1
+2024-11-19,Poland,Nigeria,1,0,Qualifier,0
+2024-11-20,Spain,Italy,1,1,Qualifier,0
+2024-11-21,DR Congo,Ivory Coast,1,3,Qualifier,1
+2024-11-22,Ivory Coast,Germany,1,3,Friendly,0
+2024-11-22,Bolivia,Belgium,0,3,Qualifier,1
+2024-11-23,Senegal,Poland,2,2,Friendly,0
+2024-11-24,Japan,Uruguay,2,2,Qualifier,0
+2024-11-24,Argentina,Qatar,5,0,Friendly,0
+2024-11-25,Qatar,Portugal,1,3,Qualifier,0
+2024-11-26,England,Portugal,0,1,Qualifier,0
+2024-11-27,Australia,Algeria,1,0,Qualifier,1
+2024-11-27,France,Mexico,1,0,Friendly,0
+2024-11-28,Ecuador,Iraq,3,1,Qualifier,0
+2024-11-29,France,South Korea,1,1,Qualifier,0
+2024-11-30,France,Qatar,5,1,Qualifier,1
+2024-11-30,Belgium,Italy,2,2,Friendly,0
+2024-12-01,Tunisia,Serbia,1,2,Friendly,0
+2024-12-02,Panama,Cameroon,3,2,Qualifier,1
+2024-12-02,Cameroon,Nigeria,0,1,Qualifier,0
+2024-12-03,Poland,Ukraine,3,3,Qualifier,0
+2024-12-04,New Zealand,Serbia,0,1,Qualifier,0
+2024-12-05,Egypt,Uzbekistan,6,0,Qualifier,0
+2024-12-05,Jamaica,DR Congo,3,1,Qualifier,0
+2024-12-06,Portugal,Germany,3,1,Friendly,0
+2024-12-07,Morocco,Saudi Arabia,1,3,Friendly,0
+2024-12-08,Saudi Arabia,South Korea,2,3,Friendly,0
+2024-12-08,Ivory Coast,Poland,0,0,Qualifier,0
+2024-12-09,Canada,Portugal,3,1,Qualifier,0
+2024-12-10,Iran,Tunisia,3,0,Qualifier,0
+2024-12-11,New Zealand,Senegal,1,2,Qualifier,0
+2024-12-11,Croatia,Egypt,1,0,Qualifier,0
+2024-12-12,Egypt,New Zealand,6,1,Qualifier,0
+2024-12-13,Tunisia,Poland,0,0,Friendly,1
+2024-12-13,Panama,England,1,1,Qualifier,0
+2024-12-14,Belgium,Tunisia,2,0,Friendly,0
+2024-12-15,Algeria,England,1,0,Qualifier,0
+2024-12-16,Iran,Jamaica,5,2,Friendly,0
+2024-12-16,Brazil,Germany,2,0,Friendly,0
+2024-12-17,Japan,Australia,6,1,Friendly,1
+2024-12-18,Jamaica,Ecuador,0,2,Qualifier,0
+2024-12-19,Japan,Ukraine,2,4,Qualifier,0
+2024-12-19,Croatia,Iran,4,1,Qualifier,0
+2024-12-20,Paraguay,Cameroon,2,0,Qualifier,0
+2024-12-21,DR Congo,Italy,2,3,Qualifier,0
+2024-12-21,Croatia,Paraguay,2,1,Friendly,0
+2024-12-22,South Korea,Croatia,0,1,Qualifier,0
+2024-12-23,Iran,Austria,0,1,Friendly,1
+2024-12-24,Ghana,Saudi Arabia,1,1,Qualifier,0
+2024-12-24,Portugal,Cameroon,4,0,Qualifier,0
+2024-12-25,Ukraine,Belgium,1,4,Friendly,0
+2024-12-26,Poland,Colombia,2,3,Friendly,0
+2024-12-27,Canada,Turkey,4,1,Qualifier,0
+2024-12-27,Paraguay,Spain,0,4,Qualifier,0
+2024-12-28,Poland,Germany,1,1,Friendly,0
+2024-12-29,Austria,Saudi Arabia,1,0,Friendly,1
+2024-12-30,Spain,Qatar,4,0,Friendly,0
+2024-12-30,Mexico,DR Congo,3,3,Qualifier,0
+2024-12-31,Colombia,Uzbekistan,5,0,Friendly,0
+2025-01-01,France,Belgium,2,1,Friendly,0
+2025-01-01,Spain,Argentina,1,1,Qualifier,0
+2025-01-02,Ukraine,DR Congo,4,3,Qualifier,0
+2025-01-03,Senegal,Serbia,1,2,Friendly,0
+2025-01-04,Italy,Panama,4,0,Qualifier,1
+2025-01-04,Austria,Turkey,1,1,Qualifier,1
+2025-01-05,Morocco,Qatar,2,2,Qualifier,0
+2025-01-06,Ecuador,South Korea,1,1,Qualifier,0
+2025-01-07,England,Uruguay,2,0,Qualifier,0
+2025-01-07,Australia,Brazil,0,1,Qualifier,0
+2025-01-08,DR Congo,Turkey,2,3,Qualifier,1
+2025-01-09,Senegal,DR Congo,4,1,Friendly,0
+2025-01-09,Iraq,Ecuador,2,3,Friendly,0
+2025-01-10,Iran,Ghana,3,0,Friendly,1
+2025-01-11,Canada,Saudi Arabia,2,2,Qualifier,0
+2025-01-12,France,Algeria,5,2,Qualifier,0
+2025-01-12,Saudi Arabia,Algeria,3,1,Qualifier,1
+2025-01-13,Croatia,Denmark,2,0,Qualifier,0
+2025-01-14,Croatia,Germany,3,0,Qualifier,0
+2025-01-15,Senegal,Egypt,2,0,Qualifier,1
+2025-01-15,Tunisia,Italy,0,0,Qualifier,1
+2025-01-16,Nigeria,Costa Rica,2,1,Qualifier,0
+2025-01-17,Ukraine,Austria,4,0,Qualifier,0
+2025-01-17,Qatar,Iran,0,2,Qualifier,0
+2025-01-18,Panama,Qatar,2,0,Qualifier,0
+2025-01-19,Nigeria,Uruguay,1,0,Qualifier,0
+2025-01-20,Denmark,Switzerland,0,0,Qualifier,0
+2025-01-20,Argentina,Ghana,4,1,Qualifier,0
+2025-01-21,Poland,Netherlands,0,1,Qualifier,1
+2025-01-22,DR Congo,Ecuador,0,1,Friendly,1
+2025-01-23,Qatar,Netherlands,0,1,Qualifier,1
+2025-01-23,Austria,Cameroon,4,0,Qualifier,0
+2025-01-24,Brazil,Colombia,2,0,Qualifier,0
+2025-01-25,Netherlands,Switzerland,1,1,Qualifier,0
+2025-01-26,Canada,Belgium,1,2,Friendly,0
+2025-01-26,Costa Rica,Mexico,0,0,Qualifier,1
+2025-01-27,Senegal,Poland,4,2,Friendly,0
+2025-01-28,Senegal,France,1,2,Friendly,1
+2025-01-28,United States,Italy,0,1,Qualifier,0
+2025-01-29,Japan,Qatar,5,0,Qualifier,0
+2025-01-30,Morocco,Brazil,0,1,Friendly,0
+2025-01-31,Denmark,Argentina,1,2,Friendly,1
+2025-01-31,Belgium,Croatia,0,0,Friendly,1
+2025-02-01,Canada,Ghana,1,0,Qualifier,1
+2025-02-02,Cameroon,Costa Rica,2,1,Qualifier,0
+2025-02-03,Colombia,Belgium,3,2,Friendly,0
+2025-02-03,Belgium,Denmark,3,1,Friendly,1
+2025-02-04,Croatia,Argentina,6,2,Qualifier,0
+2025-02-05,Italy,England,1,1,Qualifier,0
+2025-02-05,Australia,Bolivia,7,1,Friendly,0
+2025-02-06,Portugal,Egypt,2,0,Friendly,0
+2025-02-07,Ghana,South Korea,1,1,Friendly,1
+2025-02-08,Canada,Argentina,1,3,Qualifier,0
+2025-02-08,Japan,Uruguay,0,0,Friendly,0
+2025-02-09,United States,Brazil,1,1,Friendly,0
+2025-02-10,Uzbekistan,Brazil,0,6,Friendly,0
+2025-02-11,Turkey,Ivory Coast,2,2,Friendly,1
+2025-02-11,Mexico,Cameroon,2,1,Qualifier,0
+2025-02-12,Austria,Panama,6,1,Qualifier,0
+2025-02-13,Panama,Qatar,2,3,Friendly,1
+2025-02-13,France,Netherlands,2,1,Friendly,0
+2025-02-14,Nigeria,Qatar,2,2,Qualifier,0
+2025-02-15,Qatar,Ecuador,2,1,Friendly,0
+2025-02-16,Italy,Cameroon,2,0,Friendly,0
+2025-02-16,Jamaica,Qatar,1,1,Qualifier,0
+2025-02-17,England,New Zealand,3,0,Friendly,0
+2025-02-18,Spain,Australia,4,1,Qualifier,0
+2025-02-19,Ghana,Costa Rica,1,2,Friendly,0
+2025-02-19,Canada,Australia,2,1,Friendly,0
+2025-02-20,Ivory Coast,Poland,1,0,Friendly,0
+2025-02-21,Mexico,Ivory Coast,3,0,Friendly,0
+2025-02-22,Iraq,France,1,2,Qualifier,0
+2025-02-22,Bolivia,Croatia,3,3,Qualifier,0
+2025-02-23,United States,Poland,1,0,Qualifier,0
+2025-02-24,England,Canada,4,2,Qualifier,1
+2025-02-24,Switzerland,Ecuador,0,0,Qualifier,0
+2025-02-25,New Zealand,South Korea,1,7,Friendly,0
+2025-02-26,Spain,Egypt,2,0,Friendly,1
+2025-02-27,Belgium,Ecuador,2,2,Friendly,0
+2025-02-27,Algeria,Denmark,1,0,Friendly,0
+2025-02-28,England,Germany,1,0,Friendly,0
+2025-03-01,Iran,Colombia,0,0,Friendly,0
+2025-03-02,Ivory Coast,Germany,1,3,Friendly,0
+2025-03-02,Uzbekistan,Saudi Arabia,3,0,Qualifier,0
+2025-03-03,Ukraine,Tunisia,2,1,Friendly,0
+2025-03-04,Croatia,United States,2,0,Friendly,0
+2025-03-04,Iraq,Cameroon,0,1,Qualifier,0
+2025-03-05,Saudi Arabia,Japan,0,0,Qualifier,0
+2025-03-06,Panama,Ukraine,2,0,Qualifier,0
+2025-03-07,France,Ukraine,3,0,Qualifier,0
+2025-03-07,Ecuador,Ukraine,4,1,Qualifier,0
+2025-03-08,Brazil,Serbia,2,0,Friendly,0
+2025-03-09,Argentina,Mexico,8,1,Qualifier,1
+2025-03-10,Ivory Coast,DR Congo,1,1,Qualifier,0
+2025-03-10,Argentina,Senegal,5,0,Friendly,0
+2025-03-11,Costa Rica,Uzbekistan,3,1,Qualifier,0
+2025-03-12,Croatia,Senegal,3,2,Qualifier,0
+2025-03-13,Qatar,Croatia,2,4,Friendly,0
+2025-03-13,Austria,Poland,0,0,Friendly,0
+2025-03-14,Croatia,Canada,2,1,Qualifier,0
+2025-03-15,South Korea,Ukraine,2,2,Friendly,1
+2025-03-15,Qatar,Morocco,1,2,Qualifier,0
+2025-03-16,Cameroon,Spain,2,2,Qualifier,0
+2025-03-17,Qatar,Tunisia,1,1,Qualifier,1
+2025-03-18,Algeria,Ecuador,1,1,Qualifier,1
+2025-03-18,Senegal,Nigeria,4,1,Qualifier,1
+2025-03-19,Algeria,Uruguay,2,2,Qualifier,0
+2025-03-20,Senegal,Nigeria,3,0,Qualifier,0
+2025-03-21,Ghana,New Zealand,1,0,Qualifier,0
+2025-03-21,England,Qatar,3,0,Qualifier,0
+2025-03-22,Iraq,Morocco,1,4,Qualifier,1
+2025-03-23,Uruguay,Turkey,2,0,Qualifier,0
+2025-03-23,Saudi Arabia,Uruguay,1,0,Friendly,0
+2025-03-24,Belgium,Switzerland,3,1,Friendly,1
+2025-03-25,Iraq,Portugal,0,3,Friendly,0
+2025-03-26,Austria,United States,0,2,Qualifier,0
+2025-03-26,Jamaica,Portugal,0,3,Qualifier,0
+2025-03-27,Uruguay,Saudi Arabia,2,0,Qualifier,0
+2025-03-28,United States,Qatar,0,0,Friendly,1
+2025-03-29,Austria,Italy,0,1,Qualifier,1
+2025-03-29,Ghana,Paraguay,0,1,Qualifier,0
+2025-03-30,Italy,Uzbekistan,5,0,Qualifier,0
+2025-03-31,Italy,Ecuador,2,0,Qualifier,1
+2025-03-31,Uruguay,Tunisia,4,0,Qualifier,0
+2025-04-01,Turkey,Netherlands,2,4,Qualifier,1
+2025-04-02,Australia,Turkey,6,1,Qualifier,0
+2025-04-03,Costa Rica,Saudi Arabia,4,2,Qualifier,0
+2025-04-03,Turkey,United States,4,1,Qualifier,1
+2025-04-04,Iran,New Zealand,2,1,Qualifier,0
+2025-04-05,Portugal,Morocco,2,1,Qualifier,1
+2025-04-06,New Zealand,Iran,0,3,Qualifier,0
+2025-04-06,Mexico,Italy,2,1,Qualifier,0
+2025-04-07,Tunisia,Netherlands,0,1,Qualifier,0
+2025-04-08,Nigeria,Saudi Arabia,3,1,Qualifier,0
+2025-04-09,New Zealand,Saudi Arabia,3,1,Qualifier,1
+2025-04-09,Turkey,Serbia,2,0,Qualifier,0
+2025-04-10,New Zealand,Spain,0,6,Friendly,1
+2025-04-11,Saudi Arabia,Ukraine,1,2,Qualifier,0
+2025-04-11,Spain,Colombia,4,2,Friendly,0
+2025-04-12,Portugal,Costa Rica,7,0,Qualifier,1
+2025-04-13,Bolivia,Cameroon,1,0,Qualifier,1
+2025-04-14,Morocco,Germany,5,0,Friendly,0
+2025-04-14,Turkey,New Zealand,2,0,Qualifier,0
+2025-04-15,Japan,Canada,1,0,Friendly,0
+2025-04-16,Nigeria,DR Congo,3,0,Friendly,0
+2025-04-17,Uruguay,Colombia,2,1,Qualifier,0
+2025-04-17,United States,Spain,1,1,Friendly,1
+2025-04-18,Bolivia,Mexico,1,5,Qualifier,0
+2025-04-19,Panama,Croatia,1,4,Qualifier,0
+2025-04-19,Switzerland,Uzbekistan,4,0,Qualifier,1
+2025-04-20,Spain,Brazil,0,2,Qualifier,0
+2025-04-21,France,Cameroon,1,0,Friendly,0
+2025-04-22,Croatia,Canada,0,2,Friendly,0
+2025-04-22,South Korea,France,0,2,Qualifier,0
+2025-04-23,Qatar,Cameroon,1,2,Qualifier,1
+2025-04-24,Australia,Austria,2,3,Friendly,0
+2025-04-25,Ukraine,Turkey,3,2,Friendly,0
+2025-04-25,Panama,Uruguay,1,3,Qualifier,0
+2025-04-26,Argentina,Mexico,5,0,Friendly,0
+2025-04-27,Ecuador,Senegal,0,0,Friendly,0
+2025-04-27,Germany,Tunisia,5,0,Qualifier,1
+2025-04-28,New Zealand,Costa Rica,1,1,Qualifier,1
+2025-04-29,France,Ivory Coast,1,0,Qualifier,0
+2025-04-30,Nigeria,Poland,2,0,Friendly,1
+2025-04-30,Spain,France,3,1,Friendly,1
+2025-05-01,Japan,France,1,1,Qualifier,1
+2025-05-02,Austria,France,2,0,Qualifier,0
+2025-05-03,South Korea,Saudi Arabia,4,1,Qualifier,0
+2025-05-03,Algeria,Germany,1,0,Friendly,0
+2025-05-04,Cameroon,Brazil,0,4,Qualifier,0
+2025-05-05,Australia,Nigeria,2,1,Qualifier,1
+2025-05-06,Saudi Arabia,Austria,1,0,Friendly,1
+2025-05-06,Senegal,Tunisia,6,3,Qualifier,0
+2025-05-07,Croatia,Ukraine,2,0,Qualifier,0
+2025-05-08,Austria,Uruguay,2,1,Friendly,0
+2025-05-08,Paraguay,Mexico,0,0,Friendly,0
+2025-05-09,Iraq,Algeria,1,2,Friendly,0
+2025-05-10,Australia,Senegal,0,2,Qualifier,0
+2025-05-11,Argentina,DR Congo,6,0,Qualifier,0
+2025-05-11,Iraq,Belgium,0,4,Qualifier,0
+2025-05-12,Serbia,Austria,3,0,Qualifier,0
+2025-05-13,Uruguay,United States,3,0,Qualifier,0
+2025-05-14,Croatia,Iraq,2,1,Qualifier,0
+2025-05-14,Serbia,South Korea,0,0,Friendly,0
+2025-05-15,Senegal,Argentina,1,2,Friendly,0
+2025-05-16,Denmark,Ghana,6,0,Qualifier,0
+2025-05-16,Colombia,Uruguay,2,0,Qualifier,0
+2025-05-17,Egypt,Ivory Coast,1,0,Friendly,0
+2025-05-18,Costa Rica,Netherlands,1,3,Qualifier,0
+2025-05-19,Senegal,Ecuador,1,0,Qualifier,1
+2025-05-19,Ukraine,New Zealand,3,0,Friendly,0
+2025-05-20,Uzbekistan,Panama,1,3,Qualifier,1
+2025-05-21,Senegal,South Korea,1,0,Qualifier,0
+2025-05-22,Ivory Coast,New Zealand,4,1,Qualifier,1
+2025-05-22,Ecuador,Turkey,2,1,Qualifier,1
+2025-05-23,United States,Uruguay,1,1,Friendly,1
+2025-05-24,Netherlands,Spain,0,2,Friendly,0
+2025-05-25,Bolivia,Ivory Coast,2,2,Friendly,0
+2025-05-25,Uruguay,Iran,2,1,Qualifier,0
+2025-05-26,Uruguay,Saudi Arabia,2,0,Qualifier,0
+2025-05-27,Costa Rica,Canada,2,4,Qualifier,0
+2025-05-27,Egypt,Netherlands,1,1,Qualifier,0
+2025-05-28,France,Mexico,5,1,Friendly,0
+2025-05-29,Ivory Coast,Algeria,2,3,Friendly,0
+2025-05-30,Australia,Brazil,4,2,Qualifier,0
+2025-05-30,Algeria,South Korea,3,1,Qualifier,0
+2025-05-31,England,Mexico,2,0,Friendly,0
+2025-06-01,Paraguay,Nigeria,2,2,Qualifier,0
+2025-06-02,Switzerland,Paraguay,3,0,Qualifier,0
+2025-06-02,Portugal,Italy,2,0,Qualifier,0
+2025-06-03,Ukraine,Croatia,1,0,Friendly,0
+2025-06-04,South Korea,Belgium,1,5,Qualifier,1
+2025-06-04,Serbia,Colombia,2,2,Friendly,1
+2025-06-05,Iraq,Canada,0,2,Qualifier,0
+2025-06-06,Morocco,Canada,2,0,Friendly,0
+2025-06-07,Ukraine,Poland,2,0,Qualifier,1
+2025-06-07,Senegal,Germany,1,3,Qualifier,0
+2025-06-08,France,England,1,1,Friendly,0
+2025-06-09,South Korea,Ivory Coast,3,0,Friendly,1
+2025-06-10,Panama,Poland,1,0,Friendly,0
+2025-06-10,Germany,Jamaica,3,1,Friendly,1
+2025-06-11,Bolivia,Italy,1,3,Qualifier,0
+2025-06-12,Spain,Argentina,1,2,Qualifier,0
+2025-06-12,Portugal,Japan,0,1,Friendly,0
+2025-06-13,Ivory Coast,Jamaica,0,0,Qualifier,1
+2025-06-14,Brazil,Netherlands,1,3,Friendly,1
+2025-06-15,Denmark,Uruguay,1,0,Qualifier,0
+2025-06-15,Bolivia,Panama,0,0,Friendly,0
+2025-06-16,Iraq,Austria,4,2,Qualifier,0
+2025-06-17,Croatia,Canada,1,0,Qualifier,0
+2025-06-18,Spain,Cameroon,4,0,Friendly,0
+2025-06-18,Japan,Ivory Coast,1,1,Qualifier,0
+2025-06-19,Germany,Denmark,3,1,Qualifier,1
+2025-06-20,Denmark,Australia,1,1,Qualifier,0
+2025-06-21,Ghana,Panama,2,1,Qualifier,0
+2025-06-21,Ukraine,Iran,2,1,Friendly,0
+2025-06-22,Qatar,Uruguay,1,4,Friendly,0
+2025-06-23,Saudi Arabia,Iran,1,1,Friendly,1
+2025-06-23,Morocco,Bolivia,3,1,Qualifier,0
+2025-06-24,Qatar,DR Congo,3,0,Qualifier,1
+2025-06-25,Paraguay,Belgium,0,1,Qualifier,0
+2025-06-26,Algeria,France,2,2,Qualifier,1
+2025-06-26,Croatia,Turkey,3,3,Friendly,1
+2025-06-27,Brazil,Germany,2,1,Qualifier,0
+2025-06-28,Poland,Iran,0,3,Qualifier,0
+2025-06-29,Germany,Argentina,1,0,Qualifier,0
+2025-06-29,Uzbekistan,Canada,0,2,Qualifier,1
+2025-06-30,Australia,Qatar,0,0,Qualifier,0
+2025-07-01,New Zealand,DR Congo,0,0,Friendly,0
+2025-07-01,Iraq,Ecuador,1,1,Friendly,0
+2025-07-02,Netherlands,Austria,3,0,Friendly,1
+2025-07-03,Brazil,Denmark,6,2,Qualifier,0
+2025-07-04,Iraq,Netherlands,0,2,Friendly,1
+2025-07-04,New Zealand,Colombia,1,3,Qualifier,1
+2025-07-05,Uzbekistan,Bolivia,2,0,Qualifier,0
+2025-07-06,Nigeria,Paraguay,1,1,Qualifier,0
+2025-07-07,DR Congo,Iran,2,0,Qualifier,0
+2025-07-07,Nigeria,Ukraine,0,1,Qualifier,0
+2025-07-08,Uzbekistan,Bolivia,4,1,Friendly,0
+2025-07-09,Ecuador,Bolivia,3,0,Friendly,1
+2025-07-09,United States,Brazil,0,1,Friendly,0
+2025-07-10,New Zealand,Colombia,0,4,Qualifier,1
+2025-07-11,Algeria,Canada,2,0,Qualifier,0
+2025-07-12,New Zealand,Portugal,0,5,Friendly,0
+2025-07-12,Paraguay,Algeria,1,0,Qualifier,0
+2025-07-13,Cameroon,Denmark,2,1,Qualifier,0
+2025-07-14,Costa Rica,Ivory Coast,1,2,Qualifier,0
+2025-07-15,Argentina,Colombia,1,1,Qualifier,0
+2025-07-15,Switzerland,Iraq,5,0,Qualifier,0
+2025-07-16,Serbia,Denmark,1,0,Qualifier,0
+2025-07-17,Uzbekistan,England,0,2,Qualifier,0
+2025-07-18,Uzbekistan,Ivory Coast,1,0,Friendly,0
+2025-07-18,DR Congo,Germany,0,2,Friendly,0
+2025-07-19,Denmark,Ukraine,2,1,Qualifier,1
+2025-07-20,United States,Germany,1,4,Qualifier,0
+2025-07-20,Ivory Coast,Ghana,3,0,Qualifier,0
+2025-07-21,Belgium,Spain,0,2,Qualifier,0
+2025-07-22,Austria,Iraq,2,0,Friendly,0
+2025-07-23,Iraq,Poland,0,3,Friendly,0
+2025-07-23,Paraguay,Senegal,0,1,Friendly,0
+2025-07-24,Ukraine,Portugal,3,0,Friendly,0
+2025-07-25,New Zealand,Panama,3,1,Friendly,1
+2025-07-26,Japan,South Korea,2,2,Qualifier,0
+2025-07-26,Portugal,DR Congo,4,2,Qualifier,1
+2025-07-27,Panama,Germany,1,2,Qualifier,0
+2025-07-28,Serbia,Colombia,2,2,Qualifier,0
+2025-07-28,Tunisia,Costa Rica,1,2,Friendly,0
+2025-07-29,Colombia,Argentina,1,3,Friendly,0
+2025-07-30,Uruguay,New Zealand,4,0,Qualifier,0
+2025-07-31,United States,Jamaica,2,1,Friendly,0
+2025-07-31,Spain,Cameroon,4,1,Qualifier,0
+2025-08-01,Qatar,Nigeria,2,1,Friendly,0
+2025-08-02,Switzerland,Netherlands,0,0,Friendly,1
+2025-08-03,Qatar,England,1,3,Qualifier,0
+2025-08-03,Bolivia,South Korea,1,2,Friendly,1
+2025-08-04,Ivory Coast,England,0,2,Friendly,0
+2025-08-05,Morocco,Mexico,5,0,Qualifier,1
+2025-08-06,England,Turkey,8,1,Qualifier,0
+2025-08-06,Netherlands,England,1,0,Qualifier,1
+2025-08-07,Costa Rica,Saudi Arabia,0,1,Friendly,1
+2025-08-08,Portugal,Poland,2,0,Friendly,1
+2025-08-08,DR Congo,Germany,2,4,Qualifier,0
+2025-08-09,Paraguay,Cameroon,1,2,Friendly,0
+2025-08-10,Costa Rica,Croatia,1,1,Friendly,1
+2025-08-11,Germany,Mexico,5,1,Qualifier,1
+2025-08-11,Denmark,Spain,0,1,Qualifier,0
+2025-08-12,New Zealand,Qatar,4,1,Qualifier,1
+2025-08-13,Uruguay,Austria,4,1,Qualifier,1
+2025-08-14,Costa Rica,Ghana,0,0,Friendly,0
+2025-08-14,New Zealand,Uzbekistan,1,0,Friendly,1
+2025-08-15,Serbia,Paraguay,0,1,Qualifier,0
+2025-08-16,Jamaica,Poland,1,3,Qualifier,1
+2025-08-16,Portugal,Ecuador,1,0,Qualifier,0
+2025-08-17,Denmark,Saudi Arabia,5,1,Qualifier,0
+2025-08-18,New Zealand,Iraq,3,1,Qualifier,1
+2025-08-19,Italy,Uruguay,1,2,Qualifier,0
+2025-08-19,Netherlands,Turkey,1,1,Qualifier,0
+2025-08-20,Ivory Coast,Tunisia,1,0,Friendly,1
+2025-08-21,Croatia,Uzbekistan,1,1,Qualifier,0
+2025-08-22,Canada,Jamaica,5,0,Qualifier,0
+2025-08-22,Bolivia,Nigeria,0,0,Qualifier,0
+2025-08-23,Japan,Serbia,3,0,Friendly,0
+2025-08-24,Italy,Iraq,7,0,Qualifier,1
+2025-08-24,Ghana,Algeria,2,0,Qualifier,0
+2025-08-25,Italy,Colombia,7,0,Qualifier,0
+2025-08-26,Denmark,Croatia,1,6,Friendly,1
+2025-08-27,Netherlands,Iraq,2,0,Qualifier,1
+2025-08-27,Mexico,Serbia,0,3,Qualifier,0
+2025-08-28,Croatia,Denmark,1,2,Qualifier,0
+2025-08-29,New Zealand,Qatar,0,1,Friendly,0
+2025-08-30,Spain,Mexico,2,0,Friendly,0
+2025-08-30,Poland,Austria,0,2,Qualifier,0
+2025-08-31,Ecuador,Qatar,4,0,Friendly,0
+2025-09-01,Germany,Cameroon,3,1,Friendly,1
+2025-09-02,Japan,United States,5,1,Qualifier,0
+2025-09-02,Poland,Austria,2,1,Qualifier,0
+2025-09-03,Cameroon,Ukraine,1,0,Friendly,0
+2025-09-04,Uruguay,Canada,3,0,Friendly,0
+2025-09-04,Bolivia,Serbia,3,2,Qualifier,1
+2025-09-05,United States,Uruguay,1,1,Qualifier,0
+2025-09-06,Cameroon,Iran,0,1,Qualifier,0
+2025-09-07,Argentina,Netherlands,3,0,Qualifier,0
+2025-09-07,Senegal,Egypt,2,1,Qualifier,0
+2025-09-08,Panama,Cameroon,0,1,Friendly,1
+2025-09-09,Paraguay,Australia,0,0,Qualifier,1
+2025-09-10,Australia,Belgium,2,1,Qualifier,1
+2025-09-10,Switzerland,Iran,2,1,Qualifier,0
+2025-09-11,South Korea,Senegal,2,1,Qualifier,0
+2025-09-12,DR Congo,Uzbekistan,1,0,Qualifier,0
+2025-09-12,Italy,Poland,2,0,Qualifier,0
+2025-09-13,Ivory Coast,Mexico,2,2,Friendly,0
+2025-09-14,England,Austria,4,0,Qualifier,0
+2025-09-15,Austria,Brazil,2,2,Qualifier,0
+2025-09-15,Ecuador,Algeria,4,1,Qualifier,0
+2025-09-16,Turkey,Costa Rica,3,0,Friendly,0
+2025-09-17,Tunisia,Colombia,2,1,Qualifier,0
+2025-09-18,Nigeria,Mexico,1,0,Friendly,0
+2025-09-18,Austria,United States,6,2,Qualifier,0
+2025-09-19,Ghana,Brazil,0,5,Friendly,0
+2025-09-20,Australia,Paraguay,2,1,Qualifier,0
+2025-09-20,Mexico,Poland,2,0,Friendly,0
+2025-09-21,Jamaica,Denmark,1,2,Qualifier,0
+2025-09-22,South Korea,Turkey,3,2,Qualifier,0
+2025-09-23,Senegal,Cameroon,3,1,Friendly,1
+2025-09-23,Panama,Algeria,1,1,Friendly,0
+2025-09-24,Cameroon,Tunisia,0,2,Qualifier,0
+2025-09-25,Iran,Australia,2,0,Qualifier,0
+2025-09-26,United States,Ivory Coast,0,0,Friendly,0
+2025-09-26,Uzbekistan,Ghana,3,1,Qualifier,1
+2025-09-27,Serbia,Colombia,0,1,Qualifier,1
+2025-09-28,Bolivia,Ecuador,1,1,Qualifier,1
+2025-09-29,Nigeria,Uruguay,2,4,Qualifier,0
+2025-09-29,Turkey,Austria,2,1,Qualifier,0
+2025-09-30,Argentina,Panama,7,0,Qualifier,0
+2025-10-01,Iran,Panama,3,1,Qualifier,0
+2025-10-01,Austria,Germany,1,4,Qualifier,0
+2025-10-02,Colombia,Serbia,1,1,Qualifier,0
+2025-10-03,Senegal,Croatia,2,0,Qualifier,0
+2025-10-04,Paraguay,Netherlands,2,0,Qualifier,0
+2025-10-04,Paraguay,Ghana,0,0,Friendly,1
+2025-10-05,Switzerland,Ivory Coast,2,0,Qualifier,0
+2025-10-06,Japan,Serbia,0,0,Qualifier,0
+2025-10-07,Spain,Bolivia,3,1,Friendly,0
+2025-10-07,Ecuador,Portugal,0,1,Friendly,0
+2025-10-08,Uzbekistan,DR Congo,1,1,Qualifier,0
+2025-10-09,Nigeria,Bolivia,2,0,Qualifier,0
+2025-10-09,Poland,Ecuador,4,1,Qualifier,1
+2025-10-10,Turkey,Morocco,0,1,Friendly,0
+2025-10-11,Ukraine,Australia,1,1,Qualifier,0
+2025-10-12,England,Egypt,2,1,Qualifier,0
+2025-10-12,Netherlands,Germany,1,1,Qualifier,0
+2025-10-13,Cameroon,England,0,1,Friendly,1
+2025-10-14,Egypt,Austria,6,1,Qualifier,0
+2025-10-15,Ukraine,Iraq,3,1,Qualifier,0
+2025-10-15,Ecuador,Japan,1,2,Friendly,0
+2025-10-16,Uruguay,Switzerland,2,0,Qualifier,1
+2025-10-17,Turkey,Croatia,2,0,Qualifier,0
+2025-10-18,Senegal,England,1,1,Friendly,0
+2025-10-18,Mexico,Italy,2,1,Qualifier,0
+2025-10-19,Nigeria,South Korea,0,1,Qualifier,0
+2025-10-20,Egypt,Algeria,3,1,Friendly,1
+2025-10-20,Poland,Algeria,1,1,Friendly,0
+2025-10-21,Canada,Colombia,0,0,Qualifier,0
+2025-10-22,Colombia,Cameroon,1,0,Qualifier,0
+2025-10-23,Poland,Japan,1,0,Qualifier,0
+2025-10-23,Iran,Bolivia,1,0,Friendly,1
+2025-10-24,Austria,Egypt,2,0,Qualifier,1
+2025-10-25,Ukraine,Ghana,1,0,Qualifier,0
+2025-10-26,Costa Rica,Paraguay,2,1,Friendly,0
+2025-10-26,Belgium,Iraq,3,0,Qualifier,0
+2025-10-27,France,Croatia,2,1,Qualifier,0
+2025-10-28,Iraq,Canada,2,3,Friendly,0
+2025-10-28,Belgium,Denmark,1,1,Qualifier,0
+2025-10-29,Poland,Algeria,1,1,Qualifier,0
+2025-10-30,Cameroon,Australia,0,2,Friendly,0
+2025-10-31,Paraguay,Germany,1,2,Qualifier,0
+2025-10-31,Spain,Qatar,2,0,Qualifier,0
+2025-11-01,France,New Zealand,1,0,Qualifier,0
+2025-11-02,Ivory Coast,Ecuador,2,1,Friendly,0
+2025-11-03,Ecuador,Morocco,2,2,Friendly,0
+2025-11-03,Switzerland,Denmark,0,0,Qualifier,0
+2025-11-04,Bolivia,Uzbekistan,3,0,Qualifier,0
+2025-11-05,Croatia,Ivory Coast,4,0,Qualifier,0
+2025-11-05,Argentina,Mexico,3,0,Friendly,0
+2025-11-06,Uruguay,DR Congo,7,2,Qualifier,0
+2025-11-07,Spain,New Zealand,6,0,Qualifier,1
+2025-11-08,Spain,Uruguay,5,0,Qualifier,1
+2025-11-08,New Zealand,Spain,0,3,Qualifier,0
+2025-11-09,Serbia,Mexico,1,1,Qualifier,1
+2025-11-10,Uruguay,United States,2,1,Friendly,0
+2025-11-11,England,Iran,3,0,Friendly,0
+2025-11-11,France,South Korea,1,0,Qualifier,0
+2025-11-12,Japan,New Zealand,0,2,Qualifier,0
+2025-11-13,Turkey,Canada,2,2,Friendly,0
+2025-11-14,Turkey,Brazil,0,2,Qualifier,1
+2025-11-14,DR Congo,Canada,0,0,Friendly,0
+2025-11-15,Canada,Jamaica,3,2,Qualifier,0
+2025-11-16,Spain,Nigeria,3,0,Qualifier,1
+2025-11-16,Argentina,Ghana,3,0,Friendly,0
+2025-11-17,Uzbekistan,Australia,0,0,Friendly,0
+2025-11-18,Switzerland,Nigeria,3,1,Qualifier,1
+2025-11-19,Poland,Australia,1,1,Qualifier,0
+2025-11-19,Austria,New Zealand,2,0,Friendly,0
+2025-11-20,Switzerland,Ecuador,2,0,Friendly,0
+2025-11-21,Netherlands,Austria,2,1,Qualifier,0
+2025-11-22,Nigeria,Austria,3,0,Friendly,0
+2025-11-22,Poland,Bolivia,4,0,Friendly,0
+2025-11-23,Netherlands,Jamaica,4,0,Friendly,0
+2025-11-24,Iraq,Uzbekistan,0,2,Qualifier,0
+2025-11-24,Jamaica,Poland,0,1,Qualifier,1
+2025-11-25,Denmark,Austria,4,2,Qualifier,0
+2025-11-26,Iraq,Tunisia,0,3,Friendly,1
+2025-11-27,Tunisia,Algeria,4,2,Qualifier,0
+2025-11-27,Italy,Belgium,1,0,Friendly,0
+2025-11-28,Jamaica,Brazil,0,2,Qualifier,1
+2025-11-29,New Zealand,Uruguay,2,5,Qualifier,0
+2025-11-30,Canada,Jamaica,2,1,Qualifier,0
+2025-11-30,Uruguay,Egypt,1,1,Friendly,0
+2025-12-01,Ivory Coast,Australia,0,0,Friendly,0
+2025-12-02,Australia,Tunisia,0,1,Qualifier,0
+2025-12-02,Ecuador,Italy,1,1,Friendly,0
+2025-12-03,Germany,Canada,1,1,Qualifier,0
+2025-12-04,Ghana,Costa Rica,2,0,Qualifier,1
+2025-12-05,Jamaica,Croatia,1,5,Qualifier,1
+2025-12-05,Denmark,England,1,1,Qualifier,0
+2025-12-06,Germany,United States,4,1,Friendly,0
+2025-12-07,Saudi Arabia,Turkey,3,2,Friendly,0
+2025-12-08,Saudi Arabia,Germany,0,6,Friendly,0
+2025-12-08,Switzerland,Tunisia,1,1,Friendly,0
+2025-12-09,France,South Korea,4,1,Qualifier,0
+2025-12-10,Saudi Arabia,Jamaica,3,1,Qualifier,0
+2025-12-11,Morocco,Egypt,3,0,Friendly,0
+2025-12-11,United States,Argentina,2,3,Qualifier,0
+2025-12-12,Tunisia,Iraq,3,0,Qualifier,0
+2025-12-13,Ivory Coast,Belgium,2,1,Friendly,0
+2025-12-13,Canada,New Zealand,3,2,Friendly,0
+2025-12-14,Japan,Uzbekistan,4,0,Qualifier,0
+2025-12-15,England,Panama,3,1,Qualifier,0
+2025-12-16,Portugal,Poland,3,3,Qualifier,0
+2025-12-16,Turkey,Iraq,2,0,Friendly,0
+2025-12-17,Netherlands,Cameroon,7,0,Qualifier,0
+2025-12-18,Qatar,Austria,0,1,Friendly,1
+2025-12-19,Saudi Arabia,Switzerland,2,2,Friendly,0
+2025-12-19,Italy,Nigeria,2,0,Qualifier,1
+2025-12-20,Turkey,Denmark,1,1,Qualifier,1
+2025-12-21,Japan,Uzbekistan,1,1,Friendly,1
+2025-12-21,Jamaica,Bolivia,1,0,Qualifier,0
+2025-12-22,Spain,Mexico,5,2,Qualifier,1
+2025-12-23,New Zealand,Belgium,0,4,Qualifier,1
+2025-12-24,Iraq,Ghana,0,1,Friendly,0
+2025-12-24,Italy,Spain,1,1,Qualifier,0
+2025-12-25,Switzerland,Australia,4,0,Qualifier,0
+2025-12-26,Colombia,Austria,1,1,Friendly,1
+2025-12-27,Tunisia,Algeria,1,1,Qualifier,0
+2025-12-27,Iraq,Paraguay,2,2,Qualifier,0
+2025-12-28,Spain,Croatia,1,0,Qualifier,0
+2025-12-29,Turkey,Switzerland,3,1,Friendly,0

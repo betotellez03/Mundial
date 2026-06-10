@@ -1,0 +1,49 @@
+team,confederation,seed_elo,is_host
+France,UEFA,2010,0
+Spain,UEFA,2040,0
+England,UEFA,1980,0
+Portugal,UEFA,1970,0
+Netherlands,UEFA,1950,0
+Belgium,UEFA,1930,0
+Italy,UEFA,1940,0
+Croatia,UEFA,1900,0
+Germany,UEFA,1960,0
+Switzerland,UEFA,1830,0
+Denmark,UEFA,1860,0
+Austria,UEFA,1840,0
+Ukraine,UEFA,1790,0
+Turkey,UEFA,1810,0
+Poland,UEFA,1800,0
+Serbia,UEFA,1820,0
+Argentina,CONMEBOL,2080,0
+Brazil,CONMEBOL,2020,0
+Uruguay,CONMEBOL,1920,0
+Colombia,CONMEBOL,1910,0
+Ecuador,CONMEBOL,1820,0
+Paraguay,CONMEBOL,1740,0
+Bolivia,CONMEBOL,1620,0
+United States,CONCACAF,1800,1
+Mexico,CONCACAF,1820,1
+Canada,CONCACAF,1790,1
+Costa Rica,CONCACAF,1690,0
+Panama,CONCACAF,1670,0
+Jamaica,CONCACAF,1650,0
+Morocco,CAF,1890,0
+Senegal,CAF,1870,0
+Egypt,CAF,1790,0
+Nigeria,CAF,1810,0
+Algeria,CAF,1800,0
+Cameroon,CAF,1750,0
+Ivory Coast,CAF,1760,0
+Tunisia,CAF,1730,0
+Ghana,CAF,1720,0
+DR Congo,CAF,1700,0
+Japan,AFC,1840,0
+Iran,AFC,1810,0
+South Korea,AFC,1820,0
+Australia,AFC,1760,0
+Saudi Arabia,AFC,1680,0
+Qatar,AFC,1670,0
+Iraq,AFC,1640,0
+Uzbekistan,AFC,1660,0
+New Zealand,OFC,1610,0
