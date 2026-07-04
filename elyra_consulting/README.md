@@ -40,7 +40,7 @@ No se usan imágenes ráster en este archivo (todo es CSS/SVG inline) para mante
 - `https://www.elyraconsulting.com/` (canonical, Open Graph, JSON-LD) — reemplazar por el dominio real.
 - `https://www.linkedin.com` en header/footer — reemplazar por la URL real de LinkedIn de la firma.
 - `contacto@elyraconsulting.com` — reemplazar por el correo real en los 4 lugares donde aparece (CTA final, footer, mailto del formulario, fallback del formulario).
-- El enlace "Reservar un espacio en el calendario" en la sección de contacto apunta a `#`; reemplazar por el link de Calendly/Cal.com una vez definido.
+- El enlace "Solicitar horarios disponibles" en la sección de contacto abre un mailto con asunto "Agendar consulta"; reemplazar por el link de Calendly/Cal.com una vez definido.
 
 **Conectar el formulario**
 Actualmente el formulario de contacto no tiene backend: al enviarse, arma un `mailto:` con los datos capturados y abre el cliente de correo del visitante (ver `<script>` al final del archivo, bloque `contactForm.addEventListener('submit', ...)`). Para un envío directo sin depender del cliente de correo del usuario, dos rutas simples:
@@ -52,3 +52,15 @@ Actualmente el formulario de contacto no tiene backend: al enviarse, arma un `ma
 - Valores de las barras/meters (hero snapshot, dashboard ejecutivo): atributo inline `style="--val:NN%"` o `style="width:NN%"`.
 - Colores de marca: variables CSS en `:root` al inicio del `<style>` (`--gold`, `--bronze`, `--elyra-black`, etc.) — cambiarlas ahí actualiza todo el sitio.
 - Tipografías: se cargan desde Google Fonts (`Cormorant Garamond` + `Inter`); si se requiere alojarlas localmente por rendimiento/privacidad, descargar los `.woff2` y sustituir el `<link>` por `@font-face`.
+
+## D. Inspección final (correcciones aplicadas)
+
+- **Padding lateral roto en hero y "Nosotros"**: `.hero-grid` y `.problem-grid` comparten elemento con `.wrap`, y su shorthand `padding: X 0` anulaba el padding lateral; en móvil el texto tocaba el borde. Corregido usando `padding-top/bottom` explícitos.
+- **Menú desbordado en tablet (720–980px)**: los enlaces del nav se salían del viewport; el menú hamburguesa ahora se activa desde 940px.
+- **Contraste WCAG**: los textos pequeños en bronce (#9E7F4F) sobre fondos claros daban 3.3–3.5:1 (mínimo 4.5). Se añadió el token `--bronze-deep` (#7A5F35, ratio 5.3–5.6) para etiquetas, eyebrows y labels sobre marfil/blanco. El bronce original se conserva en fondos oscuros y elementos grandes.
+- **Anclas tapadas por el header**: al navegar con el menú, el header pegajoso cubría los títulos; añadido `scroll-margin-top: 92px` a las secciones con id.
+- **Enlace muerto**: "Reservar un espacio en el calendario" apuntaba a `#`; ahora abre un mailto con asunto "Agendar consulta" (sustituir por Calendly cuando exista).
+- **Sin JavaScript**: el contenido con animación `.reveal` quedaba invisible; añadido fallback `<noscript>`.
+- **Tabla Antes/Con Elyra en móvil**: al apilarse perdía los encabezados de columna; cada celda muestra ahora su etiqueta "Antes" / "Con Elyra".
+- **Matriz**: ejes con flecha direccional ("Execution Discipline ↑", "Clarity →") para lectura inmediata.
+- **Menú móvil**: el botón alterna `aria-label` entre "Abrir menú" y "Cerrar menú".
