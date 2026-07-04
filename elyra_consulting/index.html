@@ -1,0 +1,1422 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ELYRA CONSULTING — Claridad estratégica para mejores decisiones de negocio</title>
+<meta name="description" content="ELYRA CONSULTING es una firma boutique de consultoría estratégica y financiera. Ayudamos a empresas en crecimiento a transformar complejidad en prioridades claras, decisiones informadas y dirección de crecimiento.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.elyraconsulting.com/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ELYRA CONSULTING">
+<meta property="og:title" content="ELYRA CONSULTING — Claridad estratégica para mejores decisiones de negocio">
+<meta property="og:description" content="Diagnóstico, estructura, priorización y herramientas ejecutivas de decisión para empresas en crecimiento.">
+<meta property="og:url" content="https://www.elyraconsulting.com/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="ELYRA CONSULTING">
+<meta name="twitter:description" content="Claridad estratégica para empresas listas para crecer con dirección.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cg fill='none' stroke='%23C6A36B' stroke-width='9' stroke-linecap='round'%3E%3Cpath d='M38 14C22 26,18 44,24 62'/%3E%3Cpath d='M40 34C56 26,74 30,84 40'/%3E%3Cpath d='M36 56C52 48,72 52,82 64'/%3E%3Cpath d='M46 78C60 72,74 74,82 82'/%3E%3C/g%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "ELYRA CONSULTING",
+  "description": "Firma boutique de consultoría estratégica y financiera para empresas en crecimiento.",
+  "url": "https://www.elyraconsulting.com/",
+  "email": "contacto@elyraconsulting.com",
+  "areaServed": "Global",
+  "sameAs": ["https://www.linkedin.com/company/elyra-consulting"]
+}
+</script>
+<style>
+/* ============================================================
+   ELYRA CONSULTING — Sistema de diseño
+   Paleta y tipografía tomadas del Brand Kit 2026.
+   ============================================================ */
+:root{
+  --elyra-black:#0A0A0A;
+  --charcoal:#181818;
+  --graphite:#2B2B2B;
+  --gold:#C6A36B;
+  --bronze:#9E7F4F;
+  --champagne:#D8C29A;
+  --ivory:#F4F0EA;
+  --offwhite:#FAF8F5;
+  --stone:#D6D1C8;
+  --warmgray:#B8B1A8;
+
+  --serif:'Cormorant Garamond', Georgia, serif;
+  --sans:'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif;
+
+  --max-w:1180px;
+  --pad-x:clamp(20px, 5vw, 64px);
+  --section-y:clamp(72px, 10vw, 140px);
+}
+
+*{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto;}
+  *,*::before,*::after{animation:none!important;transition:none!important;}
+}
+body{
+  font-family:var(--sans);
+  font-weight:400;
+  font-size:16px;
+  line-height:1.7;
+  color:var(--graphite);
+  background:var(--offwhite);
+  -webkit-font-smoothing:antialiased;
+}
+img,svg{display:block;max-width:100%;}
+a{color:inherit;text-decoration:none;}
+ul{list-style:none;}
+
+.wrap{max-width:var(--max-w);margin:0 auto;padding-left:var(--pad-x);padding-right:var(--pad-x);}
+
+.skip-link{
+  position:absolute;left:-9999px;top:auto;
+  background:var(--elyra-black);color:var(--ivory);padding:14px 22px;z-index:1000;
+  font-size:.8rem;letter-spacing:.08em;
+}
+.skip-link:focus{left:16px;top:16px;}
+
+/* ---------- Tipografía editorial ---------- */
+h1,h2,h3,h4,.serif{font-family:var(--serif);font-weight:500;color:var(--elyra-black);}
+h1{font-size:clamp(2.6rem, 5.4vw, 4.4rem);line-height:1.08;letter-spacing:-0.01em;}
+h2{font-size:clamp(2rem, 3.6vw, 3rem);line-height:1.15;}
+h3{font-size:1.45rem;line-height:1.3;}
+.gold-italic{font-style:italic;color:var(--bronze);}
+
+/* Eyebrow: etiqueta pequeña en mayúsculas con línea dorada */
+.eyebrow{
+  display:flex;align-items:center;gap:14px;
+  font-size:.72rem;font-weight:500;letter-spacing:.28em;text-transform:uppercase;
+  color:var(--bronze);margin-bottom:26px;
+}
+.eyebrow::before{content:"";width:44px;height:1px;background:var(--gold);}
+
+.lead{font-size:1.12rem;line-height:1.75;color:#4a4a4a;max-width:640px;}
+
+/* Secciones oscuras */
+.dark{background:var(--charcoal);color:var(--stone);}
+.dark h1,.dark h2,.dark h3,.dark h4{color:var(--ivory);}
+.dark .lead{color:var(--warmgray);}
+.dark .eyebrow{color:var(--gold);}
+
+/* ---------- Botones ---------- */
+.btn{
+  display:inline-block;
+  font-family:var(--sans);font-size:.78rem;font-weight:500;
+  letter-spacing:.22em;text-transform:uppercase;
+  padding:17px 34px;border:1px solid transparent;
+  transition:background .25s ease, color .25s ease, border-color .25s ease;
+  cursor:pointer;text-align:center;
+}
+.btn-primary{background:var(--elyra-black);color:var(--champagne);border-color:var(--elyra-black);}
+.btn-primary:hover{background:transparent;color:var(--elyra-black);border-color:var(--elyra-black);}
+.btn-outline{background:transparent;color:var(--elyra-black);border-color:var(--gold);}
+.btn-outline:hover{background:var(--gold);color:var(--elyra-black);}
+.dark .btn-primary{background:var(--gold);color:var(--elyra-black);border-color:var(--gold);}
+.dark .btn-primary:hover{background:transparent;color:var(--gold);}
+.dark .btn-outline{color:var(--ivory);border-color:rgba(198,163,107,.55);}
+.dark .btn-outline:hover{background:var(--gold);color:var(--elyra-black);border-color:var(--gold);}
+.btn:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px solid var(--gold);outline-offset:3px;}
+.text-link{font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--elyra-black);display:inline-flex;gap:10px;align-items:center;border-bottom:1px solid rgba(198,163,107,.5);padding-bottom:3px;}
+.text-link::after{content:"→";color:var(--gold);transition:transform .25s ease;}
+.text-link:hover::after{transform:translateX(5px);}
+.dark .text-link{color:var(--ivory);}
+
+/* ---------- Header ---------- */
+header{
+  position:sticky;top:0;z-index:100;
+  background:rgba(250,248,245,.94);
+  backdrop-filter:blur(8px);
+  border-bottom:1px solid transparent;
+  transition:border-color .3s ease;
+}
+header.scrolled{border-bottom-color:var(--stone);}
+.nav{
+  display:flex;align-items:center;justify-content:space-between;
+  height:78px;
+}
+.brand{display:flex;align-items:center;gap:13px;}
+.brand svg{width:34px;height:34px;flex-shrink:0;}
+.brand-name{display:flex;flex-direction:column;line-height:1;}
+.brand-name .wordmark{
+  font-family:var(--serif);font-weight:500;font-size:1.28rem;
+  letter-spacing:.3em;color:var(--elyra-black);
+}
+.brand-name .descriptor{
+  font-size:.52rem;letter-spacing:.42em;text-transform:uppercase;
+  color:var(--bronze);margin-top:5px;
+}
+.nav-links{display:flex;align-items:center;gap:clamp(18px,2.4vw,32px);}
+.nav-links a{
+  font-size:.74rem;font-weight:400;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--graphite);padding:6px 0;position:relative;white-space:nowrap;
+}
+.nav-links a::after{
+  content:"";position:absolute;left:0;bottom:0;width:0;height:1px;
+  background:var(--gold);transition:width .25s ease;
+}
+.nav-links a:hover::after{width:100%;}
+.nav-cta{font-size:.68rem;padding:12px 20px;}
+.menu-toggle{
+  display:none;background:none;border:none;cursor:pointer;padding:10px;
+}
+.menu-toggle span{display:block;width:24px;height:1.5px;background:var(--elyra-black);margin:6px 0;transition:.25s;}
+
+/* ---------- Watermark (monograma de sistema) ---------- */
+.watermark{position:absolute;width:560px;opacity:.05;pointer-events:none;}
+.watermark-right{top:50%;right:-140px;transform:translateY(-50%);}
+.watermark-left{top:50%;left:-140px;transform:translateY(-50%);}
+.watermark-center{left:50%;top:50%;width:640px;transform:translate(-50%,-50%);}
+
+/* ---------- Hero ---------- */
+.hero{background:var(--ivory);overflow:hidden;}
+.hero-grid{
+  display:grid;grid-template-columns:1.15fr .85fr;gap:clamp(40px,6vw,90px);
+  align-items:center;padding:clamp(70px,9vw,130px) 0;
+}
+.hero-tagline{
+  font-size:.72rem;letter-spacing:.3em;text-transform:uppercase;
+  color:var(--bronze);margin:34px 0 40px;
+}
+.hero-ctas{display:flex;gap:18px;flex-wrap:wrap;}
+
+/* Strategic Diagnosis Snapshot — panel editorial del hero */
+.snapshot{
+  background:var(--elyra-black);color:var(--stone);
+  max-width:440px;justify-self:end;width:100%;
+  position:relative;overflow:hidden;
+  padding:clamp(28px,3vw,38px) clamp(26px,3vw,34px);
+}
+.snapshot::before{
+  content:"";position:absolute;inset:14px;border:1px solid rgba(198,163,107,.35);
+  pointer-events:none;
+}
+.snapshot .watermark{width:320px;opacity:.06;right:-90px;top:-40px;transform:none;}
+.snapshot-head{
+  display:flex;align-items:center;justify-content:space-between;
+  position:relative;z-index:1;margin-bottom:30px;
+  border-bottom:1px solid rgba(198,163,107,.25);padding-bottom:20px;
+}
+.snapshot-head .sh-tag{font-size:.6rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);}
+.snapshot-head svg{width:26px;height:26px;}
+.snapshot-metrics{position:relative;z-index:1;display:grid;gap:20px;margin-bottom:26px;}
+.metric-row{display:grid;grid-template-columns:1fr auto;gap:4px 12px;align-items:baseline;}
+.metric-row .m-label{font-size:.8rem;color:var(--warmgray);letter-spacing:.02em;}
+.metric-row .m-status{font-size:.64rem;letter-spacing:.12em;text-transform:uppercase;color:var(--champagne);justify-self:end;}
+.meter{grid-column:1/-1;height:3px;background:rgba(255,255,255,.09);position:relative;overflow:hidden;}
+.meter span{position:absolute;inset:0 auto 0 0;width:var(--val,50%);background:linear-gradient(90deg,var(--bronze),var(--gold));}
+.snap-position{position:relative;z-index:1;border-top:1px solid rgba(198,163,107,.25);padding-top:22px;}
+.sp-label{font-size:.6rem;letter-spacing:.2em;text-transform:uppercase;color:var(--bronze);margin-bottom:12px;}
+.sp-body{display:flex;align-items:center;gap:16px;}
+.sp-grid{display:grid;grid-template-columns:repeat(2,15px);grid-template-rows:repeat(2,15px);gap:3px;flex-shrink:0;}
+.sp-grid span{background:rgba(255,255,255,.07);}
+.sp-grid span.active{background:var(--gold);}
+.sp-value{font-size:.86rem;color:var(--ivory);}
+.sp-value em{font-style:normal;color:var(--warmgray);display:block;font-size:.76rem;margin-top:2px;}
+.snapshot-foot{
+  position:relative;z-index:1;margin-top:26px;font-family:var(--serif);font-style:italic;
+  font-size:1.02rem;color:var(--champagne);letter-spacing:.02em;
+}
+
+/* ---------- Problem ---------- */
+.problem-grid{
+  display:grid;grid-template-columns:minmax(280px,.9fr) 1.1fr;
+  gap:clamp(40px,6vw,90px);padding:var(--section-y) 0;
+}
+.pain-list{display:grid;gap:0;}
+.pain-list li{
+  padding:22px 0;border-bottom:1px solid rgba(198,163,107,.22);
+  display:flex;gap:20px;align-items:baseline;
+  font-size:1.02rem;color:var(--stone);
+}
+.pain-list li:first-child{border-top:1px solid rgba(198,163,107,.22);}
+.pain-list li::before{
+  content:"—";color:var(--gold);flex-shrink:0;font-weight:300;
+}
+.problem-note{
+  margin-top:36px;font-family:var(--serif);font-style:italic;
+  font-size:1.25rem;color:var(--champagne);line-height:1.5;
+}
+
+/* ---------- Diagnostic matrix ---------- */
+.matrix-section{background:var(--offwhite);padding:var(--section-y) 0;}
+.matrix-head{max-width:680px;margin-bottom:clamp(44px,5vw,64px);}
+.matrix-layout{display:grid;grid-template-columns:1fr 1.15fr;gap:clamp(40px,6vw,80px);align-items:center;}
+.matrix-board{display:grid;grid-template-columns:34px 1fr;grid-template-rows:1fr 34px;max-width:560px;}
+.matrix-axis-y{
+  grid-row:1;grid-column:1;writing-mode:vertical-rl;transform:rotate(180deg);
+  display:flex;align-items:center;justify-content:center;
+  font-size:.66rem;letter-spacing:.2em;text-transform:uppercase;color:var(--bronze);
+}
+.matrix-quadrants{
+  grid-row:1;grid-column:2;
+  display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;
+  border:1px solid var(--stone);
+}
+.matrix-axis-x{
+  grid-row:2;grid-column:2;text-align:right;padding-top:12px;
+  font-size:.66rem;letter-spacing:.2em;text-transform:uppercase;color:var(--bronze);
+}
+.quad{padding:clamp(20px,2.6vw,30px) clamp(18px,2.4vw,26px);border:1px solid var(--stone);}
+.quad h4{font-size:1.16rem;margin-bottom:8px;}
+.quad p{font-size:.86rem;color:#5a5a5a;line-height:1.55;}
+.quad.highlight{background:var(--elyra-black);}
+.quad.highlight h4{color:var(--gold);}
+.quad.highlight p{color:var(--warmgray);}
+.matrix-note{margin-top:30px;}
+.matrix-note .text-link{margin-top:8px;}
+
+/* ---------- Value proposition ---------- */
+.value{background:var(--ivory);padding:var(--section-y) 0;}
+.value-head{max-width:720px;margin-bottom:clamp(48px,6vw,80px);}
+.value-grid{
+  display:grid;grid-template-columns:repeat(3,1fr);gap:1px;
+  background:var(--stone);border:1px solid var(--stone);
+}
+.value-item{background:var(--offwhite);padding:38px 32px;}
+.value-item h3{font-size:1.3rem;margin-bottom:12px;}
+.value-item p{font-size:.94rem;color:#555;}
+.value-item .vi-icon{margin-bottom:22px;}
+.vi-icon svg{width:30px;height:30px;stroke:var(--bronze);}
+
+/* ---------- Business Clarity Framework ---------- */
+.framework{background:var(--charcoal);padding:var(--section-y) 0;position:relative;overflow:hidden;}
+.framework-head{max-width:700px;margin-bottom:clamp(50px,6vw,84px);position:relative;z-index:1;}
+.chain{display:flex;justify-content:space-between;gap:22px;position:relative;z-index:1;margin-top:8px;}
+.chain::before{content:"";position:absolute;top:29px;left:6px;right:6px;height:1px;background:rgba(198,163,107,.32);z-index:0;}
+.chain-node{position:relative;z-index:1;flex:1;display:flex;flex-direction:column;align-items:flex-start;}
+.chain-num{
+  width:58px;height:58px;border-radius:50%;border:1px solid var(--gold);background:var(--charcoal);
+  display:flex;align-items:center;justify-content:center;
+  font-family:var(--serif);font-size:1.3rem;color:var(--gold);margin-bottom:24px;flex-shrink:0;
+}
+.chain-node h3{font-size:1.12rem;margin-bottom:10px;}
+.chain-node p{font-size:.85rem;color:var(--warmgray);}
+
+/* ---------- Before / After ---------- */
+.transform{background:var(--offwhite);padding:var(--section-y) 0;}
+.transform-head{max-width:680px;margin-bottom:clamp(44px,5vw,64px);}
+.transform-table{margin-top:8px;}
+.t-head-row,.t-row{display:grid;grid-template-columns:1fr 56px 1fr;align-items:center;}
+.t-head-row{border-bottom:1px solid rgba(158,127,79,.4);padding-bottom:14px;}
+.t-head-row span{font-size:.66rem;letter-spacing:.22em;text-transform:uppercase;color:var(--bronze);}
+.t-head-row span:last-child{text-align:right;}
+.t-row{border-bottom:1px solid var(--stone);}
+.t-before,.t-after{padding:22px 22px 22px 0;font-size:.96rem;}
+.t-after{padding-left:22px;padding-right:0;}
+.t-before{color:#6a6a6a;}
+.t-after{color:var(--elyra-black);font-weight:500;}
+.t-arrow{text-align:center;color:var(--gold);font-size:1.1rem;}
+.transform-cta{margin-top:36px;}
+
+/* ---------- Services ---------- */
+.services{background:var(--ivory);padding:var(--section-y) 0;}
+.services-head{display:flex;justify-content:space-between;align-items:flex-end;gap:40px;flex-wrap:wrap;margin-bottom:clamp(48px,6vw,72px);}
+.service{
+  display:grid;grid-template-columns:minmax(140px,180px) minmax(220px,1fr) minmax(240px,320px);
+  gap:clamp(24px,4vw,50px);
+  padding:44px 0;border-top:1px solid rgba(158,127,79,.3);
+}
+.service:last-of-type{border-bottom:1px solid rgba(158,127,79,.3);}
+.service-meta{display:flex;flex-direction:column;gap:16px;}
+.service-num{font-family:var(--serif);font-size:1.9rem;color:var(--gold);line-height:1;}
+.service-icon svg{width:26px;height:26px;stroke:var(--bronze);}
+.service-label{font-size:.68rem;letter-spacing:.24em;text-transform:uppercase;color:var(--bronze);}
+.service h3{margin-bottom:12px;}
+.service p{font-size:.97rem;color:#4f4f4f;}
+.service-problem{margin-top:16px;font-size:.88rem;color:var(--bronze);font-style:italic;line-height:1.55;}
+.service-problem .sp-tag{display:block;font-family:var(--sans);font-style:normal;font-weight:600;font-size:.66rem;letter-spacing:.14em;text-transform:uppercase;color:var(--graphite);margin-bottom:6px;}
+.service-deliver{border-left:1px solid rgba(158,127,79,.28);padding-left:clamp(20px,2.6vw,28px);}
+.sd-label{font-size:.64rem;letter-spacing:.2em;text-transform:uppercase;color:var(--bronze);margin-bottom:8px;}
+.sd-value{font-family:var(--serif);font-size:1.08rem;color:var(--elyra-black);margin-bottom:16px;}
+.service-scope{font-size:.85rem;color:#5c5c5c;line-height:1.9;}
+.service-scope li{display:flex;gap:10px;}
+.service-scope li::before{content:"·";color:var(--gold);}
+
+/* ---------- Methodology ---------- */
+.method{padding:var(--section-y) 0;position:relative;overflow:hidden;}
+.method-head{max-width:680px;margin-bottom:clamp(48px,6vw,80px);position:relative;z-index:1;}
+.steps{display:grid;gap:0;position:relative;z-index:1;}
+.step{
+  display:grid;grid-template-columns:110px minmax(200px,320px) 1fr;
+  gap:clamp(20px,4vw,60px);
+  padding:36px 0;border-top:1px solid rgba(198,163,107,.2);
+}
+.step:last-child{border-bottom:1px solid rgba(198,163,107,.2);}
+.step-num{
+  font-family:var(--serif);font-size:2.2rem;color:var(--gold);line-height:1;
+}
+.step h3{color:var(--ivory);font-size:1.35rem;}
+.step-body p{font-size:.95rem;color:var(--warmgray);max-width:560px;}
+.step-deliver{
+  margin-top:14px;display:inline-flex;align-items:center;gap:8px;
+  font-size:.74rem;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--gold);border:1px solid rgba(198,163,107,.35);padding:8px 14px;
+}
+.step-deliver::before{content:"";width:6px;height:6px;border:1px solid var(--gold);flex-shrink:0;}
+
+/* ---------- Executive dashboard preview ---------- */
+.dashboard{background:var(--charcoal);padding:var(--section-y) 0;color:var(--stone);}
+.dashboard-head{display:flex;justify-content:space-between;align-items:flex-end;gap:30px;flex-wrap:wrap;margin-bottom:clamp(44px,5vw,64px);}
+.dash-grid{
+  display:grid;grid-template-columns:repeat(3,1fr);gap:1px;
+  background:rgba(198,163,107,.18);border:1px solid rgba(198,163,107,.18);
+}
+.dash-tile{background:var(--charcoal);padding:32px 28px;}
+.dash-tile .d-label{font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--warmgray);margin-bottom:16px;}
+.dash-tile .d-status{font-family:var(--serif);font-style:italic;font-size:1.02rem;color:var(--champagne);margin-bottom:16px;}
+.d-meter{height:3px;background:rgba(255,255,255,.09);}
+.d-meter span{display:block;height:100%;background:var(--gold);}
+.dash-note{margin-top:28px;font-size:.8rem;color:var(--warmgray);font-style:italic;max-width:560px;}
+
+/* ---------- Why Elyra ---------- */
+.why{background:var(--offwhite);padding:var(--section-y) 0;}
+.why-grid{display:grid;grid-template-columns:.9fr 1.1fr;gap:clamp(40px,6vw,100px);align-items:start;}
+.why-sticky{position:sticky;top:120px;}
+.why-list{display:grid;gap:0;}
+.why-list li{
+  padding:26px 0;border-bottom:1px solid var(--stone);
+}
+.why-list li:first-child{border-top:1px solid var(--stone);}
+.why-list strong{
+  display:block;font-family:var(--serif);font-weight:500;font-size:1.25rem;
+  color:var(--elyra-black);margin-bottom:6px;
+}
+.why-list span{font-size:.94rem;color:#555;}
+
+/* ---------- Deliverables ---------- */
+.deliv{background:var(--ivory);padding:var(--section-y) 0;}
+.deliv-grid{
+  display:grid;grid-template-columns:repeat(4,1fr);gap:1px;
+  background:rgba(158,127,79,.28);border:1px solid rgba(158,127,79,.28);
+  margin-top:clamp(44px,5vw,64px);
+}
+.deliv-item{
+  background:var(--ivory);padding:30px 26px;min-height:220px;
+  display:flex;flex-direction:column;gap:16px;
+}
+.deliv-item p{font-size:.93rem;color:var(--graphite);font-weight:500;line-height:1.5;}
+.deliv-item span{font-size:.8rem;color:#6a6a6a;font-weight:400;display:block;margin-top:6px;}
+.di-mock{height:60px;border:1px solid rgba(158,127,79,.25);background:var(--offwhite);padding:9px 11px;display:flex;flex-direction:column;gap:6px;justify-content:center;}
+.di-mock.lines span{display:block;height:3px;background:var(--stone);margin:0;}
+.di-mock.lines span:nth-child(1){width:82%;}
+.di-mock.lines span:nth-child(2){width:58%;}
+.di-mock.lines span:nth-child(3){width:70%;}
+.di-mock.bars{flex-direction:row;align-items:flex-end;gap:6px;}
+.di-mock.bars i{display:block;width:7px;background:var(--gold);font-style:normal;}
+.di-mock.tablegrid{display:grid;grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(2,1fr);gap:3px;}
+.di-mock.tablegrid span{background:var(--stone);}
+.di-mock.tablegrid span.on{background:var(--gold);}
+.di-mock.cover{align-items:center;justify-content:center;background:var(--elyra-black);}
+.di-mock.cover span{width:22px;height:1px;background:var(--gold);}
+
+/* ---------- Institutional trust ---------- */
+.trust{background:var(--elyra-black);padding:var(--section-y) 0;position:relative;overflow:hidden;color:var(--stone);}
+.trust-head{max-width:640px;position:relative;z-index:1;}
+.trust-grid{
+  position:relative;z-index:1;
+  display:grid;grid-template-columns:repeat(4,1fr);gap:1px;
+  background:rgba(198,163,107,.18);border:1px solid rgba(198,163,107,.18);
+  margin-top:clamp(44px,5vw,64px);
+}
+.trust-item{background:var(--elyra-black);padding:32px 26px;}
+.trust-item .ti-mark{width:20px;height:1px;background:var(--gold);margin-bottom:20px;}
+.trust-item h4{font-size:1.14rem;margin-bottom:10px;font-weight:500;}
+.trust-item p{font-size:.85rem;color:var(--warmgray);}
+.trust-quote{
+  position:relative;z-index:1;margin-top:56px;max-width:640px;padding-left:26px;
+  border-left:2px solid var(--gold);font-family:var(--serif);font-style:italic;
+  font-size:1.28rem;color:var(--champagne);line-height:1.55;
+}
+
+/* ---------- Target clients ---------- */
+.clients{background:var(--offwhite);padding:var(--section-y) 0;}
+.clients-grid{display:grid;grid-template-columns:.9fr 1.1fr;gap:clamp(40px,6vw,90px);}
+.client-tags{display:flex;flex-wrap:wrap;gap:12px;align-content:flex-start;}
+.client-tags li{
+  border:1px solid var(--stone);padding:12px 22px;
+  font-size:.82rem;letter-spacing:.08em;color:var(--graphite);
+  transition:border-color .25s ease, color .25s ease;
+}
+.client-tags li:hover{border-color:var(--gold);color:var(--bronze);}
+.clients-note{
+  margin-top:34px;padding-left:24px;border-left:2px solid var(--gold);
+  font-family:var(--serif);font-style:italic;font-size:1.2rem;color:var(--graphite);
+}
+
+/* ---------- Strategic perspectives ---------- */
+.insights{background:var(--ivory);padding:var(--section-y) 0;}
+.insights-head{display:flex;justify-content:space-between;align-items:flex-end;gap:30px;flex-wrap:wrap;margin-bottom:clamp(44px,5vw,64px);}
+.insight-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(24px,3vw,40px);}
+.insight{
+  border-top:1px solid var(--gold);padding-top:26px;
+  display:flex;flex-direction:column;gap:14px;min-height:230px;
+}
+.insight .tag{font-size:.68rem;letter-spacing:.24em;text-transform:uppercase;color:var(--bronze);}
+.insight h3{font-size:1.3rem;}
+.insight p{font-size:.92rem;color:#5a5a5a;flex-grow:1;}
+
+/* ---------- Final CTA / Contact ---------- */
+.final{background:var(--elyra-black);padding:calc(var(--section-y) * 1.05) 0;position:relative;overflow:hidden;}
+.final-inner{position:relative;z-index:1;max-width:760px;margin:0 auto;text-align:center;}
+.final h2{color:var(--ivory);font-size:clamp(2.2rem,4.4vw,3.6rem);margin-bottom:24px;}
+.final p{color:var(--warmgray);max-width:560px;margin:0 auto 44px;}
+.final .eyebrow{justify-content:center;}
+.final .eyebrow::after{content:"";width:44px;height:1px;background:var(--gold);}
+.final-ctas{display:flex;gap:18px;justify-content:center;flex-wrap:wrap;}
+
+.contact-grid{
+  position:relative;z-index:1;max-width:var(--max-w);margin:clamp(60px,7vw,90px) auto 0;
+  display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(30px,5vw,70px);
+  text-align:left;
+}
+.contact-form{background:var(--offwhite);padding:clamp(30px,4vw,46px);border:1px solid rgba(198,163,107,.35);}
+.contact-form h3{margin-bottom:8px;}
+.contact-form .form-lead{font-size:.92rem;color:#555;margin-bottom:28px;}
+.form-row{display:grid;gap:8px;margin-bottom:22px;}
+.form-row label{font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;color:var(--bronze);}
+.form-row input,.form-row textarea{
+  border:none;border-bottom:1px solid var(--stone);background:transparent;
+  padding:10px 2px;font-family:var(--sans);font-size:.95rem;color:var(--graphite);
+  width:100%;
+}
+.form-row textarea{resize:vertical;min-height:90px;}
+.form-row input:focus,.form-row textarea:focus{outline:none;border-bottom-color:var(--gold);}
+.form-actions{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-top:8px;}
+.form-status{font-size:.8rem;color:var(--bronze);}
+.form-fallback{font-size:.78rem;color:#6a6a6a;margin-top:18px;}
+.form-fallback a{color:var(--bronze);border-bottom:1px solid rgba(158,127,79,.4);}
+
+.contact-steps h3{color:var(--ivory);margin-bottom:26px;}
+.step-mini{display:flex;gap:16px;padding:18px 0;border-top:1px solid rgba(198,163,107,.2);}
+.step-mini:last-of-type{border-bottom:1px solid rgba(198,163,107,.2);}
+.step-mini .sm-num{font-family:var(--serif);color:var(--gold);font-size:1.2rem;flex-shrink:0;}
+.step-mini p{font-size:.88rem;color:var(--warmgray);}
+.contact-trust{margin-top:26px;display:grid;gap:10px;}
+.contact-trust li{display:flex;gap:10px;font-size:.82rem;color:var(--warmgray);}
+.contact-trust li::before{content:"—";color:var(--gold);flex-shrink:0;}
+.contact-agenda{margin-top:26px;font-size:.82rem;color:var(--warmgray);}
+.contact-agenda a{color:var(--champagne);border-bottom:1px solid rgba(198,163,107,.4);}
+
+/* ---------- Footer ---------- */
+footer{background:#060606;color:var(--warmgray);padding:70px 0 36px;}
+.footer-grid{
+  display:grid;grid-template-columns:1.3fr 1fr 1fr;gap:clamp(36px,5vw,80px);
+  padding-bottom:52px;border-bottom:1px solid rgba(198,163,107,.18);
+}
+.footer-brand .wordmark{color:var(--ivory);}
+.footer-brand .tagline{
+  margin-top:20px;font-family:var(--serif);font-style:italic;
+  font-size:1.05rem;color:var(--champagne);
+}
+.footer-col h4{
+  font-size:.7rem;letter-spacing:.26em;text-transform:uppercase;
+  color:var(--gold);margin-bottom:22px;font-weight:500;
+}
+.footer-col li{margin-bottom:12px;}
+.footer-col a{font-size:.88rem;transition:color .2s;}
+.footer-col a:hover{color:var(--champagne);}
+.footer-bottom{
+  display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;
+  padding-top:32px;font-size:.75rem;letter-spacing:.06em;color:#6c665e;
+}
+.footer-bottom .motto{font-style:italic;font-family:var(--serif);font-size:.95rem;color:var(--warmgray);}
+
+/* ---------- Reveal on scroll ---------- */
+.reveal{opacity:0;transform:translateY(22px);transition:opacity .7s ease, transform .7s ease;}
+.reveal.visible{opacity:1;transform:none;}
+@media (prefers-reduced-motion: reduce){.reveal{opacity:1;transform:none;}}
+
+/* ============================================================
+   Responsive
+   ============================================================ */
+@media (max-width: 1080px){
+  .service{grid-template-columns:100px 1fr;}
+  .service-deliver{grid-column:1/-1;border-left:none;border-top:1px solid rgba(158,127,79,.28);padding-left:0;padding-top:22px;margin-top:6px;}
+}
+@media (max-width: 980px){
+  .hero-grid{grid-template-columns:1fr;}
+  .snapshot{justify-self:start;max-width:420px;}
+  .problem-grid,.why-grid,.clients-grid,.matrix-layout,.contact-grid{grid-template-columns:1fr;}
+  .why-sticky{position:static;}
+  .value-grid{grid-template-columns:repeat(2,1fr);}
+  .deliv-grid{grid-template-columns:repeat(2,1fr);}
+  .dash-grid{grid-template-columns:repeat(2,1fr);}
+  .trust-grid{grid-template-columns:repeat(2,1fr);}
+  .insight-grid{grid-template-columns:1fr;}
+  .service{grid-template-columns:1fr;gap:16px;padding:36px 0;}
+  .service-deliver{border-top:1px solid rgba(158,127,79,.28);border-left:none;padding-left:0;padding-top:22px;}
+  .step{grid-template-columns:70px 1fr;grid-template-areas:"num title" "num body";}
+  .step-num{grid-area:num;}
+  .step h3{grid-area:title;}
+  .step-body{grid-area:body;}
+  .footer-grid{grid-template-columns:1fr 1fr;}
+  .chain{flex-direction:column;gap:34px;}
+  .chain::before{top:0;bottom:0;left:28px;right:auto;width:1px;height:auto;}
+  .chain-node{flex-direction:row;align-items:flex-start;gap:22px;max-width:none;}
+  .chain-num{margin-bottom:0;}
+  .matrix-board{max-width:none;}
+  .t-before,.t-after{font-size:.9rem;}
+}
+@media (max-width: 720px){
+  .nav-links{
+    position:fixed;inset:78px 0 auto 0;
+    background:var(--offwhite);border-bottom:1px solid var(--stone);
+    flex-direction:column;align-items:flex-start;gap:0;
+    padding:10px var(--pad-x) 26px;
+    transform:translateY(-130%);transition:transform .3s ease;
+    max-height:calc(100vh - 78px);overflow-y:auto;
+  }
+  .nav-links.open{transform:none;}
+  .nav-links a{padding:14px 0;width:100%;}
+  .nav-cta{margin-top:14px;width:100%;}
+  .menu-toggle{display:block;}
+  .menu-toggle.open span:nth-child(1){transform:translateY(7.5px) rotate(45deg);}
+  .menu-toggle.open span:nth-child(2){opacity:0;}
+  .menu-toggle.open span:nth-child(3){transform:translateY(-7.5px) rotate(-45deg);}
+  .value-grid,.deliv-grid,.dash-grid,.trust-grid{grid-template-columns:1fr;}
+  .footer-grid{grid-template-columns:1fr;}
+  .hero-ctas .btn{width:100%;}
+  .t-row,.t-head-row{grid-template-columns:1fr;text-align:left;}
+  .t-arrow{display:none;}
+  .t-after{padding-left:0;border-top:1px dashed var(--stone);padding-top:14px;}
+  .matrix-axis-y{writing-mode:horizontal-tb;transform:none;justify-content:flex-start;margin-bottom:8px;}
+  .matrix-board{grid-template-columns:1fr;grid-template-rows:auto auto auto;}
+  .matrix-axis-y{grid-row:1;grid-column:1;}
+  .matrix-quadrants{grid-row:2;grid-column:1;grid-template-columns:1fr;}
+  .matrix-axis-x{grid-row:3;grid-column:1;text-align:left;}
+}
+</style>
+</head>
+<body>
+<a href="#main" class="skip-link">Saltar al contenido</a>
+
+<!-- ============ MONOGRAMA (placeholder) ============
+     Sustituir por el SVG/PNG oficial del Brand Kit.
+     Este símbolo aproxima los tres arcos dorados solo
+     como marcador de posición durante el desarrollo. -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="monogram" viewBox="0 0 100 100">
+    <g fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round">
+      <path d="M38 14 C22 26, 18 44, 24 62"/>
+      <path d="M40 34 C56 26, 74 30, 84 40"/>
+      <path d="M36 56 C52 48, 72 52, 82 64"/>
+      <path d="M46 78 C60 72, 74 74, 82 82"/>
+    </g>
+  </symbol>
+</svg>
+
+<!-- ============ HEADER ============ -->
+<header id="siteHeader">
+  <div class="wrap nav">
+    <a href="#" class="brand" aria-label="ELYRA CONSULTING — inicio">
+      <svg aria-hidden="true" style="color:#C6A36B"><use href="#monogram"/></svg>
+      <span class="brand-name">
+        <span class="wordmark">ELYRA</span>
+        <span class="descriptor">Consulting</span>
+      </span>
+    </a>
+    <nav class="nav-links" id="navLinks" aria-label="Navegación principal">
+      <a href="#nosotros">Nosotros</a>
+      <a href="#servicios">Servicios</a>
+      <a href="#metodologia">Metodología</a>
+      <a href="#insights">Perspectivas</a>
+      <a href="#contacto">Contacto</a>
+      <a href="#contacto" class="btn btn-primary nav-cta">Solicitar diagnóstico</a>
+    </nav>
+    <button class="menu-toggle" id="menuToggle" aria-label="Abrir menú" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<main id="main">
+
+<!-- ============ HERO ============ -->
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="eyebrow">Consultoría estratégica y financiera</p>
+      <h1>Claridad estratégica para empresas listas para crecer <span class="gold-italic">con dirección.</span></h1>
+      <p class="lead" style="margin-top:28px">Ayudamos a empresas en crecimiento a transformar la complejidad financiera y operativa en decisiones claras, prioridades estructuradas y progreso medible.</p>
+      <p class="hero-tagline">Strategy with Clarity. Execution with Precision.</p>
+      <div class="hero-ctas">
+        <a href="#contacto" class="btn btn-primary">Solicitar diagnóstico estratégico</a>
+        <a href="#metodologia" class="btn btn-outline">Conocer la metodología</a>
+      </div>
+    </div>
+
+    <div class="snapshot reveal" aria-hidden="true">
+      <svg class="watermark" aria-hidden="true" style="color:#C6A36B"><use href="#monogram"/></svg>
+      <div class="snapshot-head">
+        <span class="sh-tag">Strategic Diagnosis Snapshot</span>
+        <svg style="color:#C6A36B"><use href="#monogram"/></svg>
+      </div>
+      <div class="snapshot-metrics">
+        <div class="metric-row">
+          <span class="m-label">Margin Clarity</span>
+          <span class="m-status">Developing</span>
+          <div class="meter"><span style="--val:52%"></span></div>
+        </div>
+        <div class="metric-row">
+          <span class="m-label">Cost Structure</span>
+          <span class="m-status">Needs Review</span>
+          <div class="meter"><span style="--val:38%"></span></div>
+        </div>
+        <div class="metric-row">
+          <span class="m-label">Growth Priorities</span>
+          <span class="m-status">Defined</span>
+          <div class="meter"><span style="--val:74%"></span></div>
+        </div>
+        <div class="metric-row">
+          <span class="m-label">Decision Readiness</span>
+          <span class="m-status">Moderate</span>
+          <div class="meter"><span style="--val:61%"></span></div>
+        </div>
+      </div>
+      <div class="snap-position">
+        <p class="sp-label">Posición diagnosticada</p>
+        <div class="sp-body">
+          <div class="sp-grid">
+            <span></span><span></span><span></span><span class="active"></span>
+          </div>
+          <p class="sp-value">Strategic Focus<em>Claridad ganada, disciplina de ejecución en construcción</em></p>
+        </div>
+      </div>
+      <p class="snapshot-foot">Clarity. Structure. Growth.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ PROBLEM ============ -->
+<section class="dark" id="nosotros">
+  <div class="wrap problem-grid">
+    <div class="reveal">
+      <p class="eyebrow">El punto de partida</p>
+      <h2>Crecer sin claridad tiene un costo.</h2>
+      <p class="problem-note">Las ventas no equivalen a salud financiera. La actividad no equivale a estrategia.</p>
+    </div>
+    <ul class="pain-list reveal">
+      <li>La empresa crece, pero las decisiones se toman de forma reactiva, sin una ruta definida.</li>
+      <li>Hay ingresos, pero la rentabilidad real por línea, cliente o unidad no está clara.</li>
+      <li>Las métricas existen dispersas en reportes, no en un tablero que oriente la gestión.</li>
+      <li>Las prioridades compiten entre sí y la operación absorbe el tiempo directivo.</li>
+      <li>Los costos y gastos crecieron con el negocio, pero nadie ha revisado su estructura.</li>
+      <li>Se planea el siguiente año con intuición, no con un análisis disciplinado.</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============ DIAGNOSTIC MATRIX ============ -->
+<section class="matrix-section">
+  <div class="wrap">
+    <div class="matrix-head reveal">
+      <p class="eyebrow">Autodiagnóstico rápido</p>
+      <h2>¿En qué cuadrante está su empresa hoy?</h2>
+    </div>
+    <div class="matrix-layout">
+      <div class="reveal">
+        <p class="lead">Antes de proponer un alcance, ayudamos a la dirección a ubicar el punto de partida real del negocio. La mayoría de las empresas que atendemos se reconocen en uno de estos cuatro escenarios.</p>
+        <div class="matrix-note">
+          <p class="lead" style="font-size:.95rem">Un diagnóstico estratégico existe precisamente para mover a una empresa desde estos cuadrantes hacia una dirección escalable, con datos y no con intuición.</p>
+          <a href="#contacto" class="text-link" style="margin-top:18px;display:inline-flex">Ubicar mi empresa en el mapa</a>
+        </div>
+      </div>
+      <div class="matrix-board reveal">
+        <span class="matrix-axis-y">Execution Discipline</span>
+        <div class="matrix-quadrants">
+          <div class="quad quad-tl">
+            <h4>Operational Noise</h4>
+            <p>Alta actividad, baja claridad. El equipo ejecuta de forma constante, pero sin un criterio compartido de prioridad.</p>
+          </div>
+          <div class="quad quad-tr highlight">
+            <h4>Scalable Direction</h4>
+            <p>Claridad y disciplina de ejecución alineadas. El objetivo del proceso de diagnóstico y estructura de Elyra.</p>
+          </div>
+          <div class="quad quad-bl">
+            <h4>Reactive Growth</h4>
+            <p>El negocio crece, pero las decisiones responden a la urgencia del momento, no a una ruta definida.</p>
+          </div>
+          <div class="quad quad-br">
+            <h4>Strategic Focus</h4>
+            <p>Existe un diagnóstico claro; la disciplina de ejecución todavía se está consolidando.</p>
+          </div>
+        </div>
+        <span class="matrix-axis-x">Clarity</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ VALUE PROPOSITION ============ -->
+<section class="value">
+  <div class="wrap">
+    <div class="value-head reveal">
+      <p class="eyebrow">Qué aporta Elyra</p>
+      <h2>Empezamos por entender el negocio detrás de los números.</h2>
+      <p class="lead" style="margin-top:22px">Nuestro trabajo convierte información dispersa en criterio de decisión: un diagnóstico honesto, prioridades ordenadas por impacto y una ruta accionable para ejecutar con disciplina.</p>
+    </div>
+    <div class="value-grid reveal">
+      <div class="value-item">
+        <div class="vi-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.35-4.35"/></svg></div>
+        <h3>Diagnóstico con criterio</h3>
+        <p>Una lectura integral de la situación actual: finanzas, operación, modelo de negocio y retos reales, sin complejidad innecesaria.</p>
+      </div>
+      <div class="value-item">
+        <div class="vi-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.2"><path d="M4 19V5M4 19h16M8 15v-4M12 15V8M16 15v-6M20 15v-9"/></svg></div>
+        <h3>Claridad financiera</h3>
+        <p>Ingresos, costos, márgenes y fugas de dinero explicados en lenguaje ejecutivo, para saber exactamente dónde se gana y dónde se pierde.</p>
+      </div>
+      <div class="value-item">
+        <div class="vi-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.2"><path d="M12 3v18M12 3l-5 5M12 3l5 5"/><path d="M5 21h14"/></svg></div>
+        <h3>Dirección de crecimiento</h3>
+        <p>Prioridades estructuradas, un roadmap accionable y herramientas de medición para avanzar con precisión, no con impulso.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ BUSINESS CLARITY FRAMEWORK ============ -->
+<section class="dark framework" id="framework">
+  <svg class="watermark watermark-left" aria-hidden="true" style="color:#C6A36B"><use href="#monogram"/></svg>
+  <div class="wrap">
+    <div class="framework-head reveal">
+      <p class="eyebrow">Marco propio de Elyra</p>
+      <h2>Business Clarity Framework</h2>
+      <p class="lead" style="margin-top:22px">Cinco dimensiones que analizamos en cada compromiso, en el mismo orden, para que el diagnóstico sea comparable, completo y accionable.</p>
+    </div>
+    <div class="chain reveal">
+      <div class="chain-node">
+        <div class="chain-num">01</div>
+        <h3>Financial Performance</h3>
+        <p>Rentabilidad real, márgenes por línea y fugas de dinero identificadas.</p>
+      </div>
+      <div class="chain-node">
+        <div class="chain-num">02</div>
+        <h3>Operating Structure</h3>
+        <p>Procesos, eficiencia interna y cuellos de botella con impacto en resultados.</p>
+      </div>
+      <div class="chain-node">
+        <div class="chain-num">03</div>
+        <h3>Strategic Priorities</h3>
+        <p>Qué decisiones importan primero, ordenadas por impacto y factibilidad.</p>
+      </div>
+      <div class="chain-node">
+        <div class="chain-num">04</div>
+        <h3>Decision Tools</h3>
+        <p>Dashboards y métricas de gestión diseñados para el uso directivo real.</p>
+      </div>
+      <div class="chain-node">
+        <div class="chain-num">05</div>
+        <h3>Execution Roadmap</h3>
+        <p>Plan de acción con responsables, tiempos y seguimiento definido.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ BEFORE / AFTER ============ -->
+<section class="transform">
+  <div class="wrap">
+    <div class="transform-head reveal">
+      <p class="eyebrow">La transformación</p>
+      <h2>De la complejidad dispersa a la dirección estructurada.</h2>
+      <p class="lead" style="margin-top:22px">Sin prometer resultados irreales: esto es lo que cambia en la forma de gestionar el negocio una vez que existe un diagnóstico y una estructura de decisión.</p>
+    </div>
+    <div class="transform-table reveal">
+      <div class="t-head-row">
+        <span>Antes</span><span></span><span>Con Elyra</span>
+      </div>
+      <div class="t-row">
+        <div class="t-before">Información dispersa en reportes que nadie revisa a fondo.</div>
+        <div class="t-arrow">→</div>
+        <div class="t-after">Diagnóstico ejecutivo con hallazgos y prioridades claras.</div>
+      </div>
+      <div class="t-row">
+        <div class="t-before">Prioridades confusas que compiten entre sí cada semana.</div>
+        <div class="t-arrow">→</div>
+        <div class="t-after">Prioridades ordenadas por impacto y factibilidad real.</div>
+      </div>
+      <div class="t-row">
+        <div class="t-before">Costos y gastos sin una lectura clara de dónde se pierde.</div>
+        <div class="t-arrow">→</div>
+        <div class="t-after">Lectura financiera clara por línea, cliente o unidad.</div>
+      </div>
+      <div class="t-row">
+        <div class="t-before">Decisiones reactivas, tomadas bajo presión del momento.</div>
+        <div class="t-arrow">→</div>
+        <div class="t-after">Roadmap accionable con responsables y tiempos definidos.</div>
+      </div>
+      <div class="t-row">
+        <div class="t-before">Reportes que se generan, pero que la dirección no usa.</div>
+        <div class="t-arrow">→</div>
+        <div class="t-after">KPIs de gestión que sí se revisan y sostienen la disciplina.</div>
+      </div>
+    </div>
+    <div class="transform-cta reveal">
+      <a href="#contacto" class="text-link">Solicitar diagnóstico estratégico</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ SERVICES ============ -->
+<section class="services" id="servicios">
+  <div class="wrap">
+    <div class="services-head reveal">
+      <div>
+        <p class="eyebrow">Servicios</p>
+        <h2>Advisory boutique,<br>alcance corporativo.</h2>
+      </div>
+      <p class="lead" style="max-width:420px">Cinco líneas de servicio diseñadas para responder una sola pregunta: ¿qué decisiones debe tomar la empresa y con qué información?</p>
+    </div>
+
+    <article class="service reveal">
+      <div class="service-meta">
+        <span class="service-num">01</span>
+        <span class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.35-4.35"/></svg></span>
+        <p class="service-label">Diagnóstico</p>
+      </div>
+      <div>
+        <h3>Strategic Business Diagnosis</h3>
+        <p>Evaluación integral del negocio: situación actual, retos, oportunidades y prioridades. El punto de partida de cualquier trabajo serio de estrategia.</p>
+        <p class="service-problem"><span class="sp-tag">Problema que resuelve</span>No hay una lectura clara de dónde está el negocio hoy ni de qué debería resolverse primero.</p>
+      </div>
+      <div class="service-deliver">
+        <p class="sd-label">Entregable principal</p>
+        <p class="sd-value">Reporte ejecutivo de diagnóstico</p>
+        <ul class="service-scope">
+          <li>Mapa de retos y oportunidades</li>
+          <li>Prioridades ordenadas por impacto</li>
+        </ul>
+      </div>
+    </article>
+
+    <article class="service reveal">
+      <div class="service-meta">
+        <span class="service-num">02</span>
+        <span class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.2"><path d="M4 19V5M4 19h16M8 15v-4M12 15V8M16 15v-6M20 15v-9"/></svg></span>
+        <p class="service-label">Finanzas</p>
+      </div>
+      <div>
+        <h3>Financial Clarity &amp; Performance Review</h3>
+        <p>Análisis de ingresos, costos, gastos, rentabilidad y márgenes. Identificamos fugas de dinero y explicamos el desempeño financiero con claridad ejecutiva.</p>
+        <p class="service-problem"><span class="sp-tag">Problema que resuelve</span>Las ventas crecen, pero nadie sabe con certeza qué línea o cliente realmente deja utilidad.</p>
+      </div>
+      <div class="service-deliver">
+        <p class="sd-label">Entregable principal</p>
+        <p class="sd-value">Análisis financiero integral</p>
+        <ul class="service-scope">
+          <li>Rentabilidad por línea y unidad</li>
+          <li>Detección de fugas y desviaciones</li>
+        </ul>
+      </div>
+    </article>
+
+    <article class="service reveal">
+      <div class="service-meta">
+        <span class="service-num">03</span>
+        <span class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.2"><path d="M12 3v18M12 3l-5 5M12 3l5 5"/><path d="M5 21h14"/></svg></span>
+        <p class="service-label">Estrategia</p>
+      </div>
+      <div>
+        <h3>Growth Strategy &amp; Business Planning</h3>
+        <p>Estrategia de crecimiento, posicionamiento, revisión del modelo de negocio y rutas de expansión sustentadas en análisis, no en intuición.</p>
+        <p class="service-problem"><span class="sp-tag">Problema que resuelve</span>Existen varias rutas de crecimiento posibles, pero ninguna ha sido evaluada con criterio financiero.</p>
+      </div>
+      <div class="service-deliver">
+        <p class="sd-label">Entregable principal</p>
+        <p class="sd-value">Plan estratégico de crecimiento</p>
+        <ul class="service-scope">
+          <li>Revisión de modelo de negocio</li>
+          <li>Rutas de expansión evaluadas</li>
+        </ul>
+      </div>
+    </article>
+
+    <article class="service reveal">
+      <div class="service-meta">
+        <span class="service-num">04</span>
+        <span class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.2"><rect x="3" y="4" width="18" height="16" rx="1"/><path d="M3 10h18M9 10v10"/></svg></span>
+        <p class="service-label">Operación</p>
+      </div>
+      <div>
+        <h3>Operational Structure &amp; Process Review</h3>
+        <p>Revisión de procesos, eficiencia operativa y estructura interna. Identificamos cuellos de botella y oportunidades de mejora con impacto directo en resultados.</p>
+        <p class="service-problem"><span class="sp-tag">Problema que resuelve</span>La operación absorbe el tiempo directivo y nadie ha revisado si la estructura actual sigue teniendo sentido.</p>
+      </div>
+      <div class="service-deliver">
+        <p class="sd-label">Entregable principal</p>
+        <p class="sd-value">Diagnóstico de eficiencia operativa</p>
+        <ul class="service-scope">
+          <li>Mapeo de procesos clave</li>
+          <li>Recomendaciones de estructura</li>
+        </ul>
+      </div>
+    </article>
+
+    <article class="service reveal">
+      <div class="service-meta">
+        <span class="service-num">05</span>
+        <span class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.2"><path d="M4 20V10M12 20V4M20 20v-7"/></svg></span>
+        <p class="service-label">Decisión</p>
+      </div>
+      <div>
+        <h3>Executive Dashboards &amp; Decision Tools</h3>
+        <p>Dashboards, KPIs y herramientas de gestión diseñados para que la dirección tome decisiones con datos actualizados y métricas que sí importan.</p>
+        <p class="service-problem"><span class="sp-tag">Problema que resuelve</span>Existen reportes, pero ninguno se usa realmente para tomar decisiones en las reuniones directivas.</p>
+      </div>
+      <div class="service-deliver">
+        <p class="sd-label">Entregable principal</p>
+        <p class="sd-value">Dashboard ejecutivo de KPIs</p>
+        <ul class="service-scope">
+          <li>Definición de métricas de gestión</li>
+          <li>Herramientas de decisión a medida</li>
+        </ul>
+      </div>
+    </article>
+  </div>
+</section>
+
+<!-- ============ METHODOLOGY ============ -->
+<section class="dark method" id="metodologia">
+  <svg class="watermark watermark-right" aria-hidden="true" style="color:#C6A36B"><use href="#monogram"/></svg>
+  <div class="wrap">
+    <div class="method-head reveal">
+      <p class="eyebrow">Metodología</p>
+      <h2>Un método disciplinado, en cinco fases.</h2>
+      <p class="lead" style="margin-top:22px">Cada compromiso sigue la misma secuencia: entender antes de recomendar, estructurar antes de ejecutar, medir antes de escalar.</p>
+    </div>
+    <div class="steps">
+      <div class="step reveal">
+        <div class="step-num">01</div>
+        <h3>Diagnose</h3>
+        <div class="step-body">
+          <p>Analizamos finanzas, operación y contexto competitivo para entender la situación real del negocio, más allá de los síntomas.</p>
+          <p class="step-deliver">Reporte de diagnóstico ejecutivo</p>
+        </div>
+      </div>
+      <div class="step reveal">
+        <div class="step-num">02</div>
+        <h3>Structure</h3>
+        <div class="step-body">
+          <p>Ordenamos los hallazgos en un marco claro: qué está funcionando, qué no, y qué variables explican el desempeño actual.</p>
+          <p class="step-deliver">Marco estratégico y análisis financiero</p>
+        </div>
+      </div>
+      <div class="step reveal">
+        <div class="step-num">03</div>
+        <h3>Prioritize</h3>
+        <div class="step-body">
+          <p>Traducimos el análisis en prioridades concretas, ordenadas por impacto y factibilidad, con criterios explícitos de decisión.</p>
+          <p class="step-deliver">Prioridades y roadmap accionable</p>
+        </div>
+      </div>
+      <div class="step reveal">
+        <div class="step-num">04</div>
+        <h3>Execute</h3>
+        <div class="step-body">
+          <p>Acompañamos la implementación con planes de acción, responsables definidos y comunicación ejecutiva hacia el equipo directivo.</p>
+          <p class="step-deliver">Plan de acción y seguimiento</p>
+        </div>
+      </div>
+      <div class="step reveal">
+        <div class="step-num">05</div>
+        <h3>Measure</h3>
+        <div class="step-body">
+          <p>Establecemos KPIs y tableros de gestión para medir el progreso, corregir a tiempo y sostener la disciplina de ejecución.</p>
+          <p class="step-deliver">Dashboard de KPIs y revisión periódica</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ EXECUTIVE DASHBOARD PREVIEW ============ -->
+<section class="dark dashboard">
+  <div class="wrap">
+    <div class="dashboard-head reveal">
+      <div>
+        <p class="eyebrow">Vista previa de entregable</p>
+        <h2>Executive Dashboard Preview.</h2>
+      </div>
+      <p class="lead" style="max-width:420px">Así se estructura un tablero de gestión: pocas métricas, bien elegidas, listas para revisarse en cada reunión directiva.</p>
+    </div>
+    <div class="dash-grid reveal">
+      <div class="dash-tile">
+        <p class="d-label">Revenue Quality</p>
+        <p class="d-status">Concentrado en pocas líneas</p>
+        <div class="d-meter"><span style="width:46%"></span></div>
+      </div>
+      <div class="dash-tile">
+        <p class="d-label">Gross Margin</p>
+        <p class="d-status">Estable, con oportunidad</p>
+        <div class="d-meter"><span style="width:63%"></span></div>
+      </div>
+      <div class="dash-tile">
+        <p class="d-label">Operating Expense Ratio</p>
+        <p class="d-status">Por encima del óptimo</p>
+        <div class="d-meter"><span style="width:71%"></span></div>
+      </div>
+      <div class="dash-tile">
+        <p class="d-label">Cash Pressure</p>
+        <p class="d-status">Bajo control, monitorear</p>
+        <div class="d-meter"><span style="width:34%"></span></div>
+      </div>
+      <div class="dash-tile">
+        <p class="d-label">Priority Score</p>
+        <p class="d-status">Tres iniciativas críticas</p>
+        <div class="d-meter"><span style="width:80%"></span></div>
+      </div>
+      <div class="dash-tile">
+        <p class="d-label">Decision Readiness</p>
+        <p class="d-status">En consolidación</p>
+        <div class="d-meter"><span style="width:58%"></span></div>
+      </div>
+    </div>
+    <p class="dash-note reveal">Panel ilustrativo. Cada dashboard entregado a un cliente se construye con sus propios datos, métricas y objetivos de negocio.</p>
+  </div>
+</section>
+
+<!-- ============ WHY ELYRA ============ -->
+<section class="why">
+  <div class="wrap why-grid">
+    <div class="why-sticky reveal">
+      <p class="eyebrow">Por qué Elyra</p>
+      <h2>Una firma boutique, con estándar institucional.</h2>
+      <p class="lead" style="margin-top:22px">Trabajamos con pocas empresas a la vez. Cada compromiso recibe atención directa, análisis riguroso y entregables listos para presentarse en una mesa de decisión.</p>
+    </div>
+    <ul class="why-list reveal">
+      <li><strong>Claridad sin complejidad innecesaria</strong><span>Explicamos lo importante en lenguaje ejecutivo. La sofisticación está en el análisis, no en el vocabulario.</span></li>
+      <li><strong>Análisis con criterio de negocio</strong><span>Los números importan por lo que significan para la operación, el margen y la estrategia.</span></li>
+      <li><strong>Recomendaciones accionables</strong><span>Cada entregable termina en decisiones concretas: qué hacer, en qué orden y por qué.</span></li>
+      <li><strong>Enfoque financiero y estratégico</strong><span>Combinamos disciplina financiera con visión de crecimiento, en un mismo marco de trabajo.</span></li>
+      <li><strong>Servicio boutique y personalizado</strong><span>Atención directa del consultor responsable, sin capas intermedias ni soluciones genéricas.</span></li>
+      <li><strong>Entregables profesionales</strong><span>Reportes, modelos y presentaciones con calidad para consejo, banca o inversionistas.</span></li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============ DELIVERABLES ============ -->
+<section class="deliv">
+  <div class="wrap">
+    <div class="reveal" style="max-width:680px">
+      <p class="eyebrow">Entregables</p>
+      <h2>Lo que la empresa recibe.</h2>
+      <p class="lead" style="margin-top:22px">Documentos de trabajo reales, diseñados para usarse en la gestión diaria y en decisiones de alto nivel.</p>
+    </div>
+    <div class="deliv-grid reveal">
+      <div class="deliv-item">
+        <div class="di-mock lines"><span></span><span></span><span></span></div>
+        <p>Reporte ejecutivo de diagnóstico<span>Situación actual, hallazgos y conclusiones.</span></p>
+      </div>
+      <div class="deliv-item">
+        <div class="di-mock bars"><i style="height:40%"></i><i style="height:70%"></i><i style="height:55%"></i><i style="height:85%"></i><i style="height:30%"></i></div>
+        <p>Análisis financiero<span>Ingresos, costos, márgenes y rentabilidad.</span></p>
+      </div>
+      <div class="deliv-item">
+        <div class="di-mock tablegrid"><span class="on"></span><span></span><span></span><span></span><span></span><span class="on"></span><span></span><span></span></div>
+        <p>Roadmap estratégico<span>Ruta de crecimiento con horizontes definidos.</span></p>
+      </div>
+      <div class="deliv-item">
+        <div class="di-mock bars"><i style="height:60%"></i><i style="height:35%"></i><i style="height:90%"></i><i style="height:50%"></i></div>
+        <p>Dashboard de KPIs<span>Métricas de gestión en un solo tablero.</span></p>
+      </div>
+      <div class="deliv-item">
+        <div class="di-mock lines"><span></span><span></span><span></span></div>
+        <p>Plan de acción<span>Iniciativas, responsables y tiempos.</span></p>
+      </div>
+      <div class="deliv-item">
+        <div class="di-mock tablegrid"><span></span><span class="on"></span><span></span><span></span><span class="on"></span><span></span><span></span><span></span></div>
+        <p>Revisión de modelo de negocio<span>Estructura de valor, costos e ingresos.</span></p>
+      </div>
+      <div class="deliv-item">
+        <div class="di-mock cover"><span></span></div>
+        <p>Presentación para decisión<span>Material ejecutivo para consejo o socios.</span></p>
+      </div>
+      <div class="deliv-item">
+        <div class="di-mock lines"><span></span><span></span><span></span></div>
+        <p>Prioridades por impacto<span>Recomendaciones ordenadas y justificadas.</span></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ INSTITUTIONAL TRUST ============ -->
+<section class="dark trust">
+  <svg class="watermark watermark-right" aria-hidden="true" style="color:#C6A36B"><use href="#monogram"/></svg>
+  <div class="wrap">
+    <div class="trust-head reveal">
+      <p class="eyebrow">Principios de trabajo</p>
+      <h2>Lo que no cambia en cada compromiso.</h2>
+    </div>
+    <div class="trust-grid reveal">
+      <div class="trust-item">
+        <span class="ti-mark"></span>
+        <h4>Confidencialidad</h4>
+        <p>La información financiera y estratégica del cliente se maneja bajo estricta reserva profesional.</p>
+      </div>
+      <div class="trust-item">
+        <span class="ti-mark"></span>
+        <h4>Enfoque boutique</h4>
+        <p>Pocos clientes a la vez, para sostener atención directa del consultor responsable.</p>
+      </div>
+      <div class="trust-item">
+        <span class="ti-mark"></span>
+        <h4>Claridad ejecutiva</h4>
+        <p>Cada hallazgo se explica en lenguaje de negocio, sin tecnicismos innecesarios.</p>
+      </div>
+      <div class="trust-item">
+        <span class="ti-mark"></span>
+        <h4>Entregables listos para decisión</h4>
+        <p>Documentos y presentaciones con calidad para consejo, banca o inversionistas.</p>
+      </div>
+    </div>
+    <p class="trust-quote reveal">Every recommendation must be practical, measurable and aligned with the client's business reality.</p>
+  </div>
+</section>
+
+<!-- ============ TARGET CLIENTS ============ -->
+<section class="clients">
+  <div class="wrap clients-grid">
+    <div class="reveal">
+      <p class="eyebrow">Para quién trabajamos</p>
+      <h2>Empresas con operación real y decisiones pendientes.</h2>
+      <p class="clients-note">Si el negocio ya vende, ya opera y ya creció, pero las decisiones se sienten más difíciles que antes: ese es exactamente nuestro terreno.</p>
+    </div>
+    <ul class="client-tags reveal">
+      <li>PyMEs en crecimiento</li>
+      <li>Negocios familiares</li>
+      <li>Emprendedores con tracción</li>
+      <li>Restaurantes y grupos gastronómicos</li>
+      <li>Clínicas y servicios de salud</li>
+      <li>E-commerce</li>
+      <li>Agencias</li>
+      <li>Servicios profesionales</li>
+      <li>Empresas sin claridad financiera</li>
+      <li>Compañías en expansión</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============ STRATEGIC PERSPECTIVES ============ -->
+<section class="insights" id="insights">
+  <div class="wrap">
+    <div class="insights-head reveal">
+      <div>
+        <p class="eyebrow">Perspectivas estratégicas</p>
+        <h2>Decisiones que ayudamos a resolver.</h2>
+      </div>
+      <p class="lead" style="max-width:420px">No son artículos de blog: son las preguntas reales que la dirección se hace antes de llamar a un asesor externo.</p>
+    </div>
+    <div class="insight-grid">
+      <article class="insight reveal">
+        <p class="tag">Finanzas</p>
+        <h3>¿Por qué vender más no siempre significa ganar más?</h3>
+        <p>Vender más no siempre significa ganar más. Cómo leer el margen real de un negocio antes de acelerar el crecimiento.</p>
+        <a href="#contacto" class="text-link">Conversar sobre este reto</a>
+      </article>
+      <article class="insight reveal">
+        <p class="tag">Costos</p>
+        <h3>¿Qué costos están creciendo sin una lectura clara?</h3>
+        <p>Los costos crecen con el negocio, pero pocas veces se revisan con el mismo rigor que los ingresos.</p>
+        <a href="#contacto" class="text-link">Explorar en diagnóstico</a>
+      </article>
+      <article class="insight reveal">
+        <p class="tag">Estrategia</p>
+        <h3>¿Qué decisiones deben priorizarse antes de expandirse?</h3>
+        <p>Crecer sobre una estructura débil multiplica los problemas. Qué debe revisarse antes de invertir en expansión.</p>
+        <a href="#contacto" class="text-link">Conversar sobre este reto</a>
+      </article>
+      <article class="insight reveal">
+        <p class="tag">Decisiones</p>
+        <h3>¿Qué KPIs realmente necesita la dirección?</h3>
+        <p>Pocas métricas, bien elegidas, superan a cualquier reporte extenso. Cómo construir un tablero que sí se usa.</p>
+        <a href="#contacto" class="text-link">Explorar en diagnóstico</a>
+      </article>
+      <article class="insight reveal">
+        <p class="tag">Estructura</p>
+        <h3>¿Qué señales indican que el negocio necesita estructura?</h3>
+        <p>Reuniones que no terminan en decisiones y prioridades que cambian cada semana son señales tempranas de esto.</p>
+        <a href="#contacto" class="text-link">Conversar sobre este reto</a>
+      </article>
+      <article class="insight reveal">
+        <p class="tag">Rentabilidad</p>
+        <h3>¿Dónde exactamente se gana y se pierde dinero?</h3>
+        <p>Sin rentabilidad por línea, cliente o unidad, cualquier decisión de crecimiento se toma a ciegas.</p>
+        <a href="#contacto" class="text-link">Explorar en diagnóstico</a>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FINAL CTA / CONTACT ============ -->
+<section class="dark final" id="contacto">
+  <svg class="watermark watermark-center" aria-hidden="true" style="color:#C6A36B"><use href="#monogram"/></svg>
+  <div class="wrap">
+    <div class="final-inner">
+      <p class="eyebrow">Siguiente paso</p>
+      <h2>Convierta la complejidad de su negocio en dirección estratégica.</h2>
+      <p>El primer paso es un diagnóstico. Una conversación inicial nos permite entender la situación de su empresa y proponerle un alcance concreto.</p>
+      <div class="final-ctas">
+        <a href="mailto:contacto@elyraconsulting.com?subject=Solicitud%20de%20diagn%C3%B3stico%20estrat%C3%A9gico" class="btn btn-primary">Solicitar diagnóstico estratégico</a>
+        <a href="mailto:contacto@elyraconsulting.com?subject=Agendar%20consulta" class="btn btn-outline">Agendar una consulta</a>
+      </div>
+    </div>
+
+    <div class="contact-grid">
+      <form class="contact-form reveal" id="contactForm" novalidate>
+        <h3>Cuéntenos sobre su empresa</h3>
+        <p class="form-lead">Los campos marcados son necesarios para poder responder con un alcance concreto.</p>
+        <div class="form-row">
+          <label for="cf-name">Nombre</label>
+          <input type="text" id="cf-name" name="name" autocomplete="name" required>
+        </div>
+        <div class="form-row">
+          <label for="cf-company">Empresa</label>
+          <input type="text" id="cf-company" name="company" autocomplete="organization" required>
+        </div>
+        <div class="form-row">
+          <label for="cf-email">Correo electrónico</label>
+          <input type="email" id="cf-email" name="email" autocomplete="email" required>
+        </div>
+        <div class="form-row">
+          <label for="cf-message">Contexto breve del negocio</label>
+          <textarea id="cf-message" name="message" placeholder="Industria, tamaño aproximado y el reto principal que enfrenta hoy."></textarea>
+        </div>
+        <div class="form-actions">
+          <button type="submit" class="btn btn-primary">Enviar solicitud</button>
+          <span class="form-status" id="formStatus" role="status" aria-live="polite"></span>
+        </div>
+        <p class="form-fallback">También puede escribir directamente a <a href="mailto:contacto@elyraconsulting.com">contacto@elyraconsulting.com</a>.</p>
+      </form>
+
+      <div class="contact-steps reveal">
+        <h3>Qué sucede después</h3>
+        <div class="step-mini">
+          <span class="sm-num">01</span>
+          <p>Comparte el contexto de su negocio: industria, tamaño y el reto principal que enfrenta hoy.</p>
+        </div>
+        <div class="step-mini">
+          <span class="sm-num">02</span>
+          <p>Revisamos la situación y preparamos preguntas puntuales antes de la primera conversación.</p>
+        </div>
+        <div class="step-mini">
+          <span class="sm-num">03</span>
+          <p>Recibe un alcance propuesto: qué se analizaría, en cuánto tiempo y con qué entregables.</p>
+        </div>
+        <ul class="contact-trust">
+          <li>Respuesta en 24–48 horas hábiles.</li>
+          <li>La información compartida se trata de forma confidencial.</li>
+          <li>Sin costo ni compromiso en la primera conversación.</li>
+        </ul>
+        <p class="contact-agenda">¿Prefiere agendar directamente? <a href="#">Reservar un espacio en el calendario</a>.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ============ FOOTER ============ -->
+<footer>
+  <div class="wrap">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="#" class="brand" aria-label="ELYRA CONSULTING — inicio">
+          <svg aria-hidden="true" style="color:#C6A36B"><use href="#monogram"/></svg>
+          <span class="brand-name">
+            <span class="wordmark">ELYRA</span>
+            <span class="descriptor">Consulting</span>
+          </span>
+        </a>
+        <p class="tagline">Strategy with Clarity. Execution with Precision.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Firma</h4>
+        <ul>
+          <li><a href="#nosotros">Nosotros</a></li>
+          <li><a href="#framework">Framework</a></li>
+          <li><a href="#servicios">Servicios</a></li>
+          <li><a href="#metodologia">Metodología</a></li>
+          <li><a href="#insights">Perspectivas</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Contacto</h4>
+        <ul>
+          <li><a href="mailto:contacto@elyraconsulting.com">contacto@elyraconsulting.com</a></li>
+          <li><a href="https://www.linkedin.com" target="_blank" rel="noopener">LinkedIn</a></li>
+          <li><a href="#contacto">Solicitar diagnóstico</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2026 ELYRA CONSULTING. Todos los derechos reservados.</p>
+      <p class="motto">Clarity, structure and growth.</p>
+    </div>
+  </div>
+</footer>
+
+<script>
+// Sombra sutil del header al hacer scroll
+const header = document.getElementById('siteHeader');
+addEventListener('scroll', () => {
+  header.classList.toggle('scrolled', scrollY > 10);
+}, {passive:true});
+
+// Menú móvil
+const toggle = document.getElementById('menuToggle');
+const links = document.getElementById('navLinks');
+toggle.addEventListener('click', () => {
+  const open = links.classList.toggle('open');
+  toggle.classList.toggle('open', open);
+  toggle.setAttribute('aria-expanded', open);
+});
+links.querySelectorAll('a').forEach(a => a.addEventListener('click', () => {
+  links.classList.remove('open');
+  toggle.classList.remove('open');
+  toggle.setAttribute('aria-expanded', 'false');
+}));
+
+// Aparición suave al hacer scroll (respeta reduced motion)
+if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
+  const io = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add('visible'); io.unobserve(e.target); }
+    });
+  }, {threshold:.12});
+  document.querySelectorAll('.reveal').forEach(el => io.observe(el));
+} else {
+  document.querySelectorAll('.reveal').forEach(el => el.classList.add('visible'));
+}
+
+// Formulario de contacto: fallback vía mailto (sin backend)
+const contactForm = document.getElementById('contactForm');
+const formStatus = document.getElementById('formStatus');
+contactForm.addEventListener('submit', (e) => {
+  e.preventDefault();
+  if (!contactForm.checkValidity()) {
+    contactForm.reportValidity();
+    return;
+  }
+  const data = new FormData(contactForm);
+  const name = data.get('name');
+  const company = data.get('company');
+  const email = data.get('email');
+  const message = data.get('message') || '';
+  const subject = encodeURIComponent(`Solicitud de diagnóstico estratégico — ${company}`);
+  const body = encodeURIComponent(`Nombre: ${name}\nEmpresa: ${company}\nCorreo: ${email}\n\n${message}`);
+  formStatus.textContent = 'Abriendo su cliente de correo…';
+  window.location.href = `mailto:contacto@elyraconsulting.com?subject=${subject}&body=${body}`;
+});
+</script>
+</body>
+</html>
