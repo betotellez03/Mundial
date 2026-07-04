@@ -570,16 +570,19 @@ footer{background:#060606;color:var(--warmgray);padding:70px 0 36px;}
   .t-before,.t-after{font-size:.9rem;}
 }
 /* El menú colapsa a hamburguesa antes de que los enlaces desborden */
-@media (max-width: 940px){
+@media (max-width: 1000px){
   .nav-links{
     position:fixed;inset:78px 0 auto 0;
     background:var(--offwhite);border-bottom:1px solid var(--stone);
     flex-direction:column;align-items:flex-start;gap:0;
     padding:10px var(--pad-x) 26px;
-    transform:translateY(-130%);transition:transform .3s ease;
-    max-height:calc(100vh - 78px);overflow-y:auto;
+    transform:translateY(-130%);
+    visibility:hidden;
+    transition:transform .3s ease, visibility 0s linear .3s;
+    max-height:calc(100dvh - 78px);overflow-y:auto;
   }
-  .nav-links.open{transform:none;}
+  .nav-links.open{transform:none;visibility:visible;transition:transform .3s ease;}
+  body.menu-open{overflow:hidden;}
   .nav-links a{padding:14px 0;width:100%;}
   .nav-cta{margin-top:14px;width:100%;}
   .menu-toggle{display:block;}
@@ -1389,17 +1392,45 @@ addEventListener('scroll', () => {
 // Menú móvil
 const toggle = document.getElementById('menuToggle');
 const links = document.getElementById('navLinks');
-toggle.addEventListener('click', () => {
-  const open = links.classList.toggle('open');
+const desktopNav = matchMedia('(min-width: 1001px)');
+
+function setMenu(open){
+  links.classList.toggle('open', open);
   toggle.classList.toggle('open', open);
-  toggle.setAttribute('aria-expanded', open);
+  toggle.setAttribute('aria-expanded', String(open));
   toggle.setAttribute('aria-label', open ? 'Cerrar menú' : 'Abrir menú');
+  document.body.classList.toggle('menu-open', open);
+}
+
+toggle.addEventListener('click', () => {
+  const open = !links.classList.contains('open');
+  setMenu(open);
+  if (open) {
+    const first = links.querySelector('a');
+    if (first) first.focus({preventScroll:true});
+  }
 });
-links.querySelectorAll('a').forEach(a => a.addEventListener('click', () => {
-  links.classList.remove('open');
-  toggle.classList.remove('open');
-  toggle.setAttribute('aria-expanded', 'false');
-}));
+
+// Los enlaces cierran el menú al navegar
+links.querySelectorAll('a').forEach(a => a.addEventListener('click', () => setMenu(false)));
+
+// Escape cierra y devuelve el foco al botón
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && links.classList.contains('open')) {
+    setMenu(false);
+    toggle.focus();
+  }
+});
+
+// Tocar o hacer clic fuera del header cierra el menú
+document.addEventListener('click', (e) => {
+  if (links.classList.contains('open') && !e.target.closest('header')) setMenu(false);
+});
+
+// Si la ventana pasa a ancho de escritorio, el menú se resetea
+if (desktopNav.addEventListener) {
+  desktopNav.addEventListener('change', (e) => { if (e.matches) setMenu(false); });
+}
 
 // Aparición suave al hacer scroll (respeta reduced motion)
 if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
@@ -1431,6 +1462,10 @@ contactForm.addEventListener('submit', (e) => {
   const body = encodeURIComponent(`Nombre: ${name}\nEmpresa: ${company}\nCorreo: ${email}\n\n${message}`);
   formStatus.textContent = 'Abriendo su cliente de correo…';
   window.location.href = `mailto:contacto@elyraconsulting.com?subject=${subject}&body=${body}`;
+  // Si no hay cliente de correo configurado, ofrecer la vía directa
+  setTimeout(() => {
+    formStatus.textContent = '¿No se abrió su correo? Escriba directamente a contacto@elyraconsulting.com';
+  }, 3000);
 });
 </script>
 </body>
